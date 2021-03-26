@@ -879,6 +879,7 @@
       Mp153Shotgun,                                                      W,       4500,       1800
       Mp153Shotgun_black,                                                W,       4500,       1800
       R870,                                                              W,       5000,       2000
+      KOD_DrumShotgun,                                                   *,       8000,       3200
       KOD_VR80,                                                          W,       8000,       3200
       VEPR12,                                                            W,       8000,       3200
       VEPR12u,                                                           W,       8000,       3200
@@ -1137,7 +1138,6 @@
       Mag_KOD_VR80_30Rnd,                                                *,       1200,        480
       Mag_Saiga_8Rnd,                                                    *,       1200,        480
       Mag_Saiga_Drum20Rnd,                                               *,       1400,        560
-      KOD_DrumShotgun,                                                   *,       1600,        640
       Mag_KOD_ASH12_20Rnd,                                               *,       1600,        640
       Mag_KOD_DrumShotgun_30rnd,                                         *,       1700,        680
       Mag_vepr_35Rnd,                                                    *,       1800,        720
@@ -1270,7 +1270,6 @@
       Mag_KOD_VR80_30Rnd,                                                M,        600,        240
       Mag_Saiga_8Rnd,                                                    M,        600,        240
       Mag_Saiga_Drum20Rnd,                                               M,        700,        280
-      KOD_DrumShotgun,                                                   M,        800,        320
       Mag_KOD_ASH12_20Rnd,                                               M,        800,        320
       Mag_KOD_DrumShotgun_30rnd,                                         M,        850,        340
       Mag_vepr_35Rnd,                                                    M,        900,        360
@@ -1681,6 +1680,7 @@
       LeatherBelt_Natural,                                               *,        100,         40
       MilitaryBelt,                                                      *,        150,         60
       CivilianBelt,                                                      *,        250,        100
+      FP4_POAS_Bag,                                                      *,        600,        240
 
       ================================| COLDRES |=================================================================================,V,         -1,        -1
       ChestHolster,                                                      *,         60,         24
@@ -2224,57 +2224,68 @@
       WorkingBoots_Green,                                                *,         65,         26
 
 <Category> MOCHILAS
+      ================================| 100 SLOTS |===============================================================================,V,         -1,        -1
+      Msp_MedicBag_Blue,                                                 *,         -1,       1300
+      Msp_MedicBag_Green,                                                *,         -1,       1300
+      Msp_MedicBag_Red,                                                  *,         -1,       1300
+      CoyoteBag_Brown,                                                   *,         -1,       1400
+      CoyoteBag_Green,                                                   *,         -1,       1400
+      dzn_coyotebag_white,                                               *,         -1,       1400
+      MountainBag_Blue,                                                  *,         -1,       1400
+      MountainBag_Green,                                                 *,         -1,       1400
+      MountainBag_Orange,                                                *,         -1,       1400
+      MountainBag_Red,                                                   *,         -1,       1400
+
       ================================| 20 SLOTS |================================================================================,V,         -1,        -1
       WaterproofBag_Orange,                                              *,        100,         40
       WaterproofBag_Yellow,                                              *,        100,         40
       WaterproofBag_Green,                                               *,        110,         44
 
       ================================| 30 SLOTS |================================================================================,V,         -1,        -1
-      dzn_smershbackpack_black,                                          *,        100,         40
-      dzn_smershbackpack_white,                                          *,        100,         40
-      SmershBag,                                                         *,        100,         40
-      ChildBag_Blue,                                                     *,        300,        120
-      ChildBag_Green,                                                    *,        300,        120
-      ChildBag_Red,                                                      *,        300,        120
+      SmershBag,                                                         *,        600,        240
+
+      ================================| 36 SLOTS |================================================================================,V,         -1,        -1
+      ChildBag_Blue,                                                     *,        400,        160
+      ChildBag_Green,                                                    *,        400,        160
+      ChildBag_Red,                                                      *,        400,        160
 
       ================================| 42 SLOTS |================================================================================,V,         -1,        -1
-      TaloonBag_Blue,                                                    *,         50,         20
-      TaloonBag_Orange,                                                  *,         50,         20
-      TaloonBag_Violet,                                                  *,         50,         20
-      TaloonBag_Green,                                                   *,         70,         28
+      FP4_MESOK_Bag,                                                     *,        300,        120
+      dzn_smershbackpack_black,                                          *,        600,        240
+      dzn_smershbackpack_white,                                          *,        600,        240
+
+      ================================| 48 SLOTS |================================================================================,V,         -1,        -1
+      TaloonBag_Blue,                                                    *,        400,        160
+      TaloonBag_Green,                                                   *,        400,        160
+      TaloonBag_Orange,                                                  *,        400,        160
+      TaloonBag_Violet,                                                  *,        400,        160
 
       ================================| 63 SLOTS |================================================================================,V,         -1,        -1
-      dzn_bagtortilla_white,                                             *,        180,         72
-      TortillaBag,                                                       *,        180,         72
-      DryBag_Black,                                                      *,        300,        120
-      DryBag_Blue,                                                       *,        300,        120
-      DryBag_Green,                                                      *,        300,        120
-      DryBag_Orange,                                                     *,        300,        120
-      DryBag_Red,                                                        *,        300,        120
-      DryBag_Yellow,                                                     *,        300,        120
-      CoyoteBag_Brown,                                                   *,        600,        240
-      CoyoteBag_Green,                                                   *,        600,        240
-      dzn_coyotebag_white,                                               *,        600,        240
-      HuntingBag,                                                        *,        600,        240
+      FP4_Surv_Bag,                                                      *,        600,        240
+      FP4_Surv_Bag_green,                                                *,        600,        240
+      FP4_Surv_Bag_medical,                                              *,        600,        240
+      FP4_Surv_Bag_orange,                                               *,        600,        240
+      FP4_Surv_Bag_violet,                                               *,        600,        240
+      TortillaBag,                                                       *,        800,        320
+
+      ================================| 72 SLOTS |================================================================================,V,         -1,        -1
+      HuntingBag,                                                        *,        800,        320
+
+      ================================| 80 SLOTS |================================================================================,V,         -1,        -1
+      dzn_bagtortilla_white,                                             *,        850,        340
+
+      ================================| 81 SLOTS |================================================================================,V,         -1,        -1
+      DryBag_Black,                                                      *,        900,        360
+      DryBag_Blue,                                                       *,        900,        360
+      DryBag_Green,                                                      *,        900,        360
+      DryBag_Orange,                                                     *,        900,        360
+      DryBag_Red,                                                        *,        900,        360
+      DryBag_Yellow,                                                     *,        900,        360
 
       ================================| 90 SLOTS |================================================================================,V,         -1,        -1
-      MountainBag_Blue,                                                  *,        300,        120
-      MountainBag_Orange,                                                *,        300,        120
-      MountainBag_Red,                                                   *,        300,        120
-      MountainBag_Green,                                                 *,        360,        144
-      AliceBag_Black,                                                    *,       1500,        600
-      AliceBag_Camo,                                                     *,       1500,        600
-      AliceBag_Green,                                                    *,       1500,        600
-      dzn_alicebag_wintercamo,                                           *,       1500,        600
-
-      ================================| CATEGORIZAR |=============================================================================,V,         -1,        -1
-      FP4_MESOK_Bag,                                                     *,        300,        120
-      FP4_Surv_Bag,                                                      *,        500,        200
-      Msp_MedicBag_Blue,                                                 *,        800,        320
-      Msp_MedicBag_Green,                                                *,        800,        320
-      Msp_MedicBag_Red,                                                  *,        800,        320
-      FP4_POAS_Bag,                                                      *,       1700,        680
-      FP4_POHOD_Bag,                                                     *,       1700,        680
+      FP4_POHOD_Bag,                                                     *,       2000,        800
+      FP4_POHOD_Bag_black,                                               *,       2000,        800
+      FP4_POHOD_Green,                                                   *,       2000,        800
 
 <Category> NBC
       NBCGlovesGray,                                                     *,         65,         26
@@ -3069,128 +3080,147 @@
       Snipe_Mask_Uzor,                                                   *,        800,        320
 
 <Category> MOCHILAS
-      MilitaryGear_SmershBag_ATACS,                                      *,        250,        100
-      MilitaryGear_SmershBag_CADPAT,                                     *,        250,        100
-      MilitaryGear_SmershBag_DPM,                                        *,        250,        100
-      MilitaryGear_SmershBag_Duckhunter,                                 *,        250,        100
-      MilitaryGear_SmershBag_FLT,                                        *,        250,        100
-      MilitaryGear_SmershBag_MPAT,                                       *,        250,        100
-      MilitaryGear_SmershBag_Multicam,                                   *,        250,        100
-      MilitaryGear_SmershBag_Partizan,                                   *,        250,        100
-      MilitaryGear_SmershBag_PartizanM,                                  *,        250,        100
-      MilitaryGear_SmershBag_Skol,                                       *,        250,        100
-      MilitaryGear_SmershBag_Splinter,                                   *,        250,        100
-      MilitaryGear_SmershBag_Splinter_Dark,                              *,        250,        100
-      MilitaryGear_SmershBag_Tiger,                                      *,        250,        100
-      MilitaryGear_SmershBag_Tropic,                                     *,        250,        100
-      MilitaryGear_SmershBag_Woodland,                                   *,        250,        100
-      MilitaryGear_SmershBag_Yeger,                                      *,        250,        100
-      MilitaryGear_AssaultBag_ATACS,                                     *,        400,        160
-      MilitaryGear_AssaultBag_CADPAT,                                    *,        400,        160
-      MilitaryGear_AssaultBag_DPM,                                       *,        400,        160
-      MilitaryGear_AssaultBag_Duckhunter,                                *,        400,        160
-      MilitaryGear_AssaultBag_FLT,                                       *,        400,        160
-      MilitaryGear_AssaultBag_MPAT,                                      *,        400,        160
-      MilitaryGear_AssaultBag_Multicam,                                  *,        400,        160
-      MilitaryGear_AssaultBag_Partizan,                                  *,        400,        160
-      MilitaryGear_AssaultBag_PartizanM,                                 *,        400,        160
-      MilitaryGear_AssaultBag_Skol,                                      *,        400,        160
-      MilitaryGear_AssaultBag_Splinter,                                  *,        400,        160
-      MilitaryGear_AssaultBag_Splinter_Dark,                             *,        400,        160
-      MilitaryGear_AssaultBag_Tiger,                                     *,        400,        160
-      MilitaryGear_AssaultBag_Tropic,                                    *,        400,        160
-      MilitaryGear_AssaultBag_Woodland,                                  *,        400,        160
-      MilitaryGear_AssaultBag_Yeger,                                     *,        400,        160
-      MilitaryGear_CoyoteBag_ATACS,                                      *,        440,        176
-      MilitaryGear_CoyoteBag_CADPAT,                                     *,        440,        176
-      MilitaryGear_CoyoteBag_DPM,                                        *,        440,        176
-      MilitaryGear_CoyoteBag_Duckhunter,                                 *,        440,        176
-      MilitaryGear_CoyoteBag_FLT,                                        *,        440,        176
-      MilitaryGear_CoyoteBag_MPAT,                                       *,        440,        176
-      MilitaryGear_CoyoteBag_Multicam,                                   *,        440,        176
-      MilitaryGear_CoyoteBag_Partizan,                                   *,        440,        176
-      MilitaryGear_CoyoteBag_PartizanM,                                  *,        440,        176
-      MilitaryGear_CoyoteBag_Skol,                                       *,        440,        176
-      MilitaryGear_CoyoteBag_Splinter,                                   *,        440,        176
-      MilitaryGear_CoyoteBag_Splinter_Dark,                              *,        440,        176
-      MilitaryGear_CoyoteBag_Tiger,                                      *,        440,        176
-      MilitaryGear_CoyoteBag_Tropic,                                     *,        440,        176
-      MilitaryGear_CoyoteBag_Woodland,                                   *,        440,        176
-      MilitaryGear_CoyoteBag_Yeger,                                      *,        440,        176
-      MilitaryGear_TortillaBag_ATACS,                                    *,        440,        176
-      MilitaryGear_TortillaBag_CADPAT,                                   *,        440,        176
-      MilitaryGear_TortillaBag_DPM,                                      *,        440,        176
-      MilitaryGear_TortillaBag_Duckhunter,                               *,        440,        176
-      MilitaryGear_TortillaBag_FLT,                                      *,        440,        176
-      MilitaryGear_TortillaBag_MPAT,                                     *,        440,        176
-      MilitaryGear_TortillaBag_Multicam,                                 *,        440,        176
-      MilitaryGear_TortillaBag_Partizan,                                 *,        440,        176
-      MilitaryGear_TortillaBag_PartizanM,                                *,        440,        176
-      MilitaryGear_TortillaBag_Skol,                                     *,        440,        176
-      MilitaryGear_TortillaBag_Splinter,                                 *,        440,        176
-      MilitaryGear_TortillaBag_Splinter_Dark,                            *,        440,        176
-      MilitaryGear_TortillaBag_Tiger,                                    *,        440,        176
-      MilitaryGear_TortillaBag_Tropic,                                   *,        440,        176
-      MilitaryGear_TortillaBag_Woodland,                                 *,        440,        176
-      MilitaryGear_TortillaBag_Yeger,                                    *,        440,        176
-      FP4_TacticalBag_Black,                                             *,        500,        200
-      FP4_TacticalBag_green,                                             *,        500,        200
-      FP4_TacticalBag_Tan,                                               *,        500,        200
-      MilitaryGear_HuntingBag_ATACS,                                     *,        500,        200
-      MilitaryGear_HuntingBag_CADPAT,                                    *,        500,        200
-      MilitaryGear_HuntingBag_DPM,                                       *,        500,        200
-      MilitaryGear_HuntingBag_Duckhunter,                                *,        500,        200
-      MilitaryGear_HuntingBag_FLT,                                       *,        500,        200
-      MilitaryGear_HuntingBag_MPAT,                                      *,        500,        200
-      MilitaryGear_HuntingBag_Multicam,                                  *,        500,        200
-      MilitaryGear_HuntingBag_Partizan,                                  *,        500,        200
-      MilitaryGear_HuntingBag_PartizanM,                                 *,        500,        200
-      MilitaryGear_HuntingBag_Skol,                                      *,        500,        200
-      MilitaryGear_HuntingBag_Splinter,                                  *,        500,        200
-      MilitaryGear_HuntingBag_Splinter_Dark,                             *,        500,        200
-      MilitaryGear_HuntingBag_Tiger,                                     *,        500,        200
-      MilitaryGear_HuntingBag_Tropic,                                    *,        500,        200
-      MilitaryGear_HuntingBag_Woodland,                                  *,        500,        200
-      MilitaryGear_HuntingBag_Yeger,                                     *,        500,        200
-      MilitaryGear_MountainBag_ATACS,                                    *,        560,        224
-      MilitaryGear_MountainBag_CADPAT,                                   *,        560,        224
-      MilitaryGear_MountainBag_DPM,                                      *,        560,        224
-      MilitaryGear_MountainBag_Duckhunter,                               *,        560,        224
-      MilitaryGear_MountainBag_FLT,                                      *,        560,        224
-      MilitaryGear_MountainBag_MPAT,                                     *,        560,        224
-      MilitaryGear_MountainBag_Multicam,                                 *,        560,        224
-      MilitaryGear_MountainBag_Partizan,                                 *,        560,        224
-      MilitaryGear_MountainBag_PartizanM,                                *,        560,        224
-      MilitaryGear_MountainBag_Skol,                                     *,        560,        224
-      MilitaryGear_MountainBag_Splinter,                                 *,        560,        224
-      MilitaryGear_MountainBag_Splinter_Dark,                            *,        560,        224
-      MilitaryGear_MountainBag_Tiger,                                    *,        560,        224
-      MilitaryGear_MountainBag_Tropic,                                   *,        560,        224
-      MilitaryGear_MountainBag_Woodland,                                 *,        560,        224
-      MilitaryGear_MountainBag_Yeger,                                    *,        560,        224
-      FP4_LesnikBag,                                                     *,        600,        240
-      MilitaryGear_AliceBag_ATACS,                                       *,        600,        240
-      MilitaryGear_AliceBag_CADPAT,                                      *,        600,        240
-      MilitaryGear_AliceBag_DPM,                                         *,        600,        240
-      MilitaryGear_AliceBag_Duckhunter,                                  *,        600,        240
-      MilitaryGear_AliceBag_FLT,                                         *,        600,        240
-      MilitaryGear_AliceBag_MPAT,                                        *,        600,        240
-      MilitaryGear_AliceBag_Multicam,                                    *,        600,        240
-      MilitaryGear_AliceBag_Partizan,                                    *,        600,        240
-      MilitaryGear_AliceBag_PartizanM,                                   *,        600,        240
-      MilitaryGear_AliceBag_Skol,                                        *,        600,        240
-      MilitaryGear_AliceBag_Splinter,                                    *,        600,        240
-      MilitaryGear_AliceBag_Splinter_Dark,                               *,        600,        240
-      MilitaryGear_AliceBag_Tiger,                                       *,        600,        240
-      MilitaryGear_AliceBag_Tropic,                                      *,        600,        240
-      MilitaryGear_AliceBag_Woodland,                                    *,        600,        240
-      MilitaryGear_AliceBag_Yeger,                                       *,        600,        240
-      AssaultBag_Black,                                                  *,        800,        320
-      AssaultBag_Green,                                                  *,        800,        320
-      AssaultBag_Ttsko,                                                  *,        800,        320
-      dzn_assaultbag_winter,                                             *,        800,        320
+      ================================| 100 SLOTS |===============================================================================,V,         -1,        -1
+      MilitaryGear_HuntingBag_Yeger,                                     *,        900,        360
+      MilitaryGear_CoyoteBag_ATACS,                                      *,         -1,       1400
+      MilitaryGear_CoyoteBag_CADPAT,                                     *,         -1,       1400
+      MilitaryGear_CoyoteBag_DPM,                                        *,         -1,       1400
+      MilitaryGear_CoyoteBag_Duckhunter,                                 *,         -1,       1400
+      MilitaryGear_CoyoteBag_FLT,                                        *,         -1,       1400
+      MilitaryGear_CoyoteBag_MPAT,                                       *,         -1,       1400
+      MilitaryGear_CoyoteBag_Multicam,                                   *,         -1,       1400
+      MilitaryGear_CoyoteBag_Partizan,                                   *,         -1,       1400
+      MilitaryGear_CoyoteBag_PartizanM,                                  *,         -1,       1400
+      MilitaryGear_CoyoteBag_Skol,                                       *,         -1,       1400
+      MilitaryGear_CoyoteBag_Splinter,                                   *,         -1,       1400
+      MilitaryGear_CoyoteBag_Splinter_Dark,                              *,         -1,       1400
+      MilitaryGear_CoyoteBag_Tiger,                                      *,         -1,       1400
+      MilitaryGear_CoyoteBag_Tropic,                                     *,         -1,       1400
+      MilitaryGear_CoyoteBag_Woodland,                                   *,         -1,       1400
+      MilitaryGear_CoyoteBag_Yeger,                                      *,         -1,       1400
+      MilitaryGear_MountainBag_ATACS,                                    *,      14000,       5600
+      MilitaryGear_MountainBag_CADPAT,                                   *,      14000,       5600
+      MilitaryGear_MountainBag_DPM,                                      *,      14000,       5600
+      MilitaryGear_MountainBag_Duckhunter,                               *,      14000,       5600
+      MilitaryGear_MountainBag_FLT,                                      *,      14000,       5600
+      MilitaryGear_MountainBag_MPAT,                                     *,      14000,       5600
+      MilitaryGear_MountainBag_Multicam,                                 *,      14000,       5600
+      MilitaryGear_MountainBag_Partizan,                                 *,      14000,       5600
+      MilitaryGear_MountainBag_PartizanM,                                *,      14000,       5600
+      MilitaryGear_MountainBag_Skol,                                     *,      14000,       5600
+      MilitaryGear_MountainBag_Splinter,                                 *,      14000,       5600
+      MilitaryGear_MountainBag_Splinter_Dark,                            *,      14000,       5600
+      MilitaryGear_MountainBag_Tiger,                                    *,      14000,       5600
+      MilitaryGear_MountainBag_Tropic,                                   *,      14000,       5600
+      MilitaryGear_MountainBag_Woodland,                                 *,      14000,       5600
+      MilitaryGear_MountainBag_Yeger,                                    *,      14000,       5600
+
+      ================================| 120 SLOTS |===============================================================================,V,         -1,        -1
+      AliceBag_Black,                                                    *,         -1,       1450
+      AliceBag_Camo,                                                     *,         -1,       1450
+      AliceBag_Green,                                                    *,         -1,       1450
+      dzn_alicebag_wintercamo,                                           *,         -1,       1450
+      MilitaryGear_AliceBag_ATACS,                                       *,         -1,       1450
+      MilitaryGear_AliceBag_CADPAT,                                      *,         -1,       1450
+      MilitaryGear_AliceBag_DPM,                                         *,         -1,       1450
+      MilitaryGear_AliceBag_Duckhunter,                                  *,         -1,       1450
+      MilitaryGear_AliceBag_FLT,                                         *,         -1,       1450
+      MilitaryGear_AliceBag_MPAT,                                        *,         -1,       1450
+      MilitaryGear_AliceBag_Multicam,                                    *,         -1,       1450
+      MilitaryGear_AliceBag_Partizan,                                    *,         -1,       1450
+      MilitaryGear_AliceBag_PartizanM,                                   *,         -1,       1450
+      MilitaryGear_AliceBag_Skol,                                        *,         -1,       1450
+      MilitaryGear_AliceBag_Splinter,                                    *,         -1,       1450
+      MilitaryGear_AliceBag_Splinter_Dark,                               *,         -1,       1450
+      MilitaryGear_AliceBag_Tiger,                                       *,         -1,       1450
+      MilitaryGear_AliceBag_Tropic,                                      *,         -1,       1450
+      MilitaryGear_AliceBag_Woodland,                                    *,         -1,       1450
+      MilitaryGear_AliceBag_Yeger,                                       *,         -1,       1450
+
+      ================================| 126 SLOTS |===============================================================================,V,         -1,        -1
       FP4_HuntingTOP_Bag,                                                *,         -1,       1500
       FP4_HuntingTOP_Bag_BLACK,                                          *,         -1,       1500
+
+      ================================| 42 SLOTS |================================================================================,V,         -1,        -1
+      MilitaryGear_SmershBag_ATACS,                                      *,        600,        240
+      MilitaryGear_SmershBag_CADPAT,                                     *,        600,        240
+      MilitaryGear_SmershBag_DPM,                                        *,        600,        240
+      MilitaryGear_SmershBag_Duckhunter,                                 *,        600,        240
+      MilitaryGear_SmershBag_FLT,                                        *,        600,        240
+      MilitaryGear_SmershBag_MPAT,                                       *,        600,        240
+      MilitaryGear_SmershBag_Multicam,                                   *,        600,        240
+      MilitaryGear_SmershBag_Partizan,                                   *,        600,        240
+      MilitaryGear_SmershBag_PartizanM,                                  *,        600,        240
+      MilitaryGear_SmershBag_Skol,                                       *,        600,        240
+      MilitaryGear_SmershBag_Splinter,                                   *,        600,        240
+      MilitaryGear_SmershBag_Splinter_Dark,                              *,        600,        240
+      MilitaryGear_SmershBag_Tiger,                                      *,        600,        240
+      MilitaryGear_SmershBag_Tropic,                                     *,        600,        240
+      MilitaryGear_SmershBag_Woodland,                                   *,        600,        240
+      MilitaryGear_SmershBag_Yeger,                                      *,        600,        240
+
+      ================================| 56 SLOTS |================================================================================,V,         -1,        -1
+      FP4_TacticalBag_Black,                                             *,        900,        360
+      FP4_TacticalBag_green,                                             *,        900,        360
+      FP4_TacticalBag_Tan,                                               *,        900,        360
+
+      ================================| 72 SLOTS |================================================================================,V,         -1,        -1
+      MilitaryGear_HuntingBag_ATACS,                                     *,        900,        360
+      MilitaryGear_HuntingBag_CADPAT,                                    *,        900,        360
+      MilitaryGear_HuntingBag_DPM,                                       *,        900,        360
+      MilitaryGear_HuntingBag_Duckhunter,                                *,        900,        360
+      MilitaryGear_HuntingBag_FLT,                                       *,        900,        360
+      MilitaryGear_HuntingBag_MPAT,                                      *,        900,        360
+      MilitaryGear_HuntingBag_Multicam,                                  *,        900,        360
+      MilitaryGear_HuntingBag_Partizan,                                  *,        900,        360
+      MilitaryGear_HuntingBag_PartizanM,                                 *,        900,        360
+      MilitaryGear_HuntingBag_Skol,                                      *,        900,        360
+      MilitaryGear_HuntingBag_Splinter,                                  *,        900,        360
+      MilitaryGear_HuntingBag_Splinter_Dark,                             *,        900,        360
+      MilitaryGear_HuntingBag_Tiger,                                     *,        900,        360
+      MilitaryGear_HuntingBag_Tropic,                                    *,        900,        360
+      MilitaryGear_HuntingBag_Woodland,                                  *,        900,        360
+
+      ================================| 80 SLOTS |================================================================================,V,         -1,        -1
+      MilitaryGear_TortillaBag_ATACS,                                    *,        800,        320
+      MilitaryGear_TortillaBag_CADPAT,                                   *,        800,        320
+      MilitaryGear_TortillaBag_DPM,                                      *,        800,        320
+      MilitaryGear_TortillaBag_Duckhunter,                               *,        800,        320
+      MilitaryGear_TortillaBag_FLT,                                      *,        800,        320
+      MilitaryGear_TortillaBag_MPAT,                                     *,        800,        320
+      MilitaryGear_TortillaBag_Multicam,                                 *,        800,        320
+      MilitaryGear_TortillaBag_Partizan,                                 *,        800,        320
+      MilitaryGear_TortillaBag_PartizanM,                                *,        800,        320
+      MilitaryGear_TortillaBag_Skol,                                     *,        800,        320
+      MilitaryGear_TortillaBag_Splinter,                                 *,        800,        320
+      MilitaryGear_TortillaBag_Splinter_Dark,                            *,        800,        320
+      MilitaryGear_TortillaBag_Tiger,                                    *,        800,        320
+      MilitaryGear_TortillaBag_Tropic,                                   *,        800,        320
+      MilitaryGear_TortillaBag_Woodland,                                 *,        800,        320
+      MilitaryGear_TortillaBag_Yeger,                                    *,        800,        320
+
+      ================================| 81 SLOTS |================================================================================,V,         -1,        -1
+      AssaultBag_Black,                                                  *,        900,        360
+      AssaultBag_Green,                                                  *,        900,        360
+      AssaultBag_Ttsko,                                                  *,        900,        360
+      dzn_assaultbag_winter,                                             *,        900,        360
+      FP4_LesnikBag,                                                     *,        900,        360
+      MilitaryGear_AssaultBag_ATACS,                                     *,       1000,        400
+      MilitaryGear_AssaultBag_CADPAT,                                    *,       1000,        400
+      MilitaryGear_AssaultBag_DPM,                                       *,       1000,        400
+      MilitaryGear_AssaultBag_Duckhunter,                                *,       1000,        400
+      MilitaryGear_AssaultBag_FLT,                                       *,       1000,        400
+      MilitaryGear_AssaultBag_MPAT,                                      *,       1000,        400
+      MilitaryGear_AssaultBag_Multicam,                                  *,       1000,        400
+      MilitaryGear_AssaultBag_Partizan,                                  *,       1000,        400
+      MilitaryGear_AssaultBag_PartizanM,                                 *,       1000,        400
+      MilitaryGear_AssaultBag_Skol,                                      *,       1000,        400
+      MilitaryGear_AssaultBag_Splinter,                                  *,       1000,        400
+      MilitaryGear_AssaultBag_Splinter_Dark,                             *,       1000,        400
+      MilitaryGear_AssaultBag_Tiger,                                     *,       1000,        400
+      MilitaryGear_AssaultBag_Tropic,                                    *,       1000,        400
+      MilitaryGear_AssaultBag_Woodland,                                  *,       1000,        400
+      MilitaryGear_AssaultBag_Yeger,                                     *,       1000,        400
 
 <Category> TAGS
       FP4_Nakl_AimENABLE,                                                *,        500,        200
@@ -3802,6 +3832,7 @@
       Mp153Shotgun,                                                      W,       4050,       3150
       Mp153Shotgun_black,                                                W,       4050,       3150
       R870,                                                              W,       4500,       3500
+      KOD_DrumShotgun,                                                   *,       7200,       5600
       KOD_VR80,                                                          W,       7200,       5600
       VEPR12,                                                            W,       7200,       5600
       VEPR12u,                                                           W,       7200,       5600
@@ -4060,7 +4091,6 @@
       Mag_KOD_VR80_30Rnd,                                                *,       1080,        840
       Mag_Saiga_8Rnd,                                                    *,       1080,        840
       Mag_Saiga_Drum20Rnd,                                               *,       1260,        980
-      KOD_DrumShotgun,                                                   *,       1440,       1120
       Mag_KOD_ASH12_20Rnd,                                               *,       1440,       1120
       Mag_KOD_DrumShotgun_30rnd,                                         *,       1530,       1190
       Mag_vepr_35Rnd,                                                    *,       1620,       1260
@@ -4193,7 +4223,6 @@
       Mag_KOD_VR80_30Rnd,                                                M,        540,        420
       Mag_Saiga_8Rnd,                                                    M,        540,        420
       Mag_Saiga_Drum20Rnd,                                               M,        630,        490
-      KOD_DrumShotgun,                                                   M,        720,        560
       Mag_KOD_ASH12_20Rnd,                                               M,        720,        560
       Mag_KOD_DrumShotgun_30rnd,                                         M,        765,        595
       Mag_vepr_35Rnd,                                                    M,        810,        630
@@ -5317,128 +5346,147 @@
       Snipe_Mask_Uzor,                                                   *,        720,        560
 
 <Category> MOCHILAS
-      MilitaryGear_SmershBag_ATACS,                                      *,        225,        175
-      MilitaryGear_SmershBag_CADPAT,                                     *,        225,        175
-      MilitaryGear_SmershBag_DPM,                                        *,        225,        175
-      MilitaryGear_SmershBag_Duckhunter,                                 *,        225,        175
-      MilitaryGear_SmershBag_FLT,                                        *,        225,        175
-      MilitaryGear_SmershBag_MPAT,                                       *,        225,        175
-      MilitaryGear_SmershBag_Multicam,                                   *,        225,        175
-      MilitaryGear_SmershBag_Partizan,                                   *,        225,        175
-      MilitaryGear_SmershBag_PartizanM,                                  *,        225,        175
-      MilitaryGear_SmershBag_Skol,                                       *,        225,        175
-      MilitaryGear_SmershBag_Splinter,                                   *,        225,        175
-      MilitaryGear_SmershBag_Splinter_Dark,                              *,        225,        175
-      MilitaryGear_SmershBag_Tiger,                                      *,        225,        175
-      MilitaryGear_SmershBag_Tropic,                                     *,        225,        175
-      MilitaryGear_SmershBag_Woodland,                                   *,        225,        175
-      MilitaryGear_SmershBag_Yeger,                                      *,        225,        175
-      MilitaryGear_AssaultBag_ATACS,                                     *,        360,        280
-      MilitaryGear_AssaultBag_CADPAT,                                    *,        360,        280
-      MilitaryGear_AssaultBag_DPM,                                       *,        360,        280
-      MilitaryGear_AssaultBag_Duckhunter,                                *,        360,        280
-      MilitaryGear_AssaultBag_FLT,                                       *,        360,        280
-      MilitaryGear_AssaultBag_MPAT,                                      *,        360,        280
-      MilitaryGear_AssaultBag_Multicam,                                  *,        360,        280
-      MilitaryGear_AssaultBag_Partizan,                                  *,        360,        280
-      MilitaryGear_AssaultBag_PartizanM,                                 *,        360,        280
-      MilitaryGear_AssaultBag_Skol,                                      *,        360,        280
-      MilitaryGear_AssaultBag_Splinter,                                  *,        360,        280
-      MilitaryGear_AssaultBag_Splinter_Dark,                             *,        360,        280
-      MilitaryGear_AssaultBag_Tiger,                                     *,        360,        280
-      MilitaryGear_AssaultBag_Tropic,                                    *,        360,        280
-      MilitaryGear_AssaultBag_Woodland,                                  *,        360,        280
-      MilitaryGear_AssaultBag_Yeger,                                     *,        360,        280
-      MilitaryGear_CoyoteBag_ATACS,                                      *,        396,        308
-      MilitaryGear_CoyoteBag_CADPAT,                                     *,        396,        308
-      MilitaryGear_CoyoteBag_DPM,                                        *,        396,        308
-      MilitaryGear_CoyoteBag_Duckhunter,                                 *,        396,        308
-      MilitaryGear_CoyoteBag_FLT,                                        *,        396,        308
-      MilitaryGear_CoyoteBag_MPAT,                                       *,        396,        308
-      MilitaryGear_CoyoteBag_Multicam,                                   *,        396,        308
-      MilitaryGear_CoyoteBag_Partizan,                                   *,        396,        308
-      MilitaryGear_CoyoteBag_PartizanM,                                  *,        396,        308
-      MilitaryGear_CoyoteBag_Skol,                                       *,        396,        308
-      MilitaryGear_CoyoteBag_Splinter,                                   *,        396,        308
-      MilitaryGear_CoyoteBag_Splinter_Dark,                              *,        396,        308
-      MilitaryGear_CoyoteBag_Tiger,                                      *,        396,        308
-      MilitaryGear_CoyoteBag_Tropic,                                     *,        396,        308
-      MilitaryGear_CoyoteBag_Woodland,                                   *,        396,        308
-      MilitaryGear_CoyoteBag_Yeger,                                      *,        396,        308
-      MilitaryGear_TortillaBag_ATACS,                                    *,        396,        308
-      MilitaryGear_TortillaBag_CADPAT,                                   *,        396,        308
-      MilitaryGear_TortillaBag_DPM,                                      *,        396,        308
-      MilitaryGear_TortillaBag_Duckhunter,                               *,        396,        308
-      MilitaryGear_TortillaBag_FLT,                                      *,        396,        308
-      MilitaryGear_TortillaBag_MPAT,                                     *,        396,        308
-      MilitaryGear_TortillaBag_Multicam,                                 *,        396,        308
-      MilitaryGear_TortillaBag_Partizan,                                 *,        396,        308
-      MilitaryGear_TortillaBag_PartizanM,                                *,        396,        308
-      MilitaryGear_TortillaBag_Skol,                                     *,        396,        308
-      MilitaryGear_TortillaBag_Splinter,                                 *,        396,        308
-      MilitaryGear_TortillaBag_Splinter_Dark,                            *,        396,        308
-      MilitaryGear_TortillaBag_Tiger,                                    *,        396,        308
-      MilitaryGear_TortillaBag_Tropic,                                   *,        396,        308
-      MilitaryGear_TortillaBag_Woodland,                                 *,        396,        308
-      MilitaryGear_TortillaBag_Yeger,                                    *,        396,        308
-      FP4_TacticalBag_Black,                                             *,        450,        350
-      FP4_TacticalBag_green,                                             *,        450,        350
-      FP4_TacticalBag_Tan,                                               *,        450,        350
-      MilitaryGear_HuntingBag_ATACS,                                     *,        450,        350
-      MilitaryGear_HuntingBag_CADPAT,                                    *,        450,        350
-      MilitaryGear_HuntingBag_DPM,                                       *,        450,        350
-      MilitaryGear_HuntingBag_Duckhunter,                                *,        450,        350
-      MilitaryGear_HuntingBag_FLT,                                       *,        450,        350
-      MilitaryGear_HuntingBag_MPAT,                                      *,        450,        350
-      MilitaryGear_HuntingBag_Multicam,                                  *,        450,        350
-      MilitaryGear_HuntingBag_Partizan,                                  *,        450,        350
-      MilitaryGear_HuntingBag_PartizanM,                                 *,        450,        350
-      MilitaryGear_HuntingBag_Skol,                                      *,        450,        350
-      MilitaryGear_HuntingBag_Splinter,                                  *,        450,        350
-      MilitaryGear_HuntingBag_Splinter_Dark,                             *,        450,        350
-      MilitaryGear_HuntingBag_Tiger,                                     *,        450,        350
-      MilitaryGear_HuntingBag_Tropic,                                    *,        450,        350
-      MilitaryGear_HuntingBag_Woodland,                                  *,        450,        350
-      MilitaryGear_HuntingBag_Yeger,                                     *,        450,        350
-      MilitaryGear_MountainBag_ATACS,                                    *,        504,        392
-      MilitaryGear_MountainBag_CADPAT,                                   *,        504,        392
-      MilitaryGear_MountainBag_DPM,                                      *,        504,        392
-      MilitaryGear_MountainBag_Duckhunter,                               *,        504,        392
-      MilitaryGear_MountainBag_FLT,                                      *,        504,        392
-      MilitaryGear_MountainBag_MPAT,                                     *,        504,        392
-      MilitaryGear_MountainBag_Multicam,                                 *,        504,        392
-      MilitaryGear_MountainBag_Partizan,                                 *,        504,        392
-      MilitaryGear_MountainBag_PartizanM,                                *,        504,        392
-      MilitaryGear_MountainBag_Skol,                                     *,        504,        392
-      MilitaryGear_MountainBag_Splinter,                                 *,        504,        392
-      MilitaryGear_MountainBag_Splinter_Dark,                            *,        504,        392
-      MilitaryGear_MountainBag_Tiger,                                    *,        504,        392
-      MilitaryGear_MountainBag_Tropic,                                   *,        504,        392
-      MilitaryGear_MountainBag_Woodland,                                 *,        504,        392
-      MilitaryGear_MountainBag_Yeger,                                    *,        504,        392
-      FP4_LesnikBag,                                                     *,        540,        420
-      MilitaryGear_AliceBag_ATACS,                                       *,        540,        420
-      MilitaryGear_AliceBag_CADPAT,                                      *,        540,        420
-      MilitaryGear_AliceBag_DPM,                                         *,        540,        420
-      MilitaryGear_AliceBag_Duckhunter,                                  *,        540,        420
-      MilitaryGear_AliceBag_FLT,                                         *,        540,        420
-      MilitaryGear_AliceBag_MPAT,                                        *,        540,        420
-      MilitaryGear_AliceBag_Multicam,                                    *,        540,        420
-      MilitaryGear_AliceBag_Partizan,                                    *,        540,        420
-      MilitaryGear_AliceBag_PartizanM,                                   *,        540,        420
-      MilitaryGear_AliceBag_Skol,                                        *,        540,        420
-      MilitaryGear_AliceBag_Splinter,                                    *,        540,        420
-      MilitaryGear_AliceBag_Splinter_Dark,                               *,        540,        420
-      MilitaryGear_AliceBag_Tiger,                                       *,        540,        420
-      MilitaryGear_AliceBag_Tropic,                                      *,        540,        420
-      MilitaryGear_AliceBag_Woodland,                                    *,        540,        420
-      MilitaryGear_AliceBag_Yeger,                                       *,        540,        420
-      AssaultBag_Black,                                                  *,        720,        560
-      AssaultBag_Green,                                                  *,        720,        560
-      AssaultBag_Ttsko,                                                  *,        720,        560
-      dzn_assaultbag_winter,                                             *,        720,        560
+      ================================| 100 SLOTS |===============================================================================,V,         -1,        -1
+      MilitaryGear_HuntingBag_Yeger,                                     *,        810,        630
+      MilitaryGear_CoyoteBag_ATACS,                                      *,      12600,       9800
+      MilitaryGear_CoyoteBag_CADPAT,                                     *,      12600,       9800
+      MilitaryGear_CoyoteBag_DPM,                                        *,      12600,       9800
+      MilitaryGear_CoyoteBag_Duckhunter,                                 *,      12600,       9800
+      MilitaryGear_CoyoteBag_FLT,                                        *,      12600,       9800
+      MilitaryGear_CoyoteBag_MPAT,                                       *,      12600,       9800
+      MilitaryGear_CoyoteBag_Multicam,                                   *,      12600,       9800
+      MilitaryGear_CoyoteBag_Partizan,                                   *,      12600,       9800
+      MilitaryGear_CoyoteBag_PartizanM,                                  *,      12600,       9800
+      MilitaryGear_CoyoteBag_Skol,                                       *,      12600,       9800
+      MilitaryGear_CoyoteBag_Splinter,                                   *,      12600,       9800
+      MilitaryGear_CoyoteBag_Splinter_Dark,                              *,      12600,       9800
+      MilitaryGear_CoyoteBag_Tiger,                                      *,      12600,       9800
+      MilitaryGear_CoyoteBag_Tropic,                                     *,      12600,       9800
+      MilitaryGear_CoyoteBag_Woodland,                                   *,      12600,       9800
+      MilitaryGear_CoyoteBag_Yeger,                                      *,      12600,       9800
+      MilitaryGear_MountainBag_ATACS,                                    *,      12600,       9800
+      MilitaryGear_MountainBag_CADPAT,                                   *,      12600,       9800
+      MilitaryGear_MountainBag_DPM,                                      *,      12600,       9800
+      MilitaryGear_MountainBag_Duckhunter,                               *,      12600,       9800
+      MilitaryGear_MountainBag_FLT,                                      *,      12600,       9800
+      MilitaryGear_MountainBag_MPAT,                                     *,      12600,       9800
+      MilitaryGear_MountainBag_Multicam,                                 *,      12600,       9800
+      MilitaryGear_MountainBag_Partizan,                                 *,      12600,       9800
+      MilitaryGear_MountainBag_PartizanM,                                *,      12600,       9800
+      MilitaryGear_MountainBag_Skol,                                     *,      12600,       9800
+      MilitaryGear_MountainBag_Splinter,                                 *,      12600,       9800
+      MilitaryGear_MountainBag_Splinter_Dark,                            *,      12600,       9800
+      MilitaryGear_MountainBag_Tiger,                                    *,      12600,       9800
+      MilitaryGear_MountainBag_Tropic,                                   *,      12600,       9800
+      MilitaryGear_MountainBag_Woodland,                                 *,      12600,       9800
+      MilitaryGear_MountainBag_Yeger,                                    *,      12600,       9800
+
+      ================================| 120 SLOTS |===============================================================================,V,         -1,        -1
+      AliceBag_Black,                                                    *,      13050,      10150
+      AliceBag_Camo,                                                     *,      13050,      10150
+      AliceBag_Green,                                                    *,      13050,      10150
+      dzn_alicebag_wintercamo,                                           *,      13050,      10150
+      MilitaryGear_AliceBag_ATACS,                                       *,      13050,      10150
+      MilitaryGear_AliceBag_CADPAT,                                      *,      13050,      10150
+      MilitaryGear_AliceBag_DPM,                                         *,      13050,      10150
+      MilitaryGear_AliceBag_Duckhunter,                                  *,      13050,      10150
+      MilitaryGear_AliceBag_FLT,                                         *,      13050,      10150
+      MilitaryGear_AliceBag_MPAT,                                        *,      13050,      10150
+      MilitaryGear_AliceBag_Multicam,                                    *,      13050,      10150
+      MilitaryGear_AliceBag_Partizan,                                    *,      13050,      10150
+      MilitaryGear_AliceBag_PartizanM,                                   *,      13050,      10150
+      MilitaryGear_AliceBag_Skol,                                        *,      13050,      10150
+      MilitaryGear_AliceBag_Splinter,                                    *,      13050,      10150
+      MilitaryGear_AliceBag_Splinter_Dark,                               *,      13050,      10150
+      MilitaryGear_AliceBag_Tiger,                                       *,      13050,      10150
+      MilitaryGear_AliceBag_Tropic,                                      *,      13050,      10150
+      MilitaryGear_AliceBag_Woodland,                                    *,      13050,      10150
+      MilitaryGear_AliceBag_Yeger,                                       *,      13050,      10150
+
+      ================================| 126 SLOTS |===============================================================================,V,         -1,        -1
       FP4_HuntingTOP_Bag,                                                *,      13500,       3750
       FP4_HuntingTOP_Bag_BLACK,                                          *,      13500,       3750
+
+      ================================| 42 SLOTS |================================================================================,V,         -1,        -1
+      MilitaryGear_SmershBag_ATACS,                                      *,        540,        420
+      MilitaryGear_SmershBag_CADPAT,                                     *,        540,        420
+      MilitaryGear_SmershBag_DPM,                                        *,        540,        420
+      MilitaryGear_SmershBag_Duckhunter,                                 *,        540,        420
+      MilitaryGear_SmershBag_FLT,                                        *,        540,        420
+      MilitaryGear_SmershBag_MPAT,                                       *,        540,        420
+      MilitaryGear_SmershBag_Multicam,                                   *,        540,        420
+      MilitaryGear_SmershBag_Partizan,                                   *,        540,        420
+      MilitaryGear_SmershBag_PartizanM,                                  *,        540,        420
+      MilitaryGear_SmershBag_Skol,                                       *,        540,        420
+      MilitaryGear_SmershBag_Splinter,                                   *,        540,        420
+      MilitaryGear_SmershBag_Splinter_Dark,                              *,        540,        420
+      MilitaryGear_SmershBag_Tiger,                                      *,        540,        420
+      MilitaryGear_SmershBag_Tropic,                                     *,        540,        420
+      MilitaryGear_SmershBag_Woodland,                                   *,        540,        420
+      MilitaryGear_SmershBag_Yeger,                                      *,        540,        420
+
+      ================================| 56 SLOTS |================================================================================,V,         -1,        -1
+      FP4_TacticalBag_Black,                                             *,        810,        630
+      FP4_TacticalBag_green,                                             *,        810,        630
+      FP4_TacticalBag_Tan,                                               *,        810,        630
+
+      ================================| 72 SLOTS |================================================================================,V,         -1,        -1
+      MilitaryGear_HuntingBag_ATACS,                                     *,        810,        630
+      MilitaryGear_HuntingBag_CADPAT,                                    *,        810,        630
+      MilitaryGear_HuntingBag_DPM,                                       *,        810,        630
+      MilitaryGear_HuntingBag_Duckhunter,                                *,        810,        630
+      MilitaryGear_HuntingBag_FLT,                                       *,        810,        630
+      MilitaryGear_HuntingBag_MPAT,                                      *,        810,        630
+      MilitaryGear_HuntingBag_Multicam,                                  *,        810,        630
+      MilitaryGear_HuntingBag_Partizan,                                  *,        810,        630
+      MilitaryGear_HuntingBag_PartizanM,                                 *,        810,        630
+      MilitaryGear_HuntingBag_Skol,                                      *,        810,        630
+      MilitaryGear_HuntingBag_Splinter,                                  *,        810,        630
+      MilitaryGear_HuntingBag_Splinter_Dark,                             *,        810,        630
+      MilitaryGear_HuntingBag_Tiger,                                     *,        810,        630
+      MilitaryGear_HuntingBag_Tropic,                                    *,        810,        630
+      MilitaryGear_HuntingBag_Woodland,                                  *,        810,        630
+
+      ================================| 80 SLOTS |================================================================================,V,         -1,        -1
+      MilitaryGear_TortillaBag_ATACS,                                    *,        720,        560
+      MilitaryGear_TortillaBag_CADPAT,                                   *,        720,        560
+      MilitaryGear_TortillaBag_DPM,                                      *,        720,        560
+      MilitaryGear_TortillaBag_Duckhunter,                               *,        720,        560
+      MilitaryGear_TortillaBag_FLT,                                      *,        720,        560
+      MilitaryGear_TortillaBag_MPAT,                                     *,        720,        560
+      MilitaryGear_TortillaBag_Multicam,                                 *,        720,        560
+      MilitaryGear_TortillaBag_Partizan,                                 *,        720,        560
+      MilitaryGear_TortillaBag_PartizanM,                                *,        720,        560
+      MilitaryGear_TortillaBag_Skol,                                     *,        720,        560
+      MilitaryGear_TortillaBag_Splinter,                                 *,        720,        560
+      MilitaryGear_TortillaBag_Splinter_Dark,                            *,        720,        560
+      MilitaryGear_TortillaBag_Tiger,                                    *,        720,        560
+      MilitaryGear_TortillaBag_Tropic,                                   *,        720,        560
+      MilitaryGear_TortillaBag_Woodland,                                 *,        720,        560
+      MilitaryGear_TortillaBag_Yeger,                                    *,        720,        560
+
+      ================================| 81 SLOTS |================================================================================,V,         -1,        -1
+      AssaultBag_Black,                                                  *,        810,        630
+      AssaultBag_Green,                                                  *,        810,        630
+      AssaultBag_Ttsko,                                                  *,        810,        630
+      dzn_assaultbag_winter,                                             *,        810,        630
+      FP4_LesnikBag,                                                     *,        810,        630
+      MilitaryGear_AssaultBag_ATACS,                                     *,        900,        700
+      MilitaryGear_AssaultBag_CADPAT,                                    *,        900,        700
+      MilitaryGear_AssaultBag_DPM,                                       *,        900,        700
+      MilitaryGear_AssaultBag_Duckhunter,                                *,        900,        700
+      MilitaryGear_AssaultBag_FLT,                                       *,        900,        700
+      MilitaryGear_AssaultBag_MPAT,                                      *,        900,        700
+      MilitaryGear_AssaultBag_Multicam,                                  *,        900,        700
+      MilitaryGear_AssaultBag_Partizan,                                  *,        900,        700
+      MilitaryGear_AssaultBag_PartizanM,                                 *,        900,        700
+      MilitaryGear_AssaultBag_Skol,                                      *,        900,        700
+      MilitaryGear_AssaultBag_Splinter,                                  *,        900,        700
+      MilitaryGear_AssaultBag_Splinter_Dark,                             *,        900,        700
+      MilitaryGear_AssaultBag_Tiger,                                     *,        900,        700
+      MilitaryGear_AssaultBag_Tropic,                                    *,        900,        700
+      MilitaryGear_AssaultBag_Woodland,                                  *,        900,        700
+      MilitaryGear_AssaultBag_Yeger,                                     *,        900,        700
 
 <Category> TAGS
       FP4_Nakl_AimENABLE,                                                *,        450,        350

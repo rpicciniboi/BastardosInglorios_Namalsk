@@ -14,7 +14,7 @@
     <value user="Tier45" />
   </type>
   <type name="KOD_DVL10">
-    <nominal>5</nominal>
+    <nominal>2</nominal>
     <lifetime>3000</lifetime>
     <restock>500</restock>
     <min>2</min>
@@ -27,7 +27,7 @@
     <value user="Tier45" />
   </type>
   <type name="KOD_DVL10M1">
-    <nominal>5</nominal>
+    <nominal>2</nominal>
     <lifetime>3000</lifetime>
     <restock>500</restock>
     <min>2</min>
@@ -40,7 +40,7 @@
     <value user="Tier45" />
   </type>
   <type name="KOD_HK417">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>3000</lifetime>
     <restock>500</restock>
     <min>4</min>
@@ -53,7 +53,7 @@
     <value name="Tier3" />
   </type>
   <type name="KOD_K98">
-    <nominal>20</nominal>
+    <nominal>12</nominal>
     <lifetime>3000</lifetime>
     <restock>0</restock>
     <min>5</min>
@@ -66,7 +66,7 @@
     <value name="Tier2" />
   </type>
   <type name="KOD_M110_Tan">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>3000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -79,7 +79,7 @@
     <value user="Tier45" />
   </type>
   <type name="KOD_M110_Black">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>3000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -92,7 +92,7 @@
     <value user="Tier45" />
   </type>
   <type name="KOD_M16A4">
-    <nominal>10</nominal>
+    <nominal>6</nominal>
     <lifetime>3000</lifetime>
     <restock>0</restock>
     <min>5</min>
@@ -144,7 +144,7 @@
     <value user="Tier45" />
   </type>
   <type name="KOD_PKM">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>3000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -157,7 +157,7 @@
     <value user="Tier45" />
   </type>
   <type name="KOD_R700">
-    <nominal>5</nominal>
+    <nominal>2</nominal>
     <lifetime>3000</lifetime>
     <restock>0</restock>
     <min>2</min>
@@ -170,7 +170,7 @@
     <value user="Tier45" />
   </type>
   <type name="KOD_RSASS_Black">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>3000</lifetime>
     <restock>0</restock>
     <min>2</min>
@@ -183,7 +183,7 @@
     <value user="Tier45" />
   </type>
   <type name="KOD_RSASS_Tan">
-    <nominal>3</nominal>
+    <nominal>1</nominal>
     <lifetime>3000</lifetime>
     <restock>0</restock>
     <min>2</min>
@@ -196,7 +196,7 @@
     <value name="Tier3" />
   </type>
   <type name="KOD_Ruger">
-    <nominal>5</nominal>
+    <nominal>1</nominal>
     <lifetime>3000</lifetime>
     <restock>0</restock>
     <min>4</min>
@@ -209,7 +209,7 @@
     <value user="Tier45" />
   </type>
   <type name="KOD_SCARH">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>3000</lifetime>
     <restock>0</restock>
     <min>4</min>
@@ -261,7 +261,7 @@
     <value name="Tier3" />
   </type>
   <type name="KOD_AK47">
-    <nominal>25</nominal>
+    <nominal>10</nominal>
     <lifetime>3000</lifetime>
     <restock>0</restock>
     <min>15</min>
@@ -274,7 +274,7 @@
     <value name="Tier2" />
   </type>
   <type name="KOD_AK15">
-    <nominal>25</nominal>
+    <nominal>10</nominal>
     <lifetime>3000</lifetime>
     <restock>0</restock>
     <min>15</min>
@@ -287,7 +287,7 @@
     <value name="Tier3" />
   </type>
   <type name="KOD_AK12">
-    <nominal>25</nominal>
+    <nominal>10</nominal>
     <lifetime>3000</lifetime>
     <restock>0</restock>
     <min>15</min>
@@ -300,7 +300,7 @@
     <value name="Tier3" />
   </type>
   <type name="KOD_AKALPHA">
-    <nominal>25</nominal>
+    <nominal>10</nominal>
     <lifetime>3000</lifetime>
     <restock>0</restock>
     <min>15</min>
@@ -313,7 +313,7 @@
     <value name="Tier3" />
   </type>
   <type name="KOD_Beowulf">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>3000</lifetime>
     <restock>3000</restock>
     <min>1</min>
@@ -339,7 +339,7 @@
     <value user="Tier45" />
   </type>
   <type name="KOD_AWM">
-    <nominal>2</nominal>
+    <nominal>1</nominal>
     <lifetime>3000</lifetime>
     <restock>3000</restock>
     <min>1</min>
@@ -352,7 +352,7 @@
     <value user="Tier45" />
   </type>
   <type name="KOD_AEK971">
-    <nominal>25</nominal>
+    <nominal>10</nominal>
     <lifetime>3000</lifetime>
     <restock>0</restock>
     <min>15</min>
@@ -365,7 +365,7 @@
     <value name="Tier2" />
   </type>
   <type name="KOD_MP5SD">
-    <nominal>35</nominal>
+    <nominal>15</nominal>
     <lifetime>3000</lifetime>
     <restock>0</restock>
     <min>15</min>
@@ -379,7 +379,7 @@
     <value name="Tier1" />
   </type>
   <type name="KOD_VR80">
-    <nominal>6</nominal>
+    <nominal>2</nominal>
     <lifetime>3000</lifetime>
     <restock>0</restock>
     <min>2</min>
@@ -504,7 +504,7 @@
     <value user="Tier45" />
   </type>
   <type name="Mag_KOD_PKM_100Rnd">
-    <nominal>2</nominal>
+    <nominal>8</nominal>
     <lifetime>3000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -517,7 +517,7 @@
     <value user="Tier45" />
   </type>
   <type name="Mag_KOD_M82A2_10Rnd">
-    <nominal>1</nominal>
+    <nominal>3</nominal>
     <lifetime>3000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -600,7 +600,7 @@
     <value user="Tier45" />
   </type>
   <type name="Mag_KOD_AX50_5Rnd">
-    <nominal>2</nominal>
+    <nominal>8</nominal>
     <lifetime>3000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -613,7 +613,7 @@
     <value user="Tier45" />
   </type>
   <type name="Mag_KOD_AWM_5Rnd">
-    <nominal>2</nominal>
+    <nominal>8</nominal>
     <lifetime>3000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -626,7 +626,7 @@
     <value user="Tier45" />
   </type>
   <type name="Mag_KOD_ASH12_20Rnd">
-    <nominal>2</nominal>
+    <nominal>6</nominal>
     <lifetime>3000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -639,7 +639,7 @@
     <value user="Tier45" />
   </type>
   <type name="Mag_KOD_Beowulf_10Rnd">
-    <nominal>2</nominal>
+    <nominal>6</nominal>
     <lifetime>3000</lifetime>
     <restock>0</restock>
     <min>1</min>
@@ -821,7 +821,7 @@
     <usage name="Military" />
   </type>
   <type name="KOD_AWM_Scope">
-    <nominal>5</nominal>
+    <nominal>2</nominal>
     <lifetime>14400</lifetime>
     <restock>14400</restock>
     <min>2</min>
@@ -833,7 +833,7 @@
     <usage name="Military" />
   </type>
   <type name="KOD_FAMAS">
-    <nominal>15</nominal>
+    <nominal>5</nominal>
     <lifetime>3000</lifetime>
     <restock>1</restock>
     <min>5</min>
@@ -846,7 +846,7 @@
     <value name="Tier2" />
   </type>
   <type name="KOD_SKS">
-    <nominal>15</nominal>
+    <nominal>5</nominal>
     <lifetime>3000</lifetime>
     <restock>1</restock>
     <min>5</min>
@@ -859,7 +859,7 @@
     <value name="Tier2" />
   </type>
   <type name="KOD_AR15Skeleton">
-    <nominal>25</nominal>
+    <nominal>5</nominal>
     <lifetime>3000</lifetime>
     <restock>1</restock>
     <min>5</min>
@@ -872,7 +872,7 @@
     <value name="Tier2" />
   </type>
   <type name="KOD_DrumShotgun">
-    <nominal>25</nominal>
+    <nominal>5</nominal>
     <lifetime>3000</lifetime>
     <restock>1</restock>
     <min>5</min>
