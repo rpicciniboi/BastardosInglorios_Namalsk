@@ -1,0 +1,89 @@
+{
+	"headgear":
+	[
+		{
+		"className": "NBCHoodGray",
+		"shield": 10,
+		"dosimeter":0
+		},
+		{
+		"className": "alp_NBCHoodCamo",
+		"shield": 10,
+		"dosimeter":0
+		}		
+	],
+	"mask":
+	[
+		{
+		"className": "GP5GasMask",
+		"shield": 20,
+		"dosimeter":0
+		},
+		{
+		"className": "GasMask",
+		"shield": 20,
+		"dosimeter":0
+		},
+		{
+		"className": "alp_GasMaskCamo",
+		"shield": 20,
+		"dosimeter":0
+		}		
+	],
+	"body":
+	[
+		{
+		"className": "NBCJacketGray",
+		"shield": 30,
+		"dosimeter":1
+		},
+		{
+		"className": "alp_NBCJacketCamo",
+		"shield": 30,
+		"dosimeter":1
+		}		
+	],
+	"vest":
+	[
+
+	],
+	"gloves":
+	[
+		{
+		"className": "NBCGlovesGray",
+		"shield": 10,
+		"dosimeter":0
+		},
+		{
+		"className": "alp_NBCGlovesCamo",
+		"shield": 10,
+		"dosimeter":0
+		}
+	],
+	"legs":
+	[
+		{
+		"className": "NBCPantsGray",
+		"shield": 20,
+		"dosimeter":0
+		},
+		{
+		"className": "alp_NBCPantsCamo",
+		"shield": 20,
+		"dosimeter":0
+		}	
+	],
+	"feet":
+	[
+		{
+		"className": "NBCBootsGray",
+		"shield": 10,
+		"dosimeter":0
+		},
+		{
+		"className": "alp_NBCBootsCamo",
+		"shield": 10,
+		"dosimeter":0
+		}
+	]
+}

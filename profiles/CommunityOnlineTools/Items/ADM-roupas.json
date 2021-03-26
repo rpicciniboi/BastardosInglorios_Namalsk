@@ -1,0 +1,41 @@
+{
+    "Name": "ADM - Roupas",
+    "ContainerClassName": "SmallProtectorCase",
+    "Items": [
+        {
+            "ItemName": "AP_GOLD_Pants",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "AP_GOLD_Helmet",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "AP_GOLD_Gloves",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "AP_GOLD_Jacket",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "AP_GOLD_Vest",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "AP_GOLD_Boots",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        },
+        {
+            "ItemName": "AP_GOLD_Mask",
+            "NumberOfStacks": 1,
+            "StackSize": 1
+        }
+    ]
+}

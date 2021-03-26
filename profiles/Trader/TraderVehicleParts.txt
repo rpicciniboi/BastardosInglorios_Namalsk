@@ -1,0 +1,189 @@
+<VehicleParts> CrSk_Land_Rover_Defender_110
+	SparkPlug
+	CarBattery
+	CarRadiator
+	Defender110_koleso
+	Defender110_koleso
+	Defender110_koleso
+	Defender110_koleso
+	Defender110_koleso
+	Defender110_dver_1_1
+	Defender110_dver_2_1
+	Defender110_dver_1_2
+	Defender110_dver_2_2
+	Defender110_kapot
+	Defender110_bagazhnik
+
+<VehicleParts> CrSk_Land_Rover_Defender_110_Green
+	SparkPlug
+	CarBattery
+	CarRadiator
+	Defender110_koleso
+	Defender110_koleso
+	Defender110_koleso
+	Defender110_koleso
+	Defender110_koleso
+	Defender110_dver_1_1_Green
+	Defender110_dver_2_1_Green	
+	Defender110_dver_1_2_Green
+	Defender110_dver_2_2_Green
+	Defender110_kapot_Green
+	Defender110_bagazhnik_Green
+
+<VehicleParts> CrSk_Land_Rover_Defender_110_Red
+	SparkPlug
+	CarBattery
+	CarRadiator
+	Defender110_koleso
+	Defender110_koleso
+	Defender110_koleso
+	Defender110_koleso
+	Defender110_koleso
+	Defender110_dver_1_1_Red
+	Defender110_dver_2_1_Red	
+	Defender110_dver_1_2_Red
+	Defender110_dver_2_2_Red
+	Defender110_kapot_Red
+	Defender110_bagazhnik_Red
+
+<VehicleParts> CrSk_Land_Rover_Defender_110_UN
+	SparkPlug
+	CarBattery
+	CarRadiator
+	Defender110_koleso
+	Defender110_koleso
+	Defender110_koleso
+	Defender110_koleso
+	Defender110_koleso
+	Defender110_dver_1_1_UN
+	Defender110_dver_2_1_UN
+	Defender110_dver_1_2_UN
+	Defender110_dver_2_2_UN
+	Defender110_kapot_UN
+	Defender110_bagazhnik_UN	
+
+<VehicleParts> SavageSherpa_yellow
+CarBattery
+SparkPlug
+HeadlightH7
+HeadlightH7
+
+<VehicleParts> SavageSherpa_red
+CarBattery
+SparkPlug
+HeadlightH7
+HeadlightH7
+
+<VehicleParts> SavageSherpa_purple
+CarBattery
+SparkPlug
+HeadlightH7
+HeadlightH7
+
+<VehicleParts> SavageSherpa_mint
+CarBattery
+SparkPlug
+HeadlightH7
+HeadlightH7
+
+<VehicleParts> SavageSherpa_green
+CarBattery
+SparkPlug
+HeadlightH7
+HeadlightH7
+
+<VehicleParts> SavageSherpa_brown
+CarBattery
+SparkPlug
+HeadlightH7
+HeadlightH7
+
+<VehicleParts> SavageSherpa_blue
+CarBattery
+SparkPlug
+HeadlightH7
+HeadlightH7
+
+<VehicleParts> SavageSherpa_pink
+CarBattery
+SparkPlug
+HeadlightH7
+HeadlightH7
+
+<VehicleParts> SavageSherpa_black
+CarBattery
+SparkPlug
+HeadlightH7
+HeadlightH7
+
+<VehicleParts> SavageSherpa_white
+CarBattery
+SparkPlug
+HeadlightH7
+HeadlightH7
+
+<VehicleParts> SavageSherpa_savage
+CarBattery
+SparkPlug
+HeadlightH7
+HeadlightH7
+
+// ---------------------------
+// --- Savage Sherpa Sport----
+
+<VehicleParts> SavageSherpa_sport_yellow
+CarBattery
+SparkPlug
+HeadlightH7
+HeadlightH7
+
+<VehicleParts> SavageSherpa_sport_red
+CarBattery
+SparkPlug
+HeadlightH7
+HeadlightH7
+
+<VehicleParts> SavageSherpa_sport_purple
+CarBattery
+SparkPlug
+HeadlightH7
+HeadlightH7
+
+<VehicleParts> SavageSherpa_sport_mint
+CarBattery
+SparkPlug
+HeadlightH7
+HeadlightH7
+
+<VehicleParts> SavageSherpa_sport_green
+CarBattery
+SparkPlug
+HeadlightH7
+HeadlightH7
+
+<VehicleParts> SavageSherpa_sport_brown
+CarBattery
+SparkPlug
+HeadlightH7
+HeadlightH7
+
+<VehicleParts> SavageSherpa_sport_blue
+CarBattery
+SparkPlug
+HeadlightH7
+HeadlightH7
+
+<VehicleParts> SavageSherpa_sport_pink
+CarBattery
+SparkPlug
+HeadlightH7
+HeadlightH7
+
+<VehicleParts> SavageSherpa_sport_black
+CarBattery
+SparkPlug
+HeadlightH7
+HeadlightH7
+
+
+<FileEnd>							// This has to be on the End of this File and is very importand!

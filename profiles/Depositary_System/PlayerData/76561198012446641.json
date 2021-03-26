@@ -1,0 +1,1794 @@
+{
+    "m_SteamID": "76561198012446641",
+    "m_PlayerName": "BOi",
+    "vehicleData": [
+        {
+            "indexID": 0,
+            "VehiclesHash": 0,
+            "GarageID": 1,
+            "EngineHealth": 2800.0,
+            "FuelAmmount": 24.994829177856447,
+            "VehiclesName": "SavageSherpa_black",
+            "SpawnPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "SpawnOri": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "m_Cargo": [
+                {
+                    "ItemName": "Sherpa_dummy_wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Sherpa_dummy_wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Sherpa_dummy_wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Sherpa_dummy_wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Sherpa_dummy_wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Sherpa_dummy_wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "CarBattery",
+                    "VehicleCargoAmmount": 50,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "SparkPlug",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 20.0
+                },
+                {
+                    "ItemName": "HeadlightH7",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 10.0
+                },
+                {
+                    "ItemName": "HeadlightH7",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 10.0
+                },
+                {
+                    "ItemName": "SavageSNO_RearBag",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 705032704.0
+                },
+                {
+                    "ItemName": "SavageSNO_RearBag",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 705032704.0
+                },
+                {
+                    "ItemName": "dzn_TunaCan",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 70.0
+                },
+                {
+                    "ItemName": "LeatherSewingKit",
+                    "VehicleCargoAmmount": 100,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "DONFOOD_CAN_ZucchiniSquash",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                }
+            ]
+        },
+        {
+            "indexID": 1,
+            "VehiclesHash": 71698573,
+            "GarageID": 1,
+            "EngineHealth": 3500.0,
+            "FuelAmmount": 74.97257232666016,
+            "VehiclesName": "CrSk_Land_Rover_Defender_110_Red",
+            "SpawnPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "SpawnOri": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "m_Cargo": [
+                {
+                    "ItemName": "SparkPlug",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 20.0
+                },
+                {
+                    "ItemName": "CarBattery",
+                    "VehicleCargoAmmount": 49,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "CarRadiator",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 250.0
+                },
+                {
+                    "ItemName": "Defender110_koleso",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 600.0
+                },
+                {
+                    "ItemName": "Defender110_koleso",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 600.0
+                },
+                {
+                    "ItemName": "Defender110_koleso",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 600.0
+                },
+                {
+                    "ItemName": "Defender110_koleso",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 600.0
+                },
+                {
+                    "ItemName": "Defender110_koleso",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 600.0
+                },
+                {
+                    "ItemName": "Defender110_dver_1_1_Red",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 500.0
+                },
+                {
+                    "ItemName": "Defender110_dver_2_1_Red",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 500.0
+                },
+                {
+                    "ItemName": "Defender110_dver_1_2_Red",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 500.0
+                },
+                {
+                    "ItemName": "Defender110_dver_2_2_Red",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 500.0
+                },
+                {
+                    "ItemName": "Defender110_kapot_Red",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 600.0
+                },
+                {
+                    "ItemName": "Defender110_bagazhnik_Red",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 500.0
+                },
+                {
+                    "ItemName": "TetracyclineAntibiotics",
+                    "VehicleCargoAmmount": 11,
+                    "KeyHash": 0,
+                    "Health": 30.0
+                },
+                {
+                    "ItemName": "WeaponCleaningKit",
+                    "VehicleCargoAmmount": 25,
+                    "KeyHash": 0,
+                    "Health": 98.74876403808594
+                },
+                {
+                    "ItemName": "WaterBottle",
+                    "VehicleCargoAmmount": 1000,
+                    "KeyHash": 0,
+                    "Health": 50.0
+                },
+                {
+                    "ItemName": "WaterBottle",
+                    "VehicleCargoAmmount": 1000,
+                    "KeyHash": 0,
+                    "Health": 49.749752044677737
+                },
+                {
+                    "ItemName": "DONFOOD_SodaCan_FantaPeach",
+                    "VehicleCargoAmmount": 330,
+                    "KeyHash": 0,
+                    "Health": 30.0
+                },
+                {
+                    "ItemName": "WaterBottle",
+                    "VehicleCargoAmmount": 1000,
+                    "KeyHash": 0,
+                    "Health": 50.0
+                },
+                {
+                    "ItemName": "Rag",
+                    "VehicleCargoAmmount": 6,
+                    "KeyHash": 0,
+                    "Health": 50.0
+                },
+                {
+                    "ItemName": "Rag",
+                    "VehicleCargoAmmount": 6,
+                    "KeyHash": 0,
+                    "Health": 50.0
+                },
+                {
+                    "ItemName": "LeatherSewingKit",
+                    "VehicleCargoAmmount": 100,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "DONFOOD_CAN_BuckwheatPorridgeBeef2",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Roadflare",
+                    "VehicleCargoAmmount": 20,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "elastic_bandage",
+                    "VehicleCargoAmmount": 3,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Bandaid_bandage",
+                    "VehicleCargoAmmount": 10,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Bandaid_bandage",
+                    "VehicleCargoAmmount": 10,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "ImprovisedSuppressor",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 3.466668128967285
+                },
+                {
+                    "ItemName": "Bandaid_bandage",
+                    "VehicleCargoAmmount": 7,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "SewingKit",
+                    "VehicleCargoAmmount": 100,
+                    "KeyHash": 0,
+                    "Health": 50.0
+                },
+                {
+                    "ItemName": "ACOGOptic",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 50.0
+                },
+                {
+                    "ItemName": "Ammo_12x99Tracer_Yell",
+                    "VehicleCargoAmmount": 4,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "MilitaryGear_MountainBag_Tiger",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 300.0
+                },
+                {
+                    "ItemName": "TetracyclineAntibiotics",
+                    "VehicleCargoAmmount": 3,
+                    "KeyHash": 0,
+                    "Health": 28.266576766967775
+                },
+                {
+                    "ItemName": "DONFOOD_SodaCan_GladioMiniOrangeMango",
+                    "VehicleCargoAmmount": 330,
+                    "KeyHash": 0,
+                    "Health": 30.0
+                },
+                {
+                    "ItemName": "SewingKit",
+                    "VehicleCargoAmmount": 100,
+                    "KeyHash": 0,
+                    "Health": 46.249332427978519
+                },
+                {
+                    "ItemName": "dzn_Canteen",
+                    "VehicleCargoAmmount": 1000,
+                    "KeyHash": 0,
+                    "Health": 98.68620300292969
+                },
+                {
+                    "ItemName": "Ammo_762x54",
+                    "VehicleCargoAmmount": 95,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Ammo_762x54",
+                    "VehicleCargoAmmount": 3,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "dzn_Pot",
+                    "VehicleCargoAmmount": 2000,
+                    "KeyHash": 0,
+                    "Health": 198.87388610839845
+                },
+                {
+                    "ItemName": "ImprovisedSuppressor",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 5.0
+                },
+                {
+                    "ItemName": "BandageDressing",
+                    "VehicleCargoAmmount": 4,
+                    "KeyHash": 0,
+                    "Health": 49.34996795654297
+                },
+                {
+                    "ItemName": "BandageDressing",
+                    "VehicleCargoAmmount": 4,
+                    "KeyHash": 0,
+                    "Health": 50.0
+                },
+                {
+                    "ItemName": "M9A1_Bayonet",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 150.0
+                },
+                {
+                    "ItemName": "Battery9V",
+                    "VehicleCargoAmmount": 50,
+                    "KeyHash": 0,
+                    "Health": 20.0
+                },
+                {
+                    "ItemName": "Battery9V",
+                    "VehicleCargoAmmount": 50,
+                    "KeyHash": 0,
+                    "Health": 18.124971389770509
+                },
+                {
+                    "ItemName": "Roadflare",
+                    "VehicleCargoAmmount": 20,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Mag_KOD_DVL10_5rnd",
+                    "VehicleCargoAmmount": 2,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "MilitaryGear_TacticalHelmet_PartizanM",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 50.0
+                },
+                {
+                    "ItemName": "UniversalLight",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 70.0
+                },
+                {
+                    "ItemName": "MilitaryBoots_Redpunk",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 89.01715087890625
+                },
+                {
+                    "ItemName": "CombatKnife",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 92.09429931640625
+                },
+                {
+                    "ItemName": "TetracyclineAntibiotics",
+                    "VehicleCargoAmmount": 12,
+                    "KeyHash": 0,
+                    "Health": 29.13328742980957
+                },
+                {
+                    "ItemName": "VitaminBottle",
+                    "VehicleCargoAmmount": 48,
+                    "KeyHash": 0,
+                    "Health": 50.0
+                },
+                {
+                    "ItemName": "CharcoalTablets",
+                    "VehicleCargoAmmount": 2,
+                    "KeyHash": 0,
+                    "Health": 30.0
+                },
+                {
+                    "ItemName": "Snipe_Mask_blood",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "KOD_Ammo_338",
+                    "VehicleCargoAmmount": 20,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "MilitaryGear_AliceBag_Yeger",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 281.7441101074219
+                },
+                {
+                    "ItemName": "Bandaid_bandage",
+                    "VehicleCargoAmmount": 9,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "KOD_Ammo_338",
+                    "VehicleCargoAmmount": 13,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Ammo_4x30",
+                    "VehicleCargoAmmount": 7,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "PurificationTablets",
+                    "VehicleCargoAmmount": 10,
+                    "KeyHash": 0,
+                    "Health": 30.0
+                },
+                {
+                    "ItemName": "DONDRINK_JUICEPACK_CRANBERRY",
+                    "VehicleCargoAmmount": 250,
+                    "KeyHash": 0,
+                    "Health": 30.0
+                },
+                {
+                    "ItemName": "AmmoBox_338",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Bandaid_bandage",
+                    "VehicleCargoAmmount": 10,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "NVGHeadstrap",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 179.99847412109376
+                },
+                {
+                    "ItemName": "NVGoggles",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Battery9V",
+                    "VehicleCargoAmmount": 47,
+                    "KeyHash": 0,
+                    "Health": 20.0
+                },
+                {
+                    "ItemName": "Matchbox",
+                    "VehicleCargoAmmount": 68,
+                    "KeyHash": 0,
+                    "Health": 80.0
+                },
+                {
+                    "ItemName": "Rag",
+                    "VehicleCargoAmmount": 6,
+                    "KeyHash": 0,
+                    "Health": 48.75
+                },
+                {
+                    "ItemName": "WeaponCleaningKit",
+                    "VehicleCargoAmmount": 45,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "DONFOOD_SodaCan_MasterfruitForestberry",
+                    "VehicleCargoAmmount": 330,
+                    "KeyHash": 0,
+                    "Health": 30.0
+                },
+                {
+                    "ItemName": "KOD_Ammo_50BMG",
+                    "VehicleCargoAmmount": 2,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "PetrolLighter",
+                    "VehicleCargoAmmount": 15,
+                    "KeyHash": 0,
+                    "Health": 20.0
+                },
+                {
+                    "ItemName": "MilitaryGear_TacticalHelmet_Splinter_Dark",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 44.99961853027344
+                },
+                {
+                    "ItemName": "NVGoggles",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Battery9V",
+                    "VehicleCargoAmmount": 50,
+                    "KeyHash": 0,
+                    "Health": 20.0
+                },
+                {
+                    "ItemName": "WaterBottle",
+                    "VehicleCargoAmmount": 1000,
+                    "KeyHash": 0,
+                    "Health": 50.0
+                },
+                {
+                    "ItemName": "PurificationTablets",
+                    "VehicleCargoAmmount": 9,
+                    "KeyHash": 0,
+                    "Health": 30.0
+                },
+                {
+                    "ItemName": "Splint",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 70.0
+                },
+                {
+                    "ItemName": "SewingKit",
+                    "VehicleCargoAmmount": 100,
+                    "KeyHash": 0,
+                    "Health": 50.0
+                },
+                {
+                    "ItemName": "SewingKit",
+                    "VehicleCargoAmmount": 100,
+                    "KeyHash": 0,
+                    "Health": 50.0
+                },
+                {
+                    "ItemName": "Mag_KOD_DVL10_5rnd",
+                    "VehicleCargoAmmount": 5,
+                    "KeyHash": 0,
+                    "Health": 99.79857635498047
+                },
+                {
+                    "ItemName": "KOD_AK47",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 89.99771118164063
+                },
+                {
+                    "ItemName": "Mag_KOD_AK47_20rnd",
+                    "VehicleCargoAmmount": 13,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Mp153Shotgun_black",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 22000.0
+                },
+                {
+                    "ItemName": "KOD_DrumShotgun",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 250.0
+                },
+                {
+                    "ItemName": "ZmijovkaCap_Red",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Flag_Pirates",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "PlateCarrierPouches_SOBR",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Mag_VSSK_5Rnd",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 93.98184204101563
+                },
+                {
+                    "ItemName": "Mag_VSSK_5Rnd",
+                    "VehicleCargoAmmount": 2,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "VSSK",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 1249.9619140625
+                },
+                {
+                    "ItemName": "AD_DHF5",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Mag_VSSK_5Rnd",
+                    "VehicleCargoAmmount": 5,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Mag_VSSK_5Rnd",
+                    "VehicleCargoAmmount": 5,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Ammo_12x99",
+                    "VehicleCargoAmmount": 10,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Ammo_12x99",
+                    "VehicleCargoAmmount": 4,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Ammo_308Win",
+                    "VehicleCargoAmmount": 75,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Mag_PKP_200Rnd",
+                    "VehicleCargoAmmount": 118,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                }
+            ]
+        },
+        {
+            "indexID": 2,
+            "VehiclesHash": 0,
+            "GarageID": 1,
+            "EngineHealth": 2799.5283203125,
+            "FuelAmmount": 8.079322814941407,
+            "VehiclesName": "SavageSherpa_black",
+            "SpawnPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "SpawnOri": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "m_Cargo": [
+                {
+                    "ItemName": "Sherpa_dummy_wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Sherpa_dummy_wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Sherpa_dummy_wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Sherpa_dummy_wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Sherpa_dummy_wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Sherpa_dummy_wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "HeadlightH7",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 10.0
+                },
+                {
+                    "ItemName": "SparkPlug",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 20.0
+                },
+                {
+                    "ItemName": "HeadlightH7",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 10.0
+                },
+                {
+                    "ItemName": "CarBattery",
+                    "VehicleCargoAmmount": 46,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "CamoNetWinter",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 120.0
+                }
+            ]
+        },
+        {
+            "indexID": 3,
+            "VehiclesHash": 650333575,
+            "GarageID": 1,
+            "EngineHealth": 3500.0,
+            "FuelAmmount": 74.98867797851563,
+            "VehiclesName": "CrSk_Land_Rover_Defender_110_Green",
+            "SpawnPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "SpawnOri": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "m_Cargo": [
+                {
+                    "ItemName": "SparkPlug",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 20.0
+                },
+                {
+                    "ItemName": "CarBattery",
+                    "VehicleCargoAmmount": 49,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "CarRadiator",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 250.0
+                },
+                {
+                    "ItemName": "Defender110_koleso",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 600.0
+                },
+                {
+                    "ItemName": "Defender110_koleso",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 600.0
+                },
+                {
+                    "ItemName": "Defender110_koleso",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 600.0
+                },
+                {
+                    "ItemName": "Defender110_koleso",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 600.0
+                },
+                {
+                    "ItemName": "Defender110_koleso",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 600.0
+                },
+                {
+                    "ItemName": "Defender110_dver_1_1_Green",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 500.0
+                },
+                {
+                    "ItemName": "Defender110_dver_2_1_Green",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 500.0
+                },
+                {
+                    "ItemName": "Defender110_dver_1_2_Green",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 500.0
+                },
+                {
+                    "ItemName": "Defender110_dver_2_2_Green",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 500.0
+                },
+                {
+                    "ItemName": "Defender110_kapot_Green",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 600.0
+                },
+                {
+                    "ItemName": "Defender110_bagazhnik_Green",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 500.0
+                },
+                {
+                    "ItemName": "Msp_ToolsBench_Grey_Kit",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "MilitaryGear_PatrolPants_DPM",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "MilitaryGear_CombatJacket_MPAT",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "CarRadiator",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 250.0
+                },
+                {
+                    "ItemName": "Mag_CMAG_100Rnd",
+                    "VehicleCargoAmmount": 36,
+                    "KeyHash": 0,
+                    "Health": 95.49706268310547
+                },
+                {
+                    "ItemName": "NailBox",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 80.0
+                },
+                {
+                    "ItemName": "FP4_HuntingTOP_Bag",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "FP4_MiniGloves_Gray",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 1550.0
+                },
+                {
+                    "ItemName": "dzn_Pot",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "PSO11Optic",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 50.0
+                },
+                {
+                    "ItemName": "FalconOptic",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "CamoNet",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 120.0
+                }
+            ]
+        },
+        {
+            "indexID": 4,
+            "VehiclesHash": 1694747143,
+            "GarageID": 1,
+            "EngineHealth": 3500.0,
+            "FuelAmmount": 74.9496078491211,
+            "VehiclesName": "CrSk_Land_Rover_Defender_110_Green",
+            "SpawnPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "SpawnOri": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "m_Cargo": [
+                {
+                    "ItemName": "SparkPlug",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 20.0
+                },
+                {
+                    "ItemName": "CarBattery",
+                    "VehicleCargoAmmount": 49,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "CarRadiator",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 250.0
+                },
+                {
+                    "ItemName": "Defender110_koleso",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 600.0
+                },
+                {
+                    "ItemName": "Defender110_koleso",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 600.0
+                },
+                {
+                    "ItemName": "Defender110_koleso",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 600.0
+                },
+                {
+                    "ItemName": "Defender110_koleso",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 600.0
+                },
+                {
+                    "ItemName": "Defender110_koleso",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 600.0
+                },
+                {
+                    "ItemName": "Defender110_dver_1_1_Green",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 500.0
+                },
+                {
+                    "ItemName": "Defender110_dver_2_1_Green",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 500.0
+                },
+                {
+                    "ItemName": "Defender110_dver_1_2_Green",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 500.0
+                },
+                {
+                    "ItemName": "Defender110_dver_2_2_Green",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 500.0
+                },
+                {
+                    "ItemName": "Defender110_kapot_Green",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 600.0
+                },
+                {
+                    "ItemName": "Defender110_bagazhnik_Green",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 500.0
+                },
+                {
+                    "ItemName": "Barrel_Red",
+                    "VehicleCargoAmmount": 2128,
+                    "KeyHash": 0,
+                    "Health": 1300.0
+                },
+                {
+                    "ItemName": "CanisterGasoline",
+                    "VehicleCargoAmmount": 10000,
+                    "KeyHash": 0,
+                    "Health": 300.0
+                },
+                {
+                    "ItemName": "CodeLock",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 1500.0
+                },
+                {
+                    "ItemName": "CodeLock",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 1496.6124267578126
+                },
+                {
+                    "ItemName": "CodeLock",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 1496.6124267578126
+                },
+                {
+                    "ItemName": "FP4_MiniGloves_Brown",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 1549.0302734375
+                },
+                {
+                    "ItemName": "LeatherKnifeSheath",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "MilitaryBelt",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 27.375
+                },
+                {
+                    "ItemName": "Mag_SV98_10Rnd",
+                    "VehicleCargoAmmount": 10,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "FP4_HuntingTOP_Bag_BLACK",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "KOD_AWM_Suppressor",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 8.0
+                },
+                {
+                    "ItemName": "Bandaid_bandage",
+                    "VehicleCargoAmmount": 9,
+                    "KeyHash": 0,
+                    "Health": 96.625
+                },
+                {
+                    "ItemName": "TOPVest_black",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 1408.8251953125
+                },
+                {
+                    "ItemName": "Bandaid_bandage",
+                    "VehicleCargoAmmount": 10,
+                    "KeyHash": 0,
+                    "Health": 96.625
+                },
+                {
+                    "ItemName": "FalconOptic",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "M4_Suppressor",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "WaterBottle",
+                    "VehicleCargoAmmount": 1000,
+                    "KeyHash": 0,
+                    "Health": 34.0625
+                },
+                {
+                    "ItemName": "CanisterGasoline",
+                    "VehicleCargoAmmount": 14261,
+                    "KeyHash": 0,
+                    "Health": 300.0
+                },
+                {
+                    "ItemName": "Barrel_Green",
+                    "VehicleCargoAmmount": 2589,
+                    "KeyHash": 0,
+                    "Health": 1300.0
+                },
+                {
+                    "ItemName": "GhillieAtt_Woodland",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 300.0
+                },
+                {
+                    "ItemName": "FP4_HuntingTOP_Bag_BLACK",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Mag_KOD_VR80_10rnd",
+                    "VehicleCargoAmmount": 3,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "PipeWrench",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 400.0
+                },
+                {
+                    "ItemName": "AK_Suppressor",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Whetstone",
+                    "VehicleCargoAmmount": 100,
+                    "KeyHash": 0,
+                    "Health": 50.0
+                },
+                {
+                    "ItemName": "PistolSuppressor",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 125.0
+                },
+                {
+                    "ItemName": "Hatchet",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 146.0
+                },
+                {
+                    "ItemName": "HeadlightH7",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 10.0
+                },
+                {
+                    "ItemName": "HeadlightH7",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 10.0
+                },
+                {
+                    "ItemName": "m82",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 2152.593505859375
+                },
+                {
+                    "ItemName": "AD_NFATACR_1_8",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Mag_m82_10Rnd",
+                    "VehicleCargoAmmount": 9,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "FP4_Nakl_DayZ",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "SparkPlug",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 20.0
+                },
+                {
+                    "ItemName": "KOD_RSASS_Black",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 133.4434051513672
+                },
+                {
+                    "ItemName": "Rope",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "MilitaryGear_PlateCarrier_Splinter_Dark",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 53.749855041503909
+                },
+                {
+                    "ItemName": "MilitaryGear_PlateCarrierPouches_Splinter_Dark",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 197.1862335205078
+                },
+                {
+                    "ItemName": "PlateCarrierHolster_SOBR",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "RGD5Grenade",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 50.0
+                },
+                {
+                    "ItemName": "RGD5Grenade",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 50.0
+                },
+                {
+                    "ItemName": "BandageDressing",
+                    "VehicleCargoAmmount": 4,
+                    "KeyHash": 0,
+                    "Health": 50.0
+                },
+                {
+                    "ItemName": "BandageDressing",
+                    "VehicleCargoAmmount": 4,
+                    "KeyHash": 0,
+                    "Health": 50.0
+                },
+                {
+                    "ItemName": "VitaminBottle",
+                    "VehicleCargoAmmount": 34,
+                    "KeyHash": 0,
+                    "Health": 44.99885559082031
+                },
+                {
+                    "ItemName": "SV98",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 628.1116943359375
+                },
+                {
+                    "ItemName": "Mag_SV98_10Rnd",
+                    "VehicleCargoAmmount": 10,
+                    "KeyHash": 0,
+                    "Health": 99.79857635498047
+                },
+                {
+                    "ItemName": "ImprovisedSuppressor",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 5.0
+                },
+                {
+                    "ItemName": "FalconOptic",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Mag_SV98_10Rnd",
+                    "VehicleCargoAmmount": 10,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Mag_SV98_10Rnd",
+                    "VehicleCargoAmmount": 10,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "VehicleKeyRed",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 1694747143,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "NVGHeadstrap",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "NVGoggles",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Battery9V",
+                    "VehicleCargoAmmount": 31,
+                    "KeyHash": 0,
+                    "Health": 20.0
+                },
+                {
+                    "ItemName": "DONDRINK_CANTEEN_GREY",
+                    "VehicleCargoAmmount": 1000,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Maska1_Helmet_black",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 1100.0
+                },
+                {
+                    "ItemName": "MilitaryGear_SmershVest_Splinter_Dark",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 48.375
+                },
+                {
+                    "ItemName": "MilitaryGear_SmershBag_Splinter_Dark",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 292.5625
+                },
+                {
+                    "ItemName": "DONDRINK_BOTTLE_PEPSICHRISTMAS",
+                    "VehicleCargoAmmount": 1000,
+                    "KeyHash": 0,
+                    "Health": 46.8125
+                },
+                {
+                    "ItemName": "FP4_HuntingTOP_Bag_BLACK",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 26.249998092651368
+                },
+                {
+                    "ItemName": "Msp_FourDoor_MilitaryLocker_Kit",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "VehicleKeyRed",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 1694747143,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "VehicleKeyRed",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 323495569,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "WoodAxe",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 250.0
+                },
+                {
+                    "ItemName": "Screwdriver",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Pickaxe",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 250.0
+                },
+                {
+                    "ItemName": "CarBattery",
+                    "VehicleCargoAmmount": 48,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "NailBox",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 80.0
+                },
+                {
+                    "ItemName": "Mag_KOD_PKM_100rnd",
+                    "VehicleCargoAmmount": 100,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "MetalWire",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 500.0
+                },
+                {
+                    "ItemName": "MetalWire",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 500.0
+                },
+                {
+                    "ItemName": "L96A1_Optic",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "L96A1_Optic",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Crowbar",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 500.0
+                },
+                {
+                    "ItemName": "WoodAxe",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 250.0
+                },
+                {
+                    "ItemName": "DuctTape",
+                    "VehicleCargoAmmount": 100,
+                    "KeyHash": 0,
+                    "Health": 50.0
+                },
+                {
+                    "ItemName": "NailBox",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 80.0
+                },
+                {
+                    "ItemName": "Pickaxe",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 250.0
+                },
+                {
+                    "ItemName": "CarBattery",
+                    "VehicleCargoAmmount": 47,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "SparkPlug",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 20.0
+                },
+                {
+                    "ItemName": "FenceKit",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Rope",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "FenceKit",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Rope",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "ShelterKit",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Rope",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "WatchtowerKit",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Rope",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "TerritoryFlagKit",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Rope",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "GorkaHelmet_Black",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 50.0
+                },
+                {
+                    "ItemName": "AD_NFATACR",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "NailBox",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 80.0
+                },
+                {
+                    "ItemName": "VehicleKeyRed",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 323495569,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Mag_m82_10Rnd",
+                    "VehicleCargoAmmount": 10,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Hacksaw",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Hacksaw",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Msp_GunCabinet_Kit",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "dzn_Pot",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "GhillieHood_Woodland",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Hacksaw",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Pliers",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Crowbar",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 500.0
+                }
+            ]
+        },
+        {
+            "indexID": 5,
+            "VehiclesHash": 0,
+            "GarageID": 1,
+            "EngineHealth": 2582.2470703125,
+            "FuelAmmount": 13.699540138244629,
+            "VehiclesName": "SavageSherpa_sport_black",
+            "SpawnPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "SpawnOri": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "m_Cargo": [
+                {
+                    "ItemName": "Sherpa_dummy_wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Sherpa_dummy_wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Sherpa_dummy_wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Sherpa_dummy_wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Sherpa_dummy_wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Sherpa_dummy_wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "CarBattery",
+                    "VehicleCargoAmmount": 50,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "SparkPlug",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 20.0
+                }
+            ]
+        }
+    ]
+}

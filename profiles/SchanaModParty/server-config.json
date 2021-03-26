@@ -1,0 +1,10 @@
+{
+    "logPartiesFrequencySeconds": 10,
+    "verbosity": 1,
+    "maxPartySize": -1,
+    "sendInfoFrequencySeconds": 2,
+    "sendMarkerFrequencySeconds": 2,
+    "maxMarkers": 10,
+    "maxPartyRefreshRate": 5,
+    "adminIds": []
+}

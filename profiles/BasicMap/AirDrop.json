@@ -1,0 +1,10 @@
+{
+    "ConfigVersion": "1",
+    "CircleRndRadius": 100.0,
+    "CircleDrawRadius": 100.0,
+    "CircleColor": [
+        255.0,
+        255.0,
+        0.0
+    ]
+}

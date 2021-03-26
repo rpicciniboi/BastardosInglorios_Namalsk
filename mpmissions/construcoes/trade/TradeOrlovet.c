@@ -1,0 +1,50 @@
+void TradeOrlovet()
+{
+	//POÇO DE ÁGUA
+	DroparObjeto( "Land_Misc_Well_Pump_Blue", "11454.712891 221.385544 7501.541504", "0.000000 0.000000 0.000000" );
+	//BANCO
+	//DroparObjeto( "DC_BankingATMYellow", "11461.177734 221.450027 7489.042480", "-164.000015 0.000000 0.000000" );
+	//OBJETOS
+	DroparObjeto( "bldr_misc_concreteblock2_stripes", "11462.235352 221.835693 7498.827637", "17.000011 0.000000 0.000000" );
+	DroparObjeto( "bldr_misc_concreteblock2_stripes", "11465.702148 221.885696 7497.773926", "17.000002 0.000000 0.000000" );
+	DroparObjeto( "bldr_misc_concreteblock2_stripes", "11469.184570 221.835693 7496.653809", "17.000006 0.000000 0.000000" );
+	DroparObjeto( "bldr_misc_concreteblock1", "11440.893555 221.252716 7500.647949", "-73.000000 0.000000 0.000000" );
+	DroparObjeto( "bldr_misc_concreteblock1", "11439.223633 221.252716 7501.123047", "-76.000000 0.000000 0.000000" );
+	DroparObjeto( "bldr_misc_concreteblock1", "11442.775391 221.252716 7500.022461", "-72.000000 0.000000 0.000000" );
+	DroparObjeto( "bldr_misc_concreteblock1", "11437.306641 221.252716 7501.572754", "-80.000000 0.000000 0.000000" );
+	DroparObjeto( "bldr_misc_concreteblock1", "11435.270508 221.219696 7501.963379", "-80.000000 0.000000 0.000000" );
+	DroparObjeto( "bldr_misc_concreteblock1", "11433.316406 221.197327 7502.292480", "-80.000000 0.000000 0.000000" );
+	DroparObjeto( "bldr_wall_fen1_5_2", "11476.814453 221.647461 7497.938477", "-51.000008 0.000000 0.000000" );
+	DroparObjeto( "bldr_wall_fen1_5_2", "11479.998047 221.647461 7501.840820", "-50.999989 0.000000 0.000000" );
+	DroparObjeto( "bldr_wall_fen1_5_2", "11483.049805 221.647461 7505.726074", "-51.000000 0.000000 0.000000" );
+	DroparObjeto( "bldr_wall_fen1_5_2", "11482.965820 221.647461 7509.576660", "-128.999939 0.000000 0.000000" );
+	DroparObjeto( "bldr_wall_fen1_5_2", "11479.490234 221.647461 7513.180664", "-136.999985 0.000000 0.000000" );
+	DroparObjeto( "bldr_wall_fen1_5_2", "11479.344727 221.647461 7516.844238", "-47.999985 0.000000 0.000000" );
+	DroparObjeto( "bldr_wall_fen1_5_2", "11482.734375 221.647461 7520.580566", "-48.000004 0.000000 0.000000" );
+	DroparObjeto( "bldr_wall_fen1_5_2", "11486.083984 221.631409 7524.374023", "-48.000004 0.000000 0.000000" );
+	DroparObjeto( "bldr_wall_fen1_5_2", "11485.916992 221.689056 7527.911133", "-136.000015 0.000000 0.000000" );
+	DroparObjeto( "bldr_wall_fen1_5_2", "11481.934570 221.689697 7530.928223", "-149.000031 0.000000 0.000000" );
+	DroparObjeto( "bldr_wall_fen1_5_2", "11479.837891 221.647461 7534.765625", "-88.999985 0.000000 0.000000" );
+	DroparObjeto( "bldr_wall_fen1_5_2", "11480.174805 221.689713 7539.768555", "-82.000008 0.000000 0.000000" );
+	DroparObjeto( "bldr_sign_roadblock_arrow", "11457.447266 221.900055 7490.106445", "-29.000017 -2.000000 -11.000002" );
+	DroparObjeto( "bldr_sign_build_bes", "11452.353516 223.718124 7493.730469", "-161.999985 -1.000000 0.000000" );
+	DroparObjeto( "bldr_sign_roof_cerselprom", "11465.827148 226.872101 7498.395508", "17.000006 0.000000 0.000000" );
+	DroparObjeto( "Land_Wreck_Ikarus", "11484.577148 236.488388 7487.267578", "179.999985 -90.000000 179.999985" );
+	//maquina de carros
+	DroparObjeto( "Land_Mil_GuardShed", "11455.790039 221.687195 7553.561523", "38.000004 0.000000 0.000000" );
+	//DroparObjeto( "ZT_Vending_Vehicles_rusty", "11456.020508 222.000397 7553.797852", "-141.999985 0.000000 0.000000" );
+	//posiçao do carro
+	//DroparObjeto( "OffroadHatchback", "11452.282227 220.798325 7562.192871", "126.999992 0.000000 0.000000" );
+	DroparObjeto( "bldr_misc_concreteblock2_stripes", "11453.866211 221.385666 7555.820801", "37.000000 0.000000 0.000000" );
+	DroparObjeto( "bldr_misc_concreteblock2_stripes", "11451.071289 221.385666 7557.895508", "37.000000 0.000000 0.000000" );
+	DroparObjeto( "bldr_misc_concreteblock2_stripes", "11459.202148 221.335663 7562.019531", "36.999996 0.000000 0.000000" );
+	DroparObjeto( "bldr_misc_concreteblock2_stripes", "11456.263672 221.335663 7564.228516", "37.000000 0.000000 0.000000" );
+	DroparObjeto( "bldr_misc_concreteblock2_stripes", "11453.106445 221.335663 7566.597656", "37.000000 0.000000 0.000000" );
+	DroparObjeto( "bldr_misc_concreteblock2_stripes", "11450.436523 221.335663 7568.619141", "37.000000 0.000000 0.000000" );
+	DroparObjeto( "bldr_misc_concreteblock2_stripes", "11448.138672 221.385666 7567.757813", "126.999985 0.000000 0.000000" );
+	DroparObjeto( "bldr_misc_concreteblock2_stripes", "11445.696289 221.385666 7564.516113", "126.999992 0.000000 0.000000" );
+	DroparObjeto( "bldr_misc_concreteblock2_stripes", "11448.408203 221.385666 7559.908203", "37.000000 0.000000 0.000000" );
+	DroparObjeto( "bldr_misc_concreteblock2_stripes", "11445.574219 221.385666 7562.002930", "37.000000 0.000000 0.000000" );
+	DroparObjeto( "Land_Mil_GuardShed", "11462.894531 221.137161 7562.000977", "-142.999969 0.000000 0.000000" );
+	DroparObjeto( "Land_FuelStation_Feed", "11462.564453 221.858673 7561.836914", "37.000000 0.000000 0.000000" );
+};

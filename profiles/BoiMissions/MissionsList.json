@@ -1,0 +1,16 @@
+{
+	"MissionList":[					
+		{
+			"type": "carAccident",
+			"name": "caVehicles"
+		},
+		{
+			"type": "noradiationMission",
+			"name": "rTrain"
+		},
+		{
+			"type": "noradiationMission",
+			"name": "rHeliCrash"
+		}		
+	]
+}

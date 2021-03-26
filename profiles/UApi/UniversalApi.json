@@ -1,0 +1,9 @@
+{
+    "ConfigVersion": "1",
+    "ServerURL": "https://boihost.ddns.net/",
+    "ServerID": "1",
+    "ServerAuth": "rp0781PHAJLboihostddnsnetBastardosInglorios",
+    "QnAEnabled": 0,
+    "EnableBuiltinLogging": 0,
+    "PromptDiscordOnConnect": 0
+}

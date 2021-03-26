@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<economycore>
+	<classes>
+<!--
+These are rootclasses to be used by economy.
+Do not forget to add attribute act="character", if root class represents character (player, infected, animal)
+Do not forget to add attribute act="car", if root class represents moveable vehicles
+-->
+		<rootclass name="DefaultWeapon" /> <!-- weapons -->
+		<rootclass name="DefaultMagazine" /> <!-- magazines -->
+		<rootclass name="Inventory_Base" /> <!-- inventory items -->
+		<rootclass name="HouseNoDestruct" reportMemoryLOD="no" /> <!-- houses, wrecks -->
+		<rootclass name="SurvivorBase" act="character" reportMemoryLOD="no" /> <!-- player characters -->
+		<rootclass name="DZ_LightAI" act="character" reportMemoryLOD="no" /> <!-- infected, animals -->
+		<rootclass name="CarScript" act="car" reportMemoryLOD="no" /> <!-- cars (sedan, hatchback, transitBus, V3S, ...) -->
+	</classes>
+	<ce folder="db">
+		<file name="types_dzn.xml" type="types" />
+	</ce>
+	<ce folder="bing_ce">
+		<!-- TYPES -->
+		<!-- ARMAS -->
+		<!-- <file name="types_HellRetexWeapons.xml" type="types" /> -->
+		<!-- <file name="types_StWeapons.xml" type="types" /> -->
+		<!-- <file name="types_DocsWeapons.xml" type="types" /> -->
+		<!-- <file name="types_CPBWeapons.xml" type="types" /> -->
+		<file name="types_WeaponRedux.xml" type="types" />
+		<!--<file name="types_Arma2Remaster.xml" type="types" /> -->
+		<file name="types_Fidov4Pack.xml" type="types" />
+		<file name="types_KODWeapons.xml" type="types" />
+		<!-- <file name="types_MortysWeapons.xml" type="types" /> -->
+		<!-- <file name="types_MoreGuns.xml" type="types" /> -->
+		<!-- <file name="types_Arma2M200.xml" type="types" /> -->
+		<!-- <file name="types_SpecialistWeaponPack.xml" type="types" /> -->
+		<file name="types_AdvancedWeaponScopes.xml" type="types" /> 
+		<file name="types_WeaponExpansionScopes.xml" type="types" /> 
+		<!-- DROGAS -->
+		<!-- <file name="types_CannabisPlus.xml" type="types" /> -->
+		<!-- COMIDA -->
+		<file name="types_MoreFood.xml" type="types" />
+		<!-- <file name="types_SurvivorFoods.xml" type="types" /> -->
+		<!-- <file name="types_PerishableFood.xml" type="types" /> -->
+		<!-- CARROS -->		
+		<!-- <file name="types_TrailBrozer.xml" type="types" /> -->
+		<!-- <file name="types_Tahoe.xml" type="types" /> -->
+		<!-- <file name="types_RagHummer.xml" type="types" /> -->
+		<!-- <file name="types_LX570.xml" type="types" /> -->
+		<!-- <file name="types_VAZ2107.xml" type="types" /> -->
+		<!-- <file name="types_DingoTruck.xml" type="types" /> -->
+		<!-- <file name="types_MRAP.xml" type="types" />
+		<file name="types_LAPV.xml" type="types" />
+		<file name="types_GlowlerITV.xml" type="types" /> -->
+		<!-- <file name="types_CarBuildingPlus.xml" type="types" /> -->
+		<file name="types_savage.xml" type="types" />
+		<file name="types_LandRoverDefender.xml" type="types" />
+		<file name="types_CarCover.xml" type="types" />
+		<!-- <file name="types_DboMustang.xml" type="types" />           -->
+		<!-- <file name="types_TrailBruiser.xml" type="types" />         -->
+		<!-- <file name="types_PickupLada.xml" type="types" />           -->
+		<!-- <file name="types_WickedRV.xml" type="types" />             -->
+		<!-- <file name="types_RusflexTypoon.xml" type="types" />        -->
+		<!-- <file name="types_PitBullVX.xml" type="types" />            -->
+		<!-- <file name="types_RagHummerArmored.xml" type="types" />     -->
+		<!-- <file name="types_MuchCarKey.xml" type="types" />           -->
+		<!-- ROUPA -->
+		<file name="types_Cl0ud'sMilitaryGear.xml" type="types" />
+		<file name="types_RoupasBastardos.xml" type="types" />
+		<!-- BASE -->
+		<file name="types_MuchStuffPack.xml" type="types" />
+		<file name="types_Codelock.xml" type="types" />
+		<file name="types_SimpleBase.xml" type="types" /> 
+		<file name="types_FBF.xml" type="types" /> 
+		<!-- <file name="types_BaseFurniture30.xml" type="types" /> -->
+		<!-- <file name="types_BBP.xml" type="types" /> -->
+		<!-- RAID -->
+		<!-- <file name="types_HackingMod.xml" type="types" /> --
+		<!-- MISSÕES -->
+		<!-- <file name="types_RadiationZone.xml" type="types" /> -->
+		<!-- <file name="types_CJ187WreckedSites.xml" type="types" /> -->
+		<!-- ZUMBIS -->
+		<!--<file name="types_CreepyZombies.xml" type="types" /> -->
+		<!-- OBJETOS -->
+		<!-- <file name="types_NaoListados.xml" type="types" />   -->
+		<!-- <file name="types_Books.xml" type="types" />         -->
+
+		<!-- SPAWNABLETYPES -->
+		<!-- ARMAS -->
+		<file name="spawnabletypes_Fidov4Pack.xml" type="spawnabletypes" />
+		<file name="spawnabletypes_KODWeapons.xml" type="spawnabletypes" />
+		<!-- <file name="spawnabletypes_MortysWeapons.xml" type="spawnabletypes" /> -->
+		<!-- <file name="spawnabletypes_DocsWeapons.xml" type="spawnabletypes" /> -->
+		<!-- <file name="spawnabletypes_HellRetexWeapons.xml" type="spawnabletypes" /> -->
+		<!-- <file name="spawnabletypes_Arma2M200.xml" type="spawnabletypes" /> -->
+		<!-- <file name="spawnabletypes_MoreGuns.xml" type="spawnabletypes" /> -->
+		<!-- <file name="spawnabletypes_SpecialistWeaponPack.xml" type="spawnabletypes" /> -->
+		<!--<file name="spawnabletypes_CPBWeapons.xml" type="spawnabletypes" /> -->
+		<!-- CARROS -->
+		<!-- <file name="spawnabletypes_RagHummer.xml" type="spawnabletypes" /> -->
+		<file name="spawnabletypes_LandRoverDefender.xml" type="spawnabletypes" />
+		<file name="spawnabletypes_savage.xml" type="spawnabletypes" />
+ 		<!-- <file name="spawnabletypes_DboMustang.xml" type="spawnabletypes" />       -->
+		<!-- <file name="spawnabletypes_TrailBruiser.xml" type="spawnabletypes" />     -->
+		<!-- <file name="spawnabletypes_PickupLada.xml" type="spawnabletypes" />       -->
+		<!-- <file name="spawnabletypes_RusflexTypoon.xml" type="spawnabletypes" />    -->
+		<!-- <file name="spawnabletypes_RagHummerArmored.xml" type="spawnabletypes" /> -->
+		<!-- <file name="spawnabletypes_LX570.xml" type="spawnabletypes" /> -->
+		<!-- <file name="spawnabletypes_VAZ2107.xml" type="spawnabletypes" /> -->
+		
+		<!-- COMIDA -->
+		<file name="spawnabletypes_MoreFood.xml" type="spawnabletypes" />
+		
+		<!-- ZUMBIS -->
+		<!-- <file name="spawnabletypes_CreepyZombies.xml" type="spawnabletypes" /> -->
+
+		<!-- EVENTS -->
+		<!--<file name="events_HeliCrash.xml" type="events" /> -->
+		<!-- <file name="events_Vehicles.xml" type="events" /> -->
+		<!-- <file name="events_CreepyZombies.xml" type="events" /> -->
+		<!-- <file name="events_LandRoverDefender.xml" type="events" /> -->
+		<!-- <file name="events_TrailBrozer.xml" type="events" /> -->
+		<!-- <file name="events_Tahoe.xml" type="events" /> -->
+		<!-- <file name="events_TrailBruiser.xml" type="events" /> -->
+		<!-- <file name="events_RagHummer.xml" type="events" /> -->
+		<!-- <file name="events_LX570.xml" type="events" /> -->
+		<!-- <file name="events_DboMustang.xml" type="events" /> -->
+		<!-- <file name="events_PickupLada.xml" type="events" /> -->
+		<!-- <file name="events_VAZ2107.xml" type="events" /> -->
+	</ce>
+</economycore>

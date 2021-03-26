@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+    <damage min="0.3" max="0.7" />
+    <type name="KOD_AX50">
+        <attachments chance="0.60">
+            <item name="Mag_KOD_AX50_5Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="KOD_DVL10">
+        <attachments chance="0.60">
+            <item name="Mag_KOD_DVL10_5Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="KOD_DVL10M1">
+        <attachments chance="0.60">
+            <item name="Mag_KOD_DVL10M1_5Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="KOD_HK417">
+        <attachments chance="0.60">
+            <item name="Mag_KOD_HK417_20Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="KOD_K98"/>
+    <type name="KOD_AX50">
+        <attachments chance="0.60">
+            <item name="Mag_KOD_AX50_5Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="KOD_M110_Tan">
+        <attachments chance="0.60">
+            <item name="Mag_KOD_M110_10Rnd" chance="0.50" />
+            <item name="Mag_KOD_M110_20Rnd" chance="0.50" />
+        </attachments>
+    </type>
+    <type name="KOD_M110_Black">
+        <attachments chance="0.60">
+            <item name="Mag_KOD_M110_10Rnd" chance="0.50" />
+            <item name="Mag_KOD_M110_20Rnd" chance="0.50" />
+        </attachments>
+    </type>
+    <type name="KOD_M16A4">
+        <attachments chance="1.00">
+            <item name="M4_CQBBttstck" chance="0.33" />
+            <item name="M4_MPBttstck" chance="0.33" />
+            <item name="M4_OEBttstck" chance="0.34" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="M4_PlasticHndgrd" chance="0.33" />
+            <item name="M4_RISHndgrd" chance="0.33" />
+            <item name="M4_MPHndgrd" chance="0.34" />
+        </attachments>
+        <attachments chance="1.0">
+            <item name="M4_CarryHandleOptic" chance="0.30" />
+            <item name="BUISOptic" chance="0.24" />
+            <item name="ReflexOptic" chance="0.20" />
+            <item name="M4_T3NRDSOptic" chance="0.10" />
+            <item name="M68Optic" chance="0.10" />
+            <item name="ACOGOptic" chance="0.06" />
+        </attachments>
+        <attachments chance="1.0">
+            <item name="Mag_CMAG_10Rnd" chance="0.10" />
+            <item name="Mag_CMAG_20Rnd" chance="0.15" />
+            <item name="Mag_STANAG_30Rnd" chance="0.25" />
+            <item name="Mag_CMAG_30Rnd" chance="0.25" />
+            <item name="Mag_CMAG_40Rnd" chance="0.15" />
+            <item name="Mag_STANAGCoupled_30Rnd" chance="0.10" />
+            <item name="Mag_CMAG_100Rnd" chance="0.10" />
+        </attachments>
+        <attachments chance="0.1">
+            <item name="M4_Suppressor" chance="0.50" />
+        </attachments>
+    </type>
+    <type name="KOD_M82A2_Grey">
+        <attachments chance="0.80">
+            <item name="FalconOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="0.60">
+            <item name="Mag_KOD_M82A2_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="0.10">
+            <item name="KOD_M82A2_Suppressor_Grey" chance="0.50" />
+        </attachments>
+    </type>
+    <type name="KOD_M82A2_Black">
+        <attachments chance="0.80">
+            <item name="FalconOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="0.60">
+            <item name="Mag_KOD_M82A2_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="0.10">
+            <item name="KOD_M82A2_Suppressor_Tan" chance="0.50" />
+        </attachments>
+    </type>
+    <type name="KOD_M82A2_Tan">
+        <attachments chance="0.80">
+            <item name="FalconOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="0.60">
+            <item name="Mag_KOD_M82A2_10Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="0.10">
+            <item name="KOD_M82A2_Suppressor_Black" chance="0.50" />
+        </attachments>
+    </type>
+    <type name="KOD_PKM">
+        <attachments chance="0.80">
+            <item name="PSO11Optic" chance="1.00" />
+        </attachments>
+        <attachments chance="0.60">
+            <item name="Mag_KOD_PKM_100Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="KOD_R700">
+        <attachments chance="0.20">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="0.40">
+            <item name="Mag_KOD_R700_7Rnd" chance="1.00" />
+        </attachments>
+    </type>	
+    <type name="KOD_Ruger">
+        <attachments chance="0.20">
+            <item name="HuntingOptic" chance="1.00" />
+        </attachments>
+        <attachments chance="0.40">
+            <item name="Mag_KOD_Ruger_5Rnd" chance="1.00" />
+        </attachments>
+    </type>	
+    <type name="KOD_SCARH">
+        <attachments chance="1.0">
+            <item name="M4_CarryHandleOptic" chance="0.30" />
+            <item name="BUISOptic" chance="0.24" />
+            <item name="ReflexOptic" chance="0.20" />
+            <item name="M4_T3NRDSOptic" chance="0.10" />
+            <item name="M68Optic" chance="0.10" />
+            <item name="ACOGOptic" chance="0.06" />
+        </attachments>
+        <attachments chance="0.60">
+            <item name="Mag_KOD_SCARH_20Rnd" chance="0.45" />
+            <item name="Mag_KOD_SCARH_30Rnd" chance="0.45" />
+            <item name="Mag_KOD_Drum308_50Rnd" chance="0.10" />
+        </attachments>
+        <attachments chance="0.10">
+            <item name="KOD_Suppressor_308" chance="0.50" />
+        </attachments>
+    </type>	
+    <type name="KOD_RSASS_Black">
+        <attachments chance="0.40">
+            <item name="Mag_KOD_RSASS_20Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="KOD_RSASS_Tan">
+        <attachments chance="0.40">
+            <item name="Mag_KOD_RSASS_20Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="KOD_RPK16">
+        <attachments chance="0.60">
+            <item name="Mag_KOD_RPK16_96Rnd" chance="1.00" />
+        </attachments>
+    </type>
+    <type name="KOD_SVD_Wood">
+        <attachments chance="0.80">
+            <item name="PSO1Optic" chance="1.00" />
+        </attachments>
+        <attachments chance="0.60">
+            <item name="Mag_SVD_10Rnd" chance="1.00" />
+        </attachments>
+    </type>	
+    <type name="KOD_FAL_Wood">
+        <attachments chance="1.0">
+            <item name="M4_CarryHandleOptic" chance="0.30" />
+            <item name="BUISOptic" chance="0.24" />
+            <item name="ReflexOptic" chance="0.20" />
+            <item name="M4_T3NRDSOptic" chance="0.10" />
+            <item name="M68Optic" chance="0.10" />
+            <item name="ACOGOptic" chance="0.06" />
+        </attachments>
+        <attachments chance="0.60">
+			<item name="Mag_FAL_20Rnd" chance="1.00" />
+        </attachments>
+    </type>	
+    <type name="KOD_AK47">
+        <attachments chance="0.30">
+            <item name="Mag_KOD_AK47_20Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="0.10">
+            <item name="AK_Suppressor" chance="0.50" />
+        </attachments>
+    </type>
+    <type name="KOD_AK15">
+        <attachments chance="1.00">
+            <item name="KOD_AK_Bttstck" chance="0.33" />
+            <item name="AK74_WoodBttstck" chance="0.33" />
+            <item name="AK_FoldingBttstck" chance="0.33" />
+            <item name="AK_PlasticBttstck" chance="0.34" />
+            <item name="AK_WoodBttstck" chance="0.33" />
+            <item name="AKS74U_Bttstck" chance="0.33" />
+        </attachments>
+        <attachments chance="0.30">
+            <item name="Mag_AKM_30Rnd" chance="0.40" />
+            <item name="Mag_AKM_Palm30Rnd" chance="0.40" />
+            <item name="Mag_AKM_Drum75Rnd" chance="0.20" />
+        </attachments>
+        <attachments chance="0.20">
+            <item name="KobraOptic" chance="0.50" />
+            <item name="KashtanOptic" chance="0.30" />
+            <item name="PSO1Optic" chance="0.20" />
+        </attachments>
+        <attachments chance="0.10">
+            <item name="AK_Bayonet" chance="0.50" />
+            <item name="AK_Suppressor" chance="0.50" />
+        </attachments>
+    </type>
+    <type name="KOD_AKALPHA">
+        <attachments chance="0.30">
+            <item name="Mag_KOD_AKALPHA_30Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="0.20">
+            <item name="KobraOptic" chance="0.50" />
+            <item name="KashtanOptic" chance="0.30" />
+            <item name="PSO1Optic" chance="0.20" />
+        </attachments>
+        <attachments chance="0.10">
+            <item name="AK_Bayonet" chance="0.50" />
+            <item name="AK_Suppressor" chance="0.50" />
+        </attachments>
+    </type>
+    <type name="KOD_Beowulf">
+        <attachments chance="1.0">
+            <item name="M4_CarryHandleOptic" chance="0.30" />
+            <item name="BUISOptic" chance="0.24" />
+            <item name="ReflexOptic" chance="0.20" />
+            <item name="M4_T3NRDSOptic" chance="0.10" />
+            <item name="M68Optic" chance="0.10" />
+            <item name="ACOGOptic" chance="0.06" />
+        </attachments>
+        <attachments chance="0.60">
+			<item name="Mag_KOD_Beowulf_10Rnd" chance="1.00" />
+        </attachments>
+    </type>	
+    <type name="KOD_ASH12">
+        <attachments chance="0.60">
+			<item name="Mag_KOD_ASH12_20Rnd" chance="1.00" />
+        </attachments>
+    </type>		
+    <type name="KOD_AWM">
+        <attachments chance="0.80">
+            <item name="KOD_AWM_Scope" chance="1.00" />
+        </attachments>
+        <attachments chance="0.60">
+            <item name="Mag_KOD_AWM_5Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="0.1">
+            <item name="KOD_AWM_Suppressor" chance="0.50" />
+        </attachments>
+    </type>
+    <type name="KOD_AEK971">
+        <attachments chance="0.30">
+            <item name="Mag_AK74_30Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="0.20">
+            <item name="KobraOptic" chance="0.50" />
+            <item name="KashtanOptic" chance="0.30" />
+            <item name="PSO1Optic" chance="0.20" />
+        </attachments>
+        <attachments chance="0.10">
+            <item name="AK_Bayonet" chance="0.50" />
+            <item name="AK_Suppressor" chance="0.50" />
+        </attachments>
+    </type>
+    <type name="KOD_AK12">
+        <attachments chance="1.00">
+            <item name="KOD_AK_Bttstck" chance="0.33" />
+            <item name="AK74_WoodBttstck" chance="0.33" />
+            <item name="AK_FoldingBttstck" chance="0.33" />
+            <item name="AK_PlasticBttstck" chance="0.34" />
+            <item name="AK_WoodBttstck" chance="0.33" />
+            <item name="AKS74U_Bttstck" chance="0.33" />
+        </attachments>
+        <attachments chance="0.30">
+            <item name="Mag_AK74_30Rnd" chance="1.00" />
+        </attachments>
+        <attachments chance="0.20">
+            <item name="KobraOptic" chance="0.50" />
+            <item name="KashtanOptic" chance="0.30" />
+            <item name="PSO1Optic" chance="0.20" />
+        </attachments>
+        <attachments chance="0.10">
+            <item name="AK_Bayonet" chance="0.50" />
+            <item name="AK_Suppressor" chance="0.50" />
+        </attachments>
+    </type>
+    <type name="KOD_MP5SD">
+        <attachments chance="0.40">
+            <item name="Mag_MP5_15Rnd" chance="0.60" />
+            <item name="Mag_MP5_30Rnd" chance="0.40" />
+        </attachments>
+    </type>
+    <type name="KOD_VR80">
+        <attachments chance="0.40">
+            <item name="Mag_KOD_VR80_10Rnd" chance="0.60" />
+            <item name="Mag_KOD_VR80_30Rnd" chance="0.40" />
+        </attachments>
+    </type>
+</spawnabletypes>

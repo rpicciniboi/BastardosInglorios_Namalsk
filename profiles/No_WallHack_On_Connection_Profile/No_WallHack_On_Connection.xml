@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<type name="No_WallHack_Connection">
+        <Black_Screen_Timer 			Value 	= "2.0"/>				<!-- in seconds [0.0 to infinite]  -->		
+        <Black_Screen_Text 	Tittle 				= "ENTRAR SEM WALLHACK!!"/>	
+        <Black_Screen_Text 	Description 		= "Impossível ver através das paredes enquanto termina o carregamento do mapa"/>	
+        <Black_Screen_Text 	WaitingTime 		= "...AGUARDE..."/>			<!-- Text before player can press key  -->
+        <Black_Screen_Text 	InstructionsBegin 	= "SEGURE a tecla 'SHIFT' por "/>	<!-- Text before the number of seconds  -->
+        <Black_Screen_Text 	InstructionsEnd 	= " segundos"/>			<!-- Text after  the number of seconds  -->
+    </type>
+</types>

@@ -1,0 +1,62 @@
+{
+    "CooldownForGarage": 2,
+    "MaxVehiclesToStore": 10,
+    "CostsToParkInVehicle": 0,
+    "CostsToParkOutVehicle": 0,
+    "CanPayWithBankAccount": 0,
+    "KeepInventory": 1,
+    "IsLoggingActiv": 1,
+    "NPCConfig": [
+        {
+            "GarageID": 1,
+            "NPCCharacterName": "ZT_Vending_Estacionamento_rusty",
+            "NPCAttachments": [""],
+            "NPCSpawnPosX": 5518.779785,
+            "NPCSpawnPosY": 118.427673,
+            "NPCSpawnPosZ": 8194.549805,
+            "NPCSpawnYaw": -82.000053,
+            "NPCSpawnPitch": 0,
+            "NPCSpawnRoll": 0,
+            "CARSpawnPosX": 5524.390137,
+            "CARSpawnPosY": 118.400002,
+            "CARSpawnPosZ": 8196.619141,
+            "CARSpawnYaw": 6,
+            "CARSpawnPitch": 0,
+            "CARSpawnRoll": 0
+        }
+    ],
+    "CurrencyConfig": [
+        {
+            "Currency_Name": "Moeda_1",
+            "Currency_Amount": 1
+        },
+        {
+            "Currency_Name": "Moeda_5",
+            "Currency_Amount": 5
+        },
+        {
+            "Currency_Name": "Moeda_10",
+            "Currency_Amount": 10
+        },
+        {
+            "Currency_Name": "Moeda_20",
+            "Currency_Amount": 20
+        },
+        {
+            "Currency_Name": "Moeda_50",
+            "Currency_Amount": 50
+        },
+        {
+            "Currency_Name": "Moeda_100",
+            "Currency_Amount": 100
+        },
+        {
+            "Currency_Name": "Moeda_200",
+            "Currency_Amount": 200
+        }
+    ],
+    "ObjectWhiteList": [
+        "Land_Garage_Small",
+		"bldr_panels_concrete"
+    ]
+}

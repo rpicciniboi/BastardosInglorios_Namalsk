@@ -1,0 +1,45 @@
+serverTimeAcceleration = 3;
+instanceId = 5;
+equalModRequired = 0;
+maxPlayers = 50;
+disableBaseDamage = 1;
+disableContainerDamage = 1;
+logAverageFps = 180;
+guaranteedUpdates = 1;
+serverNightTimeAcceleration = 10;
+allowFilePatching = 0;
+forceSameBuild = 1;
+steamQueryPort = 27016;
+disablePersonalLight = 1;
+defaultObjectViewDistance = 2200;
+multithreadedReplication = 1;
+hostname = "[BR]Bastardos Inglorios - NAMALSK - NO RAID - 1PP";
+serverTime = "2011/11/1/9/49";
+passwordAdmin = "rp123456";
+class Missions
+{
+	class DayZ
+	{
+		template="regular.namalsk";
+	};
+};
+disableVoN = 0;
+vonCodecQuality = 20;
+defaultVisibility = 2200;
+loginQueueMaxPlayers = 500;
+storageAutoFix = 1;
+disable3rdPerson = 1;
+disableRespawnDialog = 1;
+loginQueueConcurrentPlayers = 5;
+password = "";
+enableWhitelist = 0;
+enableDebugMonitor = 0;
+verifySignatures = 2;
+storeHouseStateDisabled = 0;
+lightingConfig = 223;
+serverTimePersistent = 1;
+simulatedPlayersBatch = 20;
+disableCrosshair = 0;
+speedhackDetection = 0;
+TentCanBePlaceAnywhereLevel = 0;
+logFile = "serverconsole.log";

@@ -1,0 +1,30 @@
+{	
+	"active":1,	
+	"chance":1,
+	"nominal":1,
+	"restock":0,
+	"timeOffset":0,
+	"lifeTime":0,
+	"missionRespawn":0,
+	"timeRespawn":1800,
+	"missionSafeSpawnRadius":100,
+	"safeRadius":200,
+	"distanceRadius":0,
+	"cleanRadius":1450,	
+	"sendInfo":0,	
+	"missionDescription":"NWA radiation",
+	"textInfo":"Beware of radiation zone near #pos",	
+	"showInMap":1,
+	"mapTitle":"NWA radiation zone",	
+	"position": [
+		[4718.23,0,10487.3,0]
+		],
+	"positionOffset":0,		
+	"radiusOfRadiation":[1450,1450],
+	"strengthOfRadiation":[5,25],
+	"enableDeactivation":0,
+	"visualEffect":0,
+	"loot":[],
+	"vehicles":[],
+	"structures":[]	
+}

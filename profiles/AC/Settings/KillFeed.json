@@ -1,0 +1,49 @@
+{
+    "m_Enable": 1,
+    "m_Log": 1,
+    "m_Historic": 20,
+    "m_Notification": 5,
+    "m_Timeout": 5,
+    "m_Color": {
+        "m_Default": {
+            "m_A": 255,
+            "m_R": 255,
+            "m_G": 255,
+            "m_B": 255
+        },
+        "m_Head": {
+            "m_A": 255,
+            "m_R": 255,
+            "m_G": 204,
+            "m_B": 0
+        },
+        "m_Killer": {
+            "m_A": 255,
+            "m_R": 0,
+            "m_G": 179,
+            "m_B": 0
+        },
+        "m_Victim": {
+            "m_A": 255,
+            "m_R": 255,
+            "m_G": 26,
+            "m_B": 26
+        }
+    },
+    "m_Message": {
+        "m_Animal": "%VictimInfo% foi rasgado por %KillerInfo%.",
+        "m_Bleeding": "%VictimInfo% morreu sangrando antes de chegar no SUS.",
+        "m_Custom": "%VictimInfo% foi morto por %KillerInfo%.",
+        "m_Died": "%VictimInfo% faleceu.",
+        "m_Energy": "%VictimInfo% morreu com o estômago roncando.",
+        "m_Grenade": "%VictimInfo% foi-se no boooooooom do(a) %KillerInfo%!",
+        "m_Melee": "%VictimInfo% foi esfacelado por %KillerInfo% com a %WeaponName%.",
+        "m_Player": "%VictimInfo% foi morto por %KillerInfo%.",
+        "m_Suicide": "%VictimInfo% suicidou-se a si mesmo.",
+        "m_Trap": "%VictimInfo% caiu na armadilha do(a) %KillerInfo%!",
+        "m_Water": "%VictimInfo% decidiu atravessar o deserto do DayZ sem uma gota de água... não foi longe!",
+        "m_Weapon": "%VictimInfo% foi varado por %KillerInfo% com a %WeaponName% a uma distância de %KillRange% metros.",
+        "m_Zombie": "%VictimInfo% conseguiu morrer pros morto vivo."
+    },
+    "m_Webhook": "https://discord.com/api/webhooks/811675948515721263/2RG2p-n35B0q48mUiO5RlX8vsLtZeZr18jenfkBOnspNLFz4F8zNU03pm4SBDSAMQXlE"
+}

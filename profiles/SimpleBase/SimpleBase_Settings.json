@@ -1,0 +1,70 @@
+{
+    "BaseBuildTools": [
+        "Hatchet",
+        "Hammer"
+    ],
+    "BaseDismantleTools": [
+        "Hatchet",
+        "Crowbar"
+    ],
+    "BaseDestroyToolsWood": [
+        "SledgeHammer",
+        "Pickaxe",
+        "FirefighterAxe",
+        "WoodAxe"
+    ],
+    "BaseDestroyToolsMetal": [
+        "SledgeHammer",
+        "Pickaxe",
+        "FirefighterAxe"
+    ],
+    "BaseDestroyToolsConcrete": [
+        "SledgeHammer",
+        "Pickaxe"
+    ],
+    "BaseBuildTime": 20,
+    "BaseDismantleTime": 60,
+    "BaseDestroyTimeDefault": 600,
+    "BaseDestroyTimeWood": 600,
+    "BaseDestroyTimeMetal": 900,
+    "BaseDestroyTimeConcrete": 1800,
+    "BaseDestroyTimeSBUpgradeLogs": 600,
+    "BaseDestroyTimeSBUpgradeMetal": 900,
+    "BaseDestroyTimeSBUpgradeBars": 300,
+    "BaseBuildToolDamage": 3,
+    "BaseDismantleToolDamage": 5,
+    "BaseDestroyToolDamageWood": 50,
+    "BaseDestroyToolDamageMetal": 100,
+    "BaseDestroyToolDamageConcrete": 1000,
+    "BaseDestroyToolDamageUpgradeLogs": 50,
+    "BaseDestroyToolDamageUpgradeMetal": 100,
+    "BaseDestroyToolDamageUpgradeBars": 50,
+    "BaseInfiniteLifetime": 0,
+    "BaseRaidOnlyDoors": 0,
+    "DisableCraftVanillaFence": 0,
+    "DisableCraftVanillaWatchtower": 0,
+    "DisableDestroy": 1,
+    "DisableDestroySimpleBase": 1,
+    "DisableDestroySimpleWall": 1,
+    "DisableDestroySimpleHalfWall": 1,
+    "DisableDestroySimpleWindow": 1,
+    "DisableDestroySimpleDoor": 1,
+    "DisableDestroySimpleGate": 1,
+    "DisableDestroySimpleRoof": 1,
+    "DisableDestroySimpleFloor": 1,
+    "DisableDestroySimpleStaircase": 1,
+    "DisableDestroySimplePillar": 1,
+    "DisableDestroySimpleHalfPillar": 1,
+    "DisableDismantle": 0,
+    "DisableDismantleSimpleBase": 0,
+    "DisableDismantleSimpleWall": 0,
+    "DisableDismantleSimpleHalfWall": 0,
+    "DisableDismantleSimpleWindow": 0,
+    "DisableDismantleSimpleDoor": 0,
+    "DisableDismantleSimpleGate": 0,
+    "DisableDismantleSimpleRoof": 0,
+    "DisableDismantleSimpleFloor": 0,
+    "DisableDismantleSimpleStaircase": 0,
+    "DisableDismantleSimplePillar": 0,
+    "DisableDismantleSimpleHalfPillar": 0
+}

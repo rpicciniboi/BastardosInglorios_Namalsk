@@ -1,0 +1,23 @@
+void SpawnObject(string objType, vector objPos, vector objOrientation)
+{
+	Object m_Building = Object.Cast(GetGame().CreateObject(objType, objPos));
+	if (m_Building == null) return;
+	m_Building.SetAffectPathgraph(true, false);
+	GetGame().GetCallQueue(CALL_CATEGORY_SYSTEM).CallLater(GetGame().UpdatePathgraphRegionByObject, 100, false, m_Building);
+	m_Building.SetPosition(objPos);
+	m_Building.SetOrientation(objOrientation);
+}
+
+
+
+SpawnObject( "Land_Castle_Stairs", "7702.100098 17.700001 5757.750000", "-55.000000 0.000000 0.000000" );
+SpawnObject( "bldr_stone10", "7704.799805 12.152700 5762.330078", "2.343412 11.554566 11.547063" );
+SpawnObject( "bldr_stone10", "7707.839844 11.959700 5761.529785", "1.110518 5.534959 11.363613" );
+SpawnObject( "bldr_stone9", "7705.959961 12.000000 5763.959961", "1.110520 5.534960 11.363600" );
+SpawnObject( "bldr_stone8", "7708.080078 11.184900 5762.080078", "1.110520 5.534960 11.363600" );
+SpawnObject( "bldr_stone7", "7708.250000 12.000000 5762.629883", "1.110519 5.534960 11.363600" );
+SpawnObject( "bldr_stone6", "7707.129883 12.000000 5764.629883", "1.110520 5.534960 11.363600" );
+SpawnObject( "bldr_stones_sand_group_2", "7710.479980 10.900000 5763.169922", "1.110520 13.269200 21.501898" );
+SpawnObject( "bldr_stones_sand_group_3", "7709.180176 11.000000 5761.310059", "19.000000 14.237900 24.831900" );
+SpawnObject( "bldr_stones_moss_group_3", "7708.000000 11.000000 5761.310059", "1.110520 14.242199 24.834501" );
+SpawnObject( "Land_Castle_Wall2_Corner1_nolc", "7712.000000 8.300000 5769.000000", "52.999996 70.999992 -170.000015" );

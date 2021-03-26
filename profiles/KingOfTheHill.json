@@ -1,0 +1,147 @@
+{
+    "LastCapturePoint": -1,
+    "ConfigVersion": "1",
+    "Interval": 1800.0,
+    "StartDelay": 900.0,
+    "CaptureTime": 900.0,
+    "EmptyEventTimeOut": 1800.0,
+    "CleanUpTime": 600.0,
+    "PreStartDelay": 300.0,
+    "Hills": [
+        {
+            "Name": "North West Airfield",
+            "X": 4681.490234375,
+            "Y": 339.0,
+            "Z": 10333.2001953125,
+            "CaptureRadius": 20.0,
+            "EventRadius": 150.0,
+            "ZombieCount": 10,
+            "Objects": [
+                {
+                    "Item": "Land_Wreck_Uaz",
+                    "Position": [
+                        4675.490234375,
+                        339.79998779296877,
+                        10330.009765625
+                    ],
+                    "Orientation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                {
+                    "Item": "Land_Wreck_Uaz",
+                    "Position": [
+                        4685.490234375,
+                        339.79998779296877,
+                        10341.009765625
+                    ],
+                    "Orientation": [
+                        0.0,
+                        0.0,
+                        0.0
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "VMC",
+            "X": 4517.41015625,
+            "Y": 316.1653747558594,
+            "Z": 8278.7001953125,
+            "CaptureRadius": 20.0,
+            "EventRadius": 150.0,
+            "ZombieCount": 10,
+            "Objects": []
+        },
+        {
+            "Name": "Prison Island",
+            "X": 4517.41015625,
+            "Y": 316.1653747558594,
+            "Z": 8278.7001953125,
+            "CaptureRadius": 20.0,
+            "EventRadius": 150.0,
+            "ZombieCount": 10,
+            "Objects": []
+        },
+        {
+            "Name": "North East Airfield",
+            "X": 12289.599609375,
+            "Y": 140.0,
+            "Z": 12553.3603515625,
+            "CaptureRadius": 20.0,
+            "EventRadius": 150.0,
+            "ZombieCount": 10,
+            "Objects": []
+        },
+        {
+            "Name": "Zelenogorsk Military",
+            "X": 2480.849853515625,
+            "Y": 193.25210571289063,
+            "Z": 5111.97509765625,
+            "CaptureRadius": 20.0,
+            "EventRadius": 150.0,
+            "ZombieCount": 10,
+            "Objects": []
+        },
+        {
+            "Name": "Staroye Tents",
+            "X": 10432.8896484375,
+            "Y": 283.0583801269531,
+            "Z": 5961.2900390625,
+            "CaptureRadius": 20.0,
+            "EventRadius": 150.0,
+            "ZombieCount": 10,
+            "Objects": []
+        }
+    ],
+    "RewardPools": [
+        {
+            "Name": "First Pool",
+            "RewardContainer": "SeaChest",
+            "Rewards": [
+                {
+                    "Item": "M4A1",
+                    "ItemAttachments": [
+                        "M4_RISHndgrd",
+                        "M4_OEBttstck",
+                        "M68Optic"
+                    ]
+                },
+                {
+                    "Item": "PlateCarrierVest",
+                    "ItemAttachments": [
+                        "PlateCarrierHolster"
+                    ]
+                },
+                {
+                    "Item": "Mag_STANAGCoupled_30Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "Mag_STANAGCoupled_30Rnd",
+                    "ItemAttachments": []
+                },
+                {
+                    "Item": "NVGoggles",
+                    "ItemAttachments": [
+                        "Battery9V"
+                    ]
+                }
+            ]
+        }
+    ],
+    "ZombiesClassNames": [
+        "ZmbM_PatrolNormal_PautRev",
+        "ZmbM_PatrolNormal_Autumn",
+        "ZmbM_PatrolNormal_Flat",
+        "ZmbM_PatrolNormal_Summer",
+        "ZmbM_SoldierNormal",
+        "ZmbM_usSoldier_normal_Woodland",
+        "ZmbM_usSoldier_normal_Desert"
+    ],
+    "FullMapCheckTimer": 5.0,
+    "EventTickTime": 1.0,
+    "Logging": 1
+}

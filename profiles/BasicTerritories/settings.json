@@ -1,0 +1,227 @@
+{
+    "ConfigVersion": "1",
+    "WhiteList": [
+        "Trap",
+        "Paper",
+        "Fireplace",
+        "Watchtower"
+    ],
+    "ServerAdmins": [
+        "xm2NFgZo7eynNxoAhf06IrvE-g8I6Oy9fPMoMvPuZZs="
+    ],
+    "TentRadius": 6.0,
+    "TentCESpawnLifeTime": 5600.0,
+    "BuildBonusSledgeDamage": 300.0,
+    "RequireTerritory": 1,
+    "PublicPermissions": 20,
+    "MemberPermissions": 30,
+    "Notifications": 1,
+    "NoBuildZones": [
+        {
+            "X": 5503.47998046875,
+            "Z": 8214.2998046875,
+            "R": 400.0,
+            "DrawOnMap": 1
+        },
+        {
+            "X": 1215.300048828125,
+            "Z": 11841.5,
+            "R": 2000.0,
+            "DrawOnMap": 1
+        },
+        {
+            "X": 11926.0,
+            "Z": 12030.7900390625,
+            "R": 2000.0,
+            "DrawOnMap": 1
+        },
+        {
+            "X": 4403.7900390625,
+            "Z": 10746.7900390625,
+            "R": 200.0,
+            "DrawOnMap": 1
+        },
+        {
+            "X": 4828.97021484375,
+            "Z": 10838.2001953125,
+            "R": 200.0,
+            "DrawOnMap": 1
+        },
+        {
+            "X": 7302.990234375,
+            "Z": 10527.08984375,
+            "R": 250.0,
+            "DrawOnMap": 1
+        },
+        {
+            "X": 3822.889892578125,
+            "Z": 9993.6103515625,
+            "R": 500.0,
+            "DrawOnMap": 1
+        },
+        {
+            "X": 4070.340087890625,
+            "Z": 9231.8603515625,
+            "R": 200.0,
+            "DrawOnMap": 1
+        },
+        {
+            "X": 5160.97021484375,
+            "Z": 8970.2099609375,
+            "R": 300.0,
+            "DrawOnMap": 1
+        },
+        {
+            "X": 6078.75,
+            "Z": 6724.830078125,
+            "R": 400.0,
+            "DrawOnMap": 1
+        },
+        {
+            "X": 4975.75,
+            "Z": 6587.66015625,
+            "R": 300.0,
+            "DrawOnMap": 1
+        },
+        {
+            "X": 3204.669921875,
+            "Z": 7535.75,
+            "R": 300.0,
+            "DrawOnMap": 1
+        },
+        {
+            "X": 4224.66015625,
+            "Z": 6724.35009765625,
+            "R": 400.0,
+            "DrawOnMap": 1
+        },
+        {
+            "X": 3431.409912109375,
+            "Z": 6718.10009765625,
+            "R": 400.0,
+            "DrawOnMap": 1
+        },
+        {
+            "X": 5541.52001953125,
+            "Z": 6244.18017578125,
+            "R": 500.0,
+            "DrawOnMap": 1
+        },
+        {
+            "X": 5295.14013671875,
+            "Z": 7096.31005859375,
+            "R": 500.0,
+            "DrawOnMap": 1
+        },
+        {
+            "X": 4151.14013671875,
+            "Z": 6647.990234375,
+            "R": 400.0,
+            "DrawOnMap": 1
+        },
+        {
+            "X": 4319.72021484375,
+            "Z": 8079.27001953125,
+            "R": 350.0,
+            "DrawOnMap": 1
+        },
+        {
+            "X": 6264.91015625,
+            "Z": 9348.2802734375,
+            "R": 400.0,
+            "DrawOnMap": 1
+        },
+        {
+            "X": 2031.0999755859376,
+            "Z": 5982.60009765625,
+            "R": 200.0,
+            "DrawOnMap": 1
+        },
+        {
+            "X": 206.2899932861328,
+            "Z": 6959.2001953125,
+            "R": 1000.0,
+            "DrawOnMap": 1
+        },
+        {
+            "X": 4080.0,
+            "Z": 9227.2001953125,
+            "R": 300.0,
+            "DrawOnMap": 1
+        },
+        {
+            "X": 4663.7998046875,
+            "Z": 9858.099609375,
+            "R": 200.0,
+            "DrawOnMap": 1
+        },
+        {
+            "X": 1904.699951171875,
+            "Z": 12747.400390625,
+            "R": 500.0,
+            "DrawOnMap": 1
+        },
+        {
+            "X": 9470.400390625,
+            "Z": 7949.7998046875,
+            "R": 300.0,
+            "DrawOnMap": 1
+        },
+        {
+            "X": 11693.2998046875,
+            "Z": 9157.400390625,
+            "R": 500.0,
+            "DrawOnMap": 1
+        },
+        {
+            "X": 4992.22998046875,
+            "Z": 5429.85009765625,
+            "R": 300.0,
+            "DrawOnMap": 1
+        },
+        {
+            "X": 7692.93017578125,
+            "Z": 5769.169921875,
+            "R": 200.0,
+            "DrawOnMap": 1
+        },
+        {
+            "X": 4170.7998046875,
+            "Z": 6608.5,
+            "R": 200.0,
+            "DrawOnMap": 1
+        },
+        {
+            "X": 7103.5400390625,
+            "Z": 5520.240234375,
+            "R": 250.0,
+            "DrawOnMap": 1
+        },
+        {
+            "X": 4813.2900390625,
+            "Z": 10136.400390625,
+            "R": 200.0,
+            "DrawOnMap": 1
+        },
+        {
+            "X": 3774.75,
+            "Z": 8243.8701171875,
+            "R": 500.0,
+            "DrawOnMap": 1
+        }
+    ],
+    "NoBuildZoneMessage": "Você não pode construir aqui esta é uma área proibida!",
+    "TerritoryConflictMessage": "Você não pode construir tão perto deste território!",
+    "WithinTerritoryWarning": "Você não pode construir tão perto de um território inimigo!",
+    "DeSpawnWarningMessage": "Você está construindo fora de um território, $ITEMNAME$ sumirá em $LIFETIME$ sem um território.",
+    "BuildPartWarningMessage": "Desculpe! você não tem permissão para construir nesta área.",
+    "DismantleWarningMessage": "Desculpe! você não consegue desmontar nada tão perto de uma bandeira asteada",
+    "LowerFlagWarningMessage": "Desculpe! você não tem permissão para recolher a bandeira neste território",
+    "TerritoryRequiredWarningMessage": "Desculpe! você precisa criar um território para conseguir construir!",
+    "FlagRefreshFrequency": 432000,
+    "KitLifeTimes": {
+        "watchtowerkit": 3888000,
+        "fencekit": 3888000,
+        "msp_": 3888000
+    }
+}

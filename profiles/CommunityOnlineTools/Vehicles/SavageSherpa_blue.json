@@ -1,0 +1,12 @@
+{
+    "VehicleName": "SavageSherpa_blue",
+    "DisplayName": "SavageSherpa_blue",
+    "Parts": [
+        "SavageSNO_RearBag",
+        "SavageSNO_RearBag",
+        "CarBattery",
+        "SparkPlug",
+        "HeadlightH7",
+        "HeadlightH7"
+    ]
+}

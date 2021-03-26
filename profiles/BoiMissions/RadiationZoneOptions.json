@@ -1,0 +1,10 @@
+{
+    "Version": 1.0,
+    "RequiresWalkieTalkieForMessages": 0,
+    "DamageSpawnedVehiclesInMission": 1,
+    "IndestructibleVehicles": 0,
+    "VehicleCollisionDamageRatio": 0.0,
+    "RadiationResistanceInBuilding": 0.0,
+    "SecureReachedSkill": 1,
+    "AffectSkillAfterDead": 0
+}

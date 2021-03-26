@@ -1,0 +1,111 @@
+{
+    "m_Enable": 0,
+    "m_Health": 75,
+    "m_Groups": [
+        {
+            "m_Steam": [
+                "76561198076214822"
+            ],
+            "m_Description": "example",
+            "m_Equip": {
+                "m_Vest": [],
+                "m_Shirt": [
+                    "TShirt_Black"
+                ],
+                "m_Belt": [],
+                "m_Pants": [
+                    "Jeans_Black"
+                ],
+                "m_Bag": [],
+                "m_Hat": [],
+                "m_Mask": [],
+                "m_Glasses": [],
+                "m_Glove": [],
+                "m_Shoes": [
+                    "AthleticShoes_Black"
+                ],
+                "m_Armband": [],
+                "m_Others": []
+            }
+        }
+    ],
+    "m_Everyone": {
+        "m_Vest": [],
+        "m_Shirt": [
+            "TShirt_Beige",
+            "TShirt_Black",
+            "TShirt_Blue",
+            "TShirt_Green",
+            "TShirt_OrangeWhiteStripes",
+            "TShirt_Red",
+            "TShirt_RedBlackStripes",
+            "TShirt_White",
+            "TShirt_Grey"
+        ],
+        "m_Belt": [],
+        "m_Pants": [
+            "Jeans_Black",
+            "Jeans_Blue",
+            "Jeans_Brown",
+            "Jeans_Green",
+            "Jeans_Grey",
+            "Jeans_BlueDark"
+        ],
+        "m_Bag": [],
+        "m_Hat": [
+            "BeanieHat_Beige",
+            "BeanieHat_Black",
+            "BeanieHat_Blue",
+            "BeanieHat_Brown",
+            "BeanieHat_Green",
+            "BeanieHat_Grey",
+            "BeanieHat_Pink",
+            "BeanieHat_Red"
+        ],
+        "m_Mask": [],
+        "m_Glasses": [],
+        "m_Glove": [],
+        "m_Shoes": [
+            "AthleticShoes_Blue",
+            "AthleticShoes_Black",
+            "AthleticShoes_Brown",
+            "AthleticShoes_Green",
+            "AthleticShoes_Grey"
+        ],
+        "m_Armband": [],
+        "m_Others": []
+    },
+    "m_Items": [
+        {
+            "m_Item": "KitchenKnife",
+            "m_QuickBar": 1,
+            "m_Quantity": 0,
+            "m_Attachments": []
+        },
+        {
+            "m_Item": "Rag",
+            "m_QuickBar": 2,
+            "m_Quantity": 4,
+            "m_Attachments": []
+        },
+        {
+            "m_Item": "Flashlight",
+            "m_QuickBar": 3,
+            "m_Quantity": 0,
+            "m_Attachments": [
+                "Battery9V"
+            ]
+        }
+    ],
+    "m_Food": [
+        "Apple",
+        "Pear",
+        "Plum"
+    ],
+    "m_Drink": [
+        "SodaCan_Pipsi",
+        "SodaCan_Cola",
+        "SodaCan_Spite",
+        "SodaCan_Kvass"
+    ]
+}

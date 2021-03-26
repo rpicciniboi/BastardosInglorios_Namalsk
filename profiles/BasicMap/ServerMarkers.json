@@ -1,0 +1,59 @@
+[
+    {
+        "Name": "NAMALSK TRADER",
+        "Pos": [
+            5503.489746,
+			118.373428,
+			8214.305664
+        ],
+        "Icon": "BasicMap\\gui\\images\\marker.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+            255,
+            255,
+            0
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "CanEdit": 0,
+        "Group": "BASICMAP_SERVER"
+    },
+    {
+        "Name": "NAMALSK CAÇADOR",
+        "Pos": [
+            7692.930176, 
+			54.726700, 
+			5769.169922
+        ],
+        "Icon": "BasicMap\\gui\\images\\marker.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+            255,
+            255,
+            0
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "CanEdit": 0,
+        "Group": "BASICMAP_SERVER"
+    },
+    {
+        "Name": "NAMALSK BLACK MARKET",
+        "Pos": [
+            153.600000, 
+			50.551000, 
+			6961.399902
+        ],
+        "Icon": "BasicMap\\gui\\images\\marker.paa",
+        "Is3DMarker": 1,
+        "Colour": [
+            255,
+            255,
+            0
+        ],
+        "Alpha": 240,
+        "HideOnPanel": 0,
+        "CanEdit": 0,
+        "Group": "BASICMAP_SERVER"
+    }
+]

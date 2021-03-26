@@ -1,0 +1,19 @@
+void SpawnObject(string objType, vector objPos, vector objOrientation)
+{
+	Object m_Building = Object.Cast(GetGame().CreateObject(objType, objPos));
+	if (m_Building == null) return;
+	m_Building.SetAffectPathgraph(true, false);
+	GetGame().GetCallQueue(CALL_CATEGORY_SYSTEM).CallLater(GetGame().UpdatePathgraphRegionByObject, 100, false, m_Building);
+	m_Building.SetPosition(objPos);
+	m_Building.SetOrientation(objOrientation);
+}
+
+
+
+SpawnObject( "ZT_Vending_Vehicles_rusty", "215.160004 3.028860 6970.240234", "-72.000000 0.183345 -0.091674" );
+SpawnObject( "bldr_kitchen_chair_a", "216.261002 1.995530 6969.839844", "0.000000 0.000000 0.000000" );
+SpawnObject( "Land_RoadCone", "222.063995 1.998870 6975.020020", "0.000000 0.000000 0.000000" );
+SpawnObject( "Land_RoadCone", "228.078003 1.998870 6974.720215", "0.000000 0.000000 0.000000" );
+SpawnObject( "Land_RoadCone", "221.720001 1.998870 6970.120117", "0.000000 0.000000 0.000000" );
+SpawnObject( "Land_RoadCone", "228.018005 1.998870 6969.930176", "0.000000 0.000000 0.000000" );
+SpawnObject( "TrafficCone_Prop", "224.720001 2.000000 6972.339844", "0.000000 0.000000 0.000000" );

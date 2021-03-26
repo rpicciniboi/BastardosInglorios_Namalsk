@@ -1,0 +1,33 @@
+{	
+	"active":1,	
+	"chance":1,
+	"nominal":1,
+	"restock":0,
+	"timeOffset":0,
+	"lifeTime":0,
+	"missionRespawn":0,
+	"timeRespawn":0,
+	"missionSafeSpawnRadius":0,
+	"safeRadius":0,
+	"distanceRadius":0,
+	"cleanRadius":9500,
+	"alertMessage":0,
+	"sendInfo":0,	
+	"missionDescription":"",
+	"textInfo":"AllMap",	
+	"showInMap":0,
+	"mapTitle":"AllMap",	
+	"position": [
+		[7750,0,7750,0]
+		],
+	"positionOffset":0,		
+	"radiusOfRadiation":[9500,9500],
+	"strengthOfRadiation":[1.2,1.2],
+	"enableSineFunction":1,
+	"strengthOfRadiationOffset":0.8,
+	"enableDeactivation":0,
+	"visualEffect":0,
+	"loot":[],
+	"vehicles":[],
+	"structures":[]	
+}
