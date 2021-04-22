@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events>
+
+	<!-- Mutant Spawn -->
+	<event name="InfectedSkat12">
+        <waves>0</waves>
+        <nominal>0</nominal>
+        <min>1</min>
+        <max>1</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" sec_spawner="0"/>
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="1" lootmin="1" max="0" min="0" type="DS_Mutant_Soldier4"/>
+        </children>
+    </event>
+	<event name="InfectedAthena1_1">
+        <waves>0</waves>
+        <nominal>0</nominal>
+        <min>1</min>
+        <max>1</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" sec_spawner="0"/>
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="1" lootmin="1" max="0" min="0" type="DS_Mutant_Scientist"/>
+        </children>
+    </event>
+	<event name="InfectedAthena1_2">
+        <waves>0</waves>
+        <nominal>0</nominal>
+        <min>1</min>
+        <max>1</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" sec_spawner="0"/>
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="1" lootmin="1" max="0" min="0" type="DS_Mutant_Soldier1"/>
+        </children>
+    </event>
+	<event name="InfectedAthena2_1">
+        <waves>0</waves>
+        <nominal>0</nominal>
+        <min>1</min>
+        <max>1</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" sec_spawner="0"/>
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="1" lootmin="1" max="0" min="0" type="DS_Mutant_Scientist"/>
+        </children>
+    </event>
+	<event name="InfectedAthena2_2">
+        <waves>0</waves>
+        <nominal>0</nominal>
+        <min>1</min>
+        <max>1</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" sec_spawner="0"/>
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="1" lootmin="1" max="0" min="0" type="DS_Mutant_Scientist"/>
+        </children>
+    </event>
+	<event name="InfectedAthena2_3">
+        <waves>0</waves>
+        <nominal>0</nominal>
+        <min>1</min>
+        <max>1</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" sec_spawner="0"/>
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="1" lootmin="1" max="0" min="0" type="DS_Mutant_Soldier5"/>
+        </children>
+    </event>
+	<event name="InfectedAthena2_4">
+        <waves>0</waves>
+        <nominal>0</nominal>
+        <min>1</min>
+        <max>1</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" sec_spawner="0"/>
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="1" lootmin="1" max="0" min="0" type="DS_Mutant_Soldier2"/>
+        </children>
+    </event>
+	<event name="InfectedAthena2_5">
+        <waves>0</waves>
+        <nominal>0</nominal>
+        <min>1</min>
+        <max>1</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" sec_spawner="0"/>
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="1" lootmin="1" max="0" min="0" type="DS_Mutant_Soldier3"/>
+        </children>
+    </event>
+	<event name="InfectedAthena2_6">
+        <waves>0</waves>
+        <nominal>0</nominal>
+        <min>1</min>
+        <max>1</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" sec_spawner="0"/>
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="1" lootmin="1" max="0" min="0" type="DS_Mutant_Soldier6"/>
+        </children>
+    </event>
+	<event name="InfectedAthenaResearch1">
+        <waves>0</waves>
+        <nominal>0</nominal>
+        <min>1</min>
+        <max>1</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" sec_spawner="0"/>
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="1" lootmin="1" max="0" min="0" type="DS_Mutant_Soldier3"/>
+        </children>
+    </event>
+	<event name="InfectedAthenaResearch2">
+        <waves>0</waves>
+        <nominal>0</nominal>
+        <min>1</min>
+        <max>1</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" sec_spawner="0"/>
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="1" lootmin="1" max="0" min="0" type="DS_Mutant_Scientist"/>
+        </children>
+    </event>
+	<event name="InfectedAthenaResearch3">
+        <waves>0</waves>
+        <nominal>0</nominal>
+        <min>1</min>
+        <max>1</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" sec_spawner="0"/>
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="1" lootmin="1" max="0" min="0" type="DS_Mutant_Soldier3"/>
+        </children>
+    </event>
+	<event name="InfectedTFBeringOutpost_1">
+        <waves>0</waves>
+        <nominal>0</nominal>
+        <min>1</min>
+        <max>1</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" sec_spawner="0"/>
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="1" lootmin="1" max="0" min="0" type="DS_Mutant_Soldier6"/>
+        </children>
+    </event>
+	<event name="InfectedTFBeringOutpost_2">
+        <waves>0</waves>
+        <nominal>0</nominal>
+        <min>1</min>
+        <max>1</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" sec_spawner="0"/>
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="1" lootmin="1" max="0" min="0" type="DS_Mutant_Scientist"/>
+        </children>
+    </event>
+	<event name="InfectedTaraHospital_1">
+        <waves>0</waves>
+        <nominal>0</nominal>
+        <min>1</min>
+        <max>1</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" sec_spawner="0"/>
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="1" lootmin="1" max="0" min="0" type="DS_Mutant_Scientist"/>
+        </children>
+    </event>
+	<event name="InfectedTaraHospital_2">
+        <waves>0</waves>
+        <nominal>0</nominal>
+        <min>1</min>
+        <max>1</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" sec_spawner="0"/>
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="1" lootmin="1" max="0" min="0" type="DS_Mutant_Scientist"/>
+        </children>
+    </event>
+	<event name="InfectedTaraHospital_3">
+        <waves>0</waves>
+        <nominal>0</nominal>
+        <min>1</min>
+        <max>1</max>
+        <lifetime>3</lifetime>
+        <restock>0</restock>
+        <saferadius>100</saferadius>
+        <distanceradius>50</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" sec_spawner="0"/>
+        <position>player</position>
+        <limit>custom</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="1" lootmin="1" max="0" min="0" type="DS_Mutant_Scientist"/>
+        </children>
+    </event>
+</events>

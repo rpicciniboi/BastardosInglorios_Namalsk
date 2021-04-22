@@ -4,10 +4,144 @@
     "vehicleData": [
         {
             "indexID": 0,
+            "VehiclesHash": 490879621,
+            "GarageID": 1,
+            "EngineHealth": 3498.203857421875,
+            "FuelAmmount": 74.99800109863281,
+            "VehiclesName": "CrSk_Land_Rover_Defender_110_UN",
+            "SpawnPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "SpawnOri": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "m_Cargo": [
+                {
+                    "ItemName": "SparkPlug",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 20.0
+                },
+                {
+                    "ItemName": "CarBattery",
+                    "VehicleCargoAmmount": 50,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "CarRadiator",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 250.0
+                },
+                {
+                    "ItemName": "Defender110_koleso",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 600.0
+                },
+                {
+                    "ItemName": "Defender110_koleso",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 600.0
+                },
+                {
+                    "ItemName": "Defender110_koleso",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 600.0
+                },
+                {
+                    "ItemName": "Defender110_koleso",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 600.0
+                },
+                {
+                    "ItemName": "Defender110_koleso",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 600.0
+                },
+                {
+                    "ItemName": "Defender110_dver_1_1_UN",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 500.0
+                },
+                {
+                    "ItemName": "Defender110_dver_2_1_UN",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 500.0
+                },
+                {
+                    "ItemName": "Defender110_dver_1_2_UN",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 500.0
+                },
+                {
+                    "ItemName": "Defender110_dver_2_2_UN",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 500.0
+                },
+                {
+                    "ItemName": "Defender110_kapot_UN",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 600.0
+                },
+                {
+                    "ItemName": "Defender110_bagazhnik_UN",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 500.0
+                },
+                {
+                    "ItemName": "SeaChest",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 600.0
+                },
+                {
+                    "ItemName": "Shovel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "TOPVest_black",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 1450.0
+                },
+                {
+                    "ItemName": "CamoNet",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 120.0
+                },
+                {
+                    "ItemName": "KOD_M82A2_Suppressor_Grey",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 8.0
+                }
+            ]
+        },
+        {
+            "indexID": 1,
             "VehiclesHash": 1064206045,
             "GarageID": 1,
             "EngineHealth": 3500.0,
-            "FuelAmmount": 74.9994888305664,
+            "FuelAmmount": 74.99942016601563,
             "VehiclesName": "CrSk_Land_Rover_Defender_110_Green",
             "SpawnPos": [
                 0.0,
@@ -106,13 +240,25 @@
                 },
                 {
                     "ItemName": "Barrel_Red",
-                    "VehicleCargoAmmount": 0,
+                    "VehicleCargoAmmount": 7,
                     "KeyHash": 0,
                     "Health": 1300.0
                 },
                 {
-                    "ItemName": "Barrel_Blue",
+                    "ItemName": "VSSK",
                     "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 1250.0
+                },
+                {
+                    "ItemName": "KOD_SCARH",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Barrel_Blue",
+                    "VehicleCargoAmmount": 7,
                     "KeyHash": 0,
                     "Health": 1300.0
                 },
@@ -417,10 +563,10 @@
                     "Health": 100.0
                 },
                 {
-                    "ItemName": "dzn_apsi",
+                    "ItemName": "NailBox",
                     "VehicleCargoAmmount": 0,
                     "KeyHash": 0,
-                    "Health": 200.0
+                    "Health": 80.0
                 },
                 {
                     "ItemName": "Chopper_FloorKit",
@@ -441,19 +587,25 @@
                     "Health": 100.0
                 },
                 {
-                    "ItemName": "NailBox",
+                    "ItemName": "L96A1",
                     "VehicleCargoAmmount": 0,
                     "KeyHash": 0,
-                    "Health": 80.0
+                    "Health": 3300.0
+                },
+                {
+                    "ItemName": "m82",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 3350.0
                 }
             ]
         },
         {
-            "indexID": 1,
+            "indexID": 2,
             "VehiclesHash": 633097081,
             "GarageID": 1,
             "EngineHealth": 3500.0,
-            "FuelAmmount": 74.99887084960938,
+            "FuelAmmount": 74.99913024902344,
             "VehiclesName": "CrSk_Land_Rover_Defender_110_UN",
             "SpawnPos": [
                 0.0,
@@ -551,10 +703,16 @@
                     "Health": 500.0
                 },
                 {
-                    "ItemName": "KOD_RSASS_Black",
-                    "VehicleCargoAmmount": 0,
+                    "ItemName": "CanisterGasoline",
+                    "VehicleCargoAmmount": 20000,
                     "KeyHash": 0,
                     "Health": 300.0
+                },
+                {
+                    "ItemName": "L85A2_NoGrip",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 22000.0
                 },
                 {
                     "ItemName": "dzn_Canteen",
@@ -563,58 +721,106 @@
                     "Health": 100.0
                 },
                 {
+                    "ItemName": "BUISOptic",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Mag_L85A2_30Rnd",
+                    "VehicleCargoAmmount": 16,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "PortableGasStove",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Pot",
+                    "VehicleCargoAmmount": 1942,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "LargeGasCanister",
+                    "VehicleCargoAmmount": 20,
+                    "KeyHash": 0,
+                    "Health": 20.0
+                },
+                {
+                    "ItemName": "L96A1_Optic",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Hatchet",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 150.0
+                },
+                {
+                    "ItemName": "L85A2_NoGrip",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 22000.0
+                },
+                {
+                    "ItemName": "Mag_L85A2_30Rnd",
+                    "VehicleCargoAmmount": 19,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "AD_NFATACR",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "ImprovisedSuppressor",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 5.0
+                },
+                {
+                    "ItemName": "PBS4_Suppressor",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 77.0
+                },
+                {
+                    "ItemName": "Hatchet",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 150.0
+                },
+                {
+                    "ItemName": "Mag_SCAR_H_40Rnd",
+                    "VehicleCargoAmmount": 40,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
                     "ItemName": "BearPelt",
                     "VehicleCargoAmmount": 0,
                     "KeyHash": 0,
                     "Health": 200.0
                 },
                 {
-                    "ItemName": "BearSteakMeat",
-                    "VehicleCargoAmmount": 148,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "BearSteakMeat",
-                    "VehicleCargoAmmount": 174,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "BearSteakMeat",
-                    "VehicleCargoAmmount": 147,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "BearSteakMeat",
-                    "VehicleCargoAmmount": 179,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "Fabric",
-                    "VehicleCargoAmmount": 4,
+                    "ItemName": "BearPelt",
+                    "VehicleCargoAmmount": 0,
                     "KeyHash": 0,
                     "Health": 200.0
                 },
                 {
-                    "ItemName": "BearSteakMeat",
-                    "VehicleCargoAmmount": 131,
+                    "ItemName": "Nail",
+                    "VehicleCargoAmmount": 84,
                     "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "Mag_PKP_200Rnd",
-                    "VehicleCargoAmmount": 64,
-                    "KeyHash": 0,
-                    "Health": 100.0
-                },
-                {
-                    "ItemName": "BearSteakMeat",
-                    "VehicleCargoAmmount": 176,
-                    "KeyHash": 0,
-                    "Health": 50.0
+                    "Health": 80.0
                 },
                 {
                     "ItemName": "BearSteakMeat",
@@ -623,34 +829,22 @@
                     "Health": 50.0
                 },
                 {
-                    "ItemName": "BearPelt",
-                    "VehicleCargoAmmount": 0,
-                    "KeyHash": 0,
-                    "Health": 200.0
-                },
-                {
-                    "ItemName": "BearPelt",
-                    "VehicleCargoAmmount": 0,
-                    "KeyHash": 0,
-                    "Health": 200.0
-                },
-                {
-                    "ItemName": "Lard",
-                    "VehicleCargoAmmount": 169,
+                    "ItemName": "Mag_VSSK_5Rnd",
+                    "VehicleCargoAmmount": 3,
                     "KeyHash": 0,
                     "Health": 100.0
                 },
                 {
                     "ItemName": "BearSteakMeat",
-                    "VehicleCargoAmmount": 169,
+                    "VehicleCargoAmmount": 154,
                     "KeyHash": 0,
                     "Health": 50.0
                 },
                 {
-                    "ItemName": "BearSteakMeat",
-                    "VehicleCargoAmmount": 149,
+                    "ItemName": "Lard",
+                    "VehicleCargoAmmount": 188,
                     "KeyHash": 0,
-                    "Health": 50.0
+                    "Health": 100.0
                 },
                 {
                     "ItemName": "BearSteakMeat",
@@ -660,97 +854,25 @@
                 },
                 {
                     "ItemName": "BearSteakMeat",
-                    "VehicleCargoAmmount": 160,
+                    "VehicleCargoAmmount": 176,
                     "KeyHash": 0,
                     "Health": 50.0
                 },
                 {
                     "ItemName": "BearSteakMeat",
-                    "VehicleCargoAmmount": 126,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "Lard",
-                    "VehicleCargoAmmount": 116,
-                    "KeyHash": 0,
-                    "Health": 100.0
-                },
-                {
-                    "ItemName": "BearSteakMeat",
-                    "VehicleCargoAmmount": 127,
+                    "VehicleCargoAmmount": 175,
                     "KeyHash": 0,
                     "Health": 50.0
                 },
                 {
                     "ItemName": "BearSteakMeat",
-                    "VehicleCargoAmmount": 171,
+                    "VehicleCargoAmmount": 165,
                     "KeyHash": 0,
                     "Health": 50.0
                 },
                 {
                     "ItemName": "BearSteakMeat",
-                    "VehicleCargoAmmount": 148,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "BearSteakMeat",
-                    "VehicleCargoAmmount": 162,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "BearSteakMeat",
-                    "VehicleCargoAmmount": 180,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "m82",
-                    "VehicleCargoAmmount": 0,
-                    "KeyHash": 0,
-                    "Health": 3350.0
-                },
-                {
-                    "ItemName": "BearSteakMeat",
-                    "VehicleCargoAmmount": 129,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "Lard",
-                    "VehicleCargoAmmount": 45,
-                    "KeyHash": 0,
-                    "Health": 100.0
-                },
-                {
-                    "ItemName": "Lard",
-                    "VehicleCargoAmmount": 144,
-                    "KeyHash": 0,
-                    "Health": 100.0
-                },
-                {
-                    "ItemName": "BearSteakMeat",
-                    "VehicleCargoAmmount": 137,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "BearSteakMeat",
-                    "VehicleCargoAmmount": 157,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "BearSteakMeat",
-                    "VehicleCargoAmmount": 128,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "BearSteakMeat",
-                    "VehicleCargoAmmount": 173,
+                    "VehicleCargoAmmount": 179,
                     "KeyHash": 0,
                     "Health": 50.0
                 },
@@ -762,283 +884,91 @@
                 },
                 {
                     "ItemName": "BearSteakMeat",
-                    "VehicleCargoAmmount": 137,
+                    "VehicleCargoAmmount": 157,
                     "KeyHash": 0,
                     "Health": 50.0
                 },
                 {
-                    "ItemName": "BearSteakMeat",
-                    "VehicleCargoAmmount": 131,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "BearSteakMeat",
-                    "VehicleCargoAmmount": 153,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "BearSteakMeat",
-                    "VehicleCargoAmmount": 178,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "BearSteakMeat",
-                    "VehicleCargoAmmount": 131,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "BearSteakMeat",
-                    "VehicleCargoAmmount": 126,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "BearSteakMeat",
-                    "VehicleCargoAmmount": 132,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "BearSteakMeat",
-                    "VehicleCargoAmmount": 178,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "BearSteakMeat",
-                    "VehicleCargoAmmount": 162,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "BearPelt",
+                    "ItemName": "KOD_Suppressor_308",
                     "VehicleCargoAmmount": 0,
                     "KeyHash": 0,
-                    "Health": 200.0
+                    "Health": 4.0
                 },
                 {
-                    "ItemName": "FP4_HuntingTOP_Bag_BLACK",
+                    "ItemName": "CamoNetWinter",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 120.0
+                },
+                {
+                    "ItemName": "STG_44",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 1300.0
+                },
+                {
+                    "ItemName": "Mag_STG44_30Rnd",
+                    "VehicleCargoAmmount": 21,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "9A_91",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 3250.0
+                },
+                {
+                    "ItemName": "9A_91_Butt_Plastik",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 400.0
+                },
+                {
+                    "ItemName": "KOD_Suppressor_308",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 4.0
+                },
+                {
+                    "ItemName": "VehicleKeyYellow",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 633097081,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "Mag_l96a1_5rnd",
+                    "VehicleCargoAmmount": 5,
+                    "KeyHash": 0,
+                    "Health": 100.0
+                },
+                {
+                    "ItemName": "FalconOptic",
                     "VehicleCargoAmmount": 0,
                     "KeyHash": 0,
                     "Health": 100.0
                 },
                 {
-                    "ItemName": "PortableGasStove",
-                    "VehicleCargoAmmount": 0,
+                    "ItemName": "Mag_l96a1_5rnd",
+                    "VehicleCargoAmmount": 2,
                     "KeyHash": 0,
                     "Health": 100.0
                 },
                 {
-                    "ItemName": "LargeGasCanister",
-                    "VehicleCargoAmmount": 20,
-                    "KeyHash": 0,
-                    "Health": 20.0
-                },
-                {
-                    "ItemName": "Pot",
-                    "VehicleCargoAmmount": 1976,
-                    "KeyHash": 0,
-                    "Health": 200.0
-                },
-                {
-                    "ItemName": "WolfSteakMeat",
-                    "VehicleCargoAmmount": 103,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "WolfSteakMeat",
-                    "VehicleCargoAmmount": 110,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "WolfSteakMeat",
-                    "VehicleCargoAmmount": 131,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "WolfSteakMeat",
-                    "VehicleCargoAmmount": 147,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "Lard",
-                    "VehicleCargoAmmount": 150,
+                    "ItemName": "Mag_l96a1_5rnd",
+                    "VehicleCargoAmmount": 5,
                     "KeyHash": 0,
                     "Health": 100.0
                 },
                 {
-                    "ItemName": "Hatchet",
+                    "ItemName": "L96A1",
                     "VehicleCargoAmmount": 0,
                     "KeyHash": 0,
-                    "Health": 150.0
+                    "Health": 3300.0
                 },
                 {
-                    "ItemName": "Moeda_200",
-                    "VehicleCargoAmmount": 7,
-                    "KeyHash": 0,
-                    "Health": 100.0
-                },
-                {
-                    "ItemName": "WolfSteakMeat",
-                    "VehicleCargoAmmount": 76,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "WolfSteakMeat",
-                    "VehicleCargoAmmount": 106,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "WolfSteakMeat",
-                    "VehicleCargoAmmount": 89,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "WolfSteakMeat",
-                    "VehicleCargoAmmount": 118,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "WolfSteakMeat",
-                    "VehicleCargoAmmount": 82,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "WolfSteakMeat",
-                    "VehicleCargoAmmount": 99,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "WolfSteakMeat",
-                    "VehicleCargoAmmount": 110,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "WolfSteakMeat",
-                    "VehicleCargoAmmount": 92,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "WolfSteakMeat",
-                    "VehicleCargoAmmount": 92,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "WolfSteakMeat",
-                    "VehicleCargoAmmount": 80,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "Nail",
-                    "VehicleCargoAmmount": 84,
-                    "KeyHash": 0,
-                    "Health": 80.0
-                },
-                {
-                    "ItemName": "KOD_DVL10M1",
+                    "ItemName": "AD_NFATACR",
                     "VehicleCargoAmmount": 0,
-                    "KeyHash": 0,
-                    "Health": 300.0
-                },
-                {
-                    "ItemName": "PBS4_Suppressor",
-                    "VehicleCargoAmmount": 0,
-                    "KeyHash": 0,
-                    "Health": 77.0
-                },
-                {
-                    "ItemName": "WolfSteakMeat",
-                    "VehicleCargoAmmount": 87,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "WolfSteakMeat",
-                    "VehicleCargoAmmount": 104,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "WolfSteakMeat",
-                    "VehicleCargoAmmount": 121,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "Lard",
-                    "VehicleCargoAmmount": 150,
-                    "KeyHash": 0,
-                    "Health": 100.0
-                },
-                {
-                    "ItemName": "WolfSteakMeat",
-                    "VehicleCargoAmmount": 102,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "WolfSteakMeat",
-                    "VehicleCargoAmmount": 98,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "WolfSteakMeat",
-                    "VehicleCargoAmmount": 128,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "WolfSteakMeat",
-                    "VehicleCargoAmmount": 96,
-                    "KeyHash": 0,
-                    "Health": 50.0
-                },
-                {
-                    "ItemName": "VSSK",
-                    "VehicleCargoAmmount": 0,
-                    "KeyHash": 0,
-                    "Health": 1247.9400634765626
-                },
-                {
-                    "ItemName": "MilitaryGear_GhillieGunWrap_Splinter_Dark",
-                    "VehicleCargoAmmount": 0,
-                    "KeyHash": 0,
-                    "Health": 88.99519348144531
-                },
-                {
-                    "ItemName": "Mag_VSSK_5Rnd",
-                    "VehicleCargoAmmount": 3,
-                    "KeyHash": 0,
-                    "Health": 97.89273071289063
-                },
-                {
-                    "ItemName": "AD_DHF5",
-                    "VehicleCargoAmmount": 0,
-                    "KeyHash": 0,
-                    "Health": 100.0
-                },
-                {
-                    "ItemName": "Ammo_12_7x55",
-                    "VehicleCargoAmmount": 11,
                     "KeyHash": 0,
                     "Health": 100.0
                 }

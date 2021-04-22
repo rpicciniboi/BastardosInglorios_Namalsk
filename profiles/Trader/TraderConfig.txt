@@ -27,7 +27,6 @@
 // | -- Trader Config                                                                                            |
 // +-------------------------------------------------------------------------------------------------------------+
 
-
 <Trader> 1.COMIDA
 <Category> ANIMAIS
       ================================| CARNE |===================================================================================,V,         -1,        -1
@@ -569,12 +568,11 @@
       Camonet,                                                           *,        200,         80
 
       ================================| CONSTRUÇÃO |==============================================================================,V,         -1,        -1
-      Nail,                                                              1,         -1,         20
+      Nail,                                                              1,         -1,         70
       Rope,                                                              *,        200,         80
       Chopper_Bracket,                                                   *,        250,        100
       Chopper_Hinge,                                                     *,        250,        100
       MetalWire,                                                         *,         -1,        200
-      Nail,                                                             10,         -1,        200
       BarbedWire,                                                        *,        700,        280
       Chopper_DoorKit,                                                   *,         -1,        400
       Chopper_FloorKit,                                                  *,         -1,        400
@@ -586,8 +584,9 @@
       Chopper_Wall_HalfKit,                                              *,         -1,        400
       Chopper_WallKit,                                                   *,         -1,        400
       Chopper_WindowKit,                                                 *,         -1,        400
+      Nail,                                                             10,         -1,        700
       MetalPlate,                                                       10,         -1,       2000
-      NailBox,                                                           *,         -1,       5000
+      NailBox,                                                           *,         -1,       4900
 
       ================================| OUTROS |==================================================================================,V,         -1,        -1
       HescoBox,                                                          *,         -1,        260
@@ -875,7 +874,6 @@
       TOZ34_obrub,                                                       W,       2500,       1000
       FP4_SPAS12,                                                        W,       3000,       1200
       FP4_USAS12,                                                        W,       3000,       1200
-      KOD_ASH12,                                                         W,       3000,       1200
       Mp153Shotgun,                                                      W,       4500,       1800
       Mp153Shotgun_black,                                                W,       4500,       1800
       R870,                                                              W,       5000,       2000
@@ -917,7 +915,7 @@
       svt40,                                                             W,       5500,       2200
 
       ================================| 6.FUZIL DE ASSALTO |======================================================================,V,         -1,        -1
-      sg552_Base,                                                        W,        500,        200
+      sg552,                                                             W,        500,        200
       SR1M,                                                              W,        700,        280
       FP4_Groza,                                                         W,        900,        360
       AS_VAL,                                                            W,       1200,        480
@@ -959,7 +957,6 @@
       FP4_AK101_Lime,                                                    W,       5000,       2000
       FP4_AK101_Purpure,                                                 W,       5000,       2000
       FP4_AK101_red,                                                     W,       5000,       2000
-      KOD_VR80,                                                          W,       5000,       2000
       RPD,                                                               W,       5000,       2000
       KOD_AR15Skeleton,                                                  W,       5500,       2200
       KOD_FAMAS,                                                         W,       5500,       2200
@@ -1020,6 +1017,7 @@
       L96A1_tactical,                                                    W,         -1,      40000
       M98B,                                                              W,         -1,      40000
       M200_Intervention,                                                 W,         -1,      60000
+      KOD_ASH12,                                                         W,         -1,      80000
       KOD_AX50,                                                          W,         -1,      80000
       KOD_Beowulf,                                                       W,         -1,      80000
       KOD_M82A2_Black,                                                   W,         -1,      80000
@@ -1138,7 +1136,6 @@
       Mag_KOD_VR80_30Rnd,                                                *,       1200,        480
       Mag_Saiga_8Rnd,                                                    *,       1200,        480
       Mag_Saiga_Drum20Rnd,                                               *,       1400,        560
-      Mag_KOD_ASH12_20Rnd,                                               *,       1600,        640
       Mag_KOD_DrumShotgun_30rnd,                                         *,       1700,        680
       Mag_vepr_35Rnd,                                                    *,       1800,        720
 
@@ -1166,9 +1163,9 @@
 
       ================================| 5.RIFLE SEMI-AUTOMÁTICO |=================================================================,V,         -1,        -1
       Mag_Ruger1022_15Rnd,                                               *,       1000,        400
+      Mag_KOD_SKS_20rnd,                                                 *,       1400,        560
       Mag_psg_5Rnd,                                                      *,       1400,        560
       Mag_Ruger1022_30Rnd,                                               *,       1400,        560
-      Mag_SKS_20rnd,                                                     *,       1400,        560
       mag_svt_10rnd,                                                     *,       1400,        560
       Mag_KOD_RSASS_20Rnd,                                               *,       6000,       2400
 
@@ -1238,6 +1235,7 @@
       Mag_m200_7rnds,                                                    *,       5000,       2000
       Mag_KOD_M82A2_10Rnd,                                               *,       6000,       2400
       Mag_VSSK_5Rnd,                                                     *,       8000,       3200
+      Mag_KOD_ASH12_20Rnd,                                               *,      12000,       4800
 
 <Category> CARREGADORES (VAZIO)
       ================================| 1.PISTOLAS / REVÓLVERES |=================================================================,V,         -1,        -1
@@ -1270,7 +1268,6 @@
       Mag_KOD_VR80_30Rnd,                                                M,        600,        240
       Mag_Saiga_8Rnd,                                                    M,        600,        240
       Mag_Saiga_Drum20Rnd,                                               M,        700,        280
-      Mag_KOD_ASH12_20Rnd,                                               M,        800,        320
       Mag_KOD_DrumShotgun_30rnd,                                         M,        850,        340
       Mag_vepr_35Rnd,                                                    M,        900,        360
 
@@ -1298,9 +1295,9 @@
 
       ================================| 5.RIFLE SEMI-AUTOMÁTICO |=================================================================,V,         -1,        -1
       Mag_Ruger1022_15Rnd,                                               M,        500,        200
+      Mag_KOD_SKS_20rnd,                                                 M,        700,        280
       Mag_psg_5Rnd,                                                      M,        700,        280
       Mag_Ruger1022_30Rnd,                                               M,        700,        280
-      Mag_SKS_20rnd,                                                     M,        700,        280
       mag_svt_10rnd,                                                     M,        700,        280
       Mag_KOD_RSASS_20Rnd,                                               M,       3000,       1200
 
@@ -1370,6 +1367,7 @@
       Mag_KOD_M82A2_10Rnd,                                               M,       3000,       1200
       Mag_m82_10Rnd,                                                     M,       3000,       1200
       Mag_VSSK_5Rnd,                                                     M,       4000,       1600
+      Mag_KOD_ASH12_20Rnd,                                               M,       6000,       2400
 
 <Category> EXPLOSIVOS
       F1Grenade,                                                         *,         -1,        400
@@ -3522,12 +3520,11 @@
       Camonet,                                                           *,        180,        140
 
       ================================| CONSTRUÇÃO |==============================================================================,V,         -1,        -1
-      Nail,                                                              1,        180,         50
+      Nail,                                                              1,      649,8,         -1
       Rope,                                                              *,        180,        140
       Chopper_Bracket,                                                   *,        225,        175
       Chopper_Hinge,                                                     *,        225,        175
       MetalWire,                                                         *,       1800,        500
-      Nail,                                                             10,       1800,        500
       BarbedWire,                                                        *,        630,        490
       Chopper_DoorKit,                                                   *,         -1,        700
       Chopper_FloorKit,                                                  *,         -1,        700
@@ -3539,8 +3536,9 @@
       Chopper_Wall_HalfKit,                                              *,         -1,        700
       Chopper_WallKit,                                                   *,         -1,        700
       Chopper_WindowKit,                                                 *,         -1,        700
+      Nail,                                                             10,     6499,8,         -1
       MetalPlate,                                                       10,       4500,       3500
-      NailBox,                                                           *,      45000,      12500
+      NailBox,                                                           *,    45499,5,         -1
 
       ================================| OUTROS |==================================================================================,V,         -1,        -1
       HescoBox,                                                          *,        585,        455
@@ -3828,7 +3826,6 @@
       TOZ34_obrub,                                                       W,       2250,       1750
       FP4_SPAS12,                                                        W,       2700,       2100
       FP4_USAS12,                                                        W,       2700,       2100
-      KOD_ASH12,                                                         W,       2700,       2100
       Mp153Shotgun,                                                      W,       4050,       3150
       Mp153Shotgun_black,                                                W,       4050,       3150
       R870,                                                              W,       4500,       3500
@@ -3870,7 +3867,7 @@
       svt40,                                                             W,       4950,       3850
 
       ================================| 6.FUZIL DE ASSALTO |======================================================================,V,         -1,        -1
-      sg552_Base,                                                        W,        450,        350
+      sg552,                                                             W,        450,        350
       SR1M,                                                              W,        630,        490
       FP4_Groza,                                                         W,        810,        630
       AS_VAL,                                                            W,       1080,        840
@@ -3912,7 +3909,6 @@
       FP4_AK101_Lime,                                                    W,       4500,       3500
       FP4_AK101_Purpure,                                                 W,       4500,       3500
       FP4_AK101_red,                                                     W,       4500,       3500
-      KOD_VR80,                                                          W,       4500,       3500
       RPD,                                                               W,       4500,       3500
       KOD_AR15Skeleton,                                                  W,       4950,       3850
       KOD_FAMAS,                                                         W,       4950,       3850
@@ -3973,6 +3969,7 @@
       L96A1_tactical,                                                    W,         -1,      70000
       M98B,                                                              W,         -1,      70000
       M200_Intervention,                                                 W,         -1,     105000
+      KOD_ASH12,                                                         W,         -1,     140000
       KOD_AX50,                                                          W,         -1,     140000
       KOD_Beowulf,                                                       W,         -1,     140000
       KOD_M82A2_Black,                                                   W,         -1,     140000
@@ -4091,7 +4088,6 @@
       Mag_KOD_VR80_30Rnd,                                                *,       1080,        840
       Mag_Saiga_8Rnd,                                                    *,       1080,        840
       Mag_Saiga_Drum20Rnd,                                               *,       1260,        980
-      Mag_KOD_ASH12_20Rnd,                                               *,       1440,       1120
       Mag_KOD_DrumShotgun_30rnd,                                         *,       1530,       1190
       Mag_vepr_35Rnd,                                                    *,       1620,       1260
 
@@ -4119,9 +4115,9 @@
 
       ================================| 5.RIFLE SEMI-AUTOMÁTICO |=================================================================,V,         -1,        -1
       Mag_Ruger1022_15Rnd,                                               *,        900,        700
+      Mag_KOD_SKS_20rnd,                                                 *,       1260,        980
       Mag_psg_5Rnd,                                                      *,       1260,        980
       Mag_Ruger1022_30Rnd,                                               *,       1260,        980
-      Mag_SKS_20rnd,                                                     *,       1260,        980
       mag_svt_10rnd,                                                     *,       1260,        980
       Mag_KOD_RSASS_20Rnd,                                               *,       5400,       4200
 
@@ -4191,6 +4187,7 @@
       Mag_m200_7rnds,                                                    *,       4500,       3500
       Mag_KOD_M82A2_10Rnd,                                               *,       5400,       4200
       Mag_VSSK_5Rnd,                                                     *,       7200,       5600
+      Mag_KOD_ASH12_20Rnd,                                               *,      10800,       8400
 
 <Category> CARREGADORES (VAZIO)
       ================================| 1.PISTOLAS / REVÓLVERES |=================================================================,V,         -1,        -1
@@ -4223,7 +4220,6 @@
       Mag_KOD_VR80_30Rnd,                                                M,        540,        420
       Mag_Saiga_8Rnd,                                                    M,        540,        420
       Mag_Saiga_Drum20Rnd,                                               M,        630,        490
-      Mag_KOD_ASH12_20Rnd,                                               M,        720,        560
       Mag_KOD_DrumShotgun_30rnd,                                         M,        765,        595
       Mag_vepr_35Rnd,                                                    M,        810,        630
 
@@ -4251,9 +4247,9 @@
 
       ================================| 5.RIFLE SEMI-AUTOMÁTICO |=================================================================,V,         -1,        -1
       Mag_Ruger1022_15Rnd,                                               M,        450,        350
+      Mag_KOD_SKS_20rnd,                                                 M,        630,        490
       Mag_psg_5Rnd,                                                      M,        630,        490
       Mag_Ruger1022_30Rnd,                                               M,        630,        490
-      Mag_SKS_20rnd,                                                     M,        630,        490
       mag_svt_10rnd,                                                     M,        630,        490
       Mag_KOD_RSASS_20Rnd,                                               M,       2700,       2100
 
@@ -4323,6 +4319,7 @@
       Mag_KOD_M82A2_10Rnd,                                               M,       2700,       2100
       Mag_m82_10Rnd,                                                     M,       2700,       2100
       Mag_VSSK_5Rnd,                                                     M,       3600,       2800
+      Mag_KOD_ASH12_20Rnd,                                               M,       5400,       4200
 
 <Category> EXPLOSIVOS
       F1Grenade,                                                         *,        900,        700

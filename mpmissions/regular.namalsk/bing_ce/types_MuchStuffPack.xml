@@ -3,7 +3,7 @@
 	<!-- Melee -->
     <type name="Msp_VorpalKnife">
         <nominal>1</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>43200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -16,7 +16,7 @@
     </type>
     <type name="Msp_BeanBasher">
         <nominal>1</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>43200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -29,7 +29,7 @@
     </type>
     <type name="Msp_BlunderBat">
         <nominal>1</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>43200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -43,7 +43,7 @@
     </type>
     <type name="Msp_BassAxe">
         <nominal>1</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>43200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -57,7 +57,7 @@
     </type>
     <type name="Msp_PipeAxe">
         <nominal>1</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>43200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -69,7 +69,7 @@
     </type>
     <type name="Msp_GoodNightBat">
         <nominal>1</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>43200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -81,7 +81,7 @@
     </type>
     <type name="Msp_PlainBat">
         <nominal>1</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>43200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -94,7 +94,7 @@
     </type>
     <type name="Msp_PlainBat_Blue">
         <nominal>1</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>43200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -107,7 +107,7 @@
     </type>
     <type name="Msp_PlainBat_Black">
         <nominal>1</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>43200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -137,8 +137,8 @@
     </type>
     <type name="Msp_Greenhouse_Kit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -156,8 +156,8 @@
     </type>
     <type name="Msp_GreenhouseWood_Kit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -510,7 +510,7 @@
     </type>
     <type name="Msp_WaterBarrel_Valve_Faucet">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -524,7 +524,7 @@
     </type>
     <type name="Msp_Basket_Rectangular">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -538,7 +538,7 @@
     </type>
     <type name="Msp_Basket_Wicker">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -552,7 +552,7 @@
     </type>
     <type name="Msp_Safe">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -567,7 +567,7 @@
 	<!--
     <type name="Msp_Mailbox">
         <nominal>3</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -582,7 +582,7 @@
 	-->
     <type name="Msp_TrashCan">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -706,8 +706,8 @@
 	<!-- Kits Buildings -->
     <type name="Msp_Gazebo_Kit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -724,8 +724,8 @@
     </type>
     <type name="Msp_StoneFireplace_Kit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -743,8 +743,8 @@
 	<!-- Kits Fridges -->
     <type name="Msp_BlueFridge_Kit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -761,8 +761,8 @@
     </type>
     <type name="Msp_RetroBlueFridge_Kit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -779,8 +779,8 @@
     </type>
     <type name="Msp_RustyFridge_Kit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -797,8 +797,8 @@
     </type>
     <type name="Msp_Blue50sFridge_Kit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -815,8 +815,8 @@
     </type>
     <type name="Msp_50sFridge_Kit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -833,8 +833,8 @@
     </type>
     <type name="Msp_Freezer_Kit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -852,8 +852,8 @@
 	<!-- Kits Storage -->
     <type name="Msp_FishingRodsRack_Kit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -870,8 +870,8 @@
     </type>
     <type name="Msp_Bookcase_Kit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -888,8 +888,8 @@
     </type>
     <type name="Msp_GunCabinet_Kit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -906,8 +906,8 @@
     </type>
     <type name="Msp_DoubleGunRack_Kit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -924,8 +924,8 @@
     </type>
     <type name="Msp_GunRack_Kit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -942,8 +942,8 @@
     </type>
     <type name="Msp_MilitaryLocker_Kit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -960,8 +960,8 @@
     </type>
     <type name="Msp_StorageBox_Kit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -978,8 +978,8 @@
     </type>
     <type name="Msp_ToolsBench_Blue_Kit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -996,8 +996,8 @@
     </type>
     <type name="Msp_ToolsBench_Grey_Kit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1014,8 +1014,8 @@
     </type>
     <type name="Msp_ToolsBench_Red_Kit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1032,8 +1032,8 @@
     </type>
     <type name="Msp_Locker_Kit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1050,8 +1050,8 @@
     </type>
     <type name="Msp_SoloLocker_Kit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1068,8 +1068,8 @@
     </type>
     <type name="Msp_SoloLocker_Black_Kit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1086,8 +1086,8 @@
     </type>
     <type name="Msp_SoloLocker_White_Kit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1104,8 +1104,8 @@
     </type>
     <type name="Msp_SoloLocker_Green_Kit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1122,8 +1122,8 @@
     </type>
     <type name="Msp_SoloLocker_Red_Kit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1140,8 +1140,8 @@
     </type>
     <type name="Msp_SoloLocker_RedRusty_Kit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1158,8 +1158,8 @@
     </type>
     <type name="Msp_SoloLocker_Yellow_Kit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1176,8 +1176,8 @@
     </type>
     <type name="Msp_SoloLocker_YellowRusty_Kit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1194,8 +1194,8 @@
     </type>
     <type name="Msp_OldLocker_Kit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1212,8 +1212,8 @@
     </type>
     <type name="Msp_OldLocker_Green_Kit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1230,8 +1230,8 @@
     </type>
     <type name="Msp_FourDoor_MilitaryLocker_Kit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1248,8 +1248,8 @@
     </type>
     <type name="Msp_FourDoor_MilitaryLocker_Green_Kit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1266,8 +1266,8 @@
     </type>
     <type name="Msp_WoodenGunRack_Kit">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1338,8 +1338,8 @@
     </type>
     <type name="Msp_BeachChair_Kit">
         <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1485,8 +1485,8 @@
     </type>
     <type name="Msp_KiddiePool_Kit">
         <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1502,8 +1502,8 @@
     </type>
     <type name="Msp_KiddiePool_Pink_Kit">
         <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1519,8 +1519,8 @@
     </type>
     <type name="Msp_KiddiePool_Yellow_Kit">
         <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1536,8 +1536,8 @@
     </type>
     <type name="Msp_KiddiePool_Large_Kit">
         <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1553,8 +1553,8 @@
     </type>
     <type name="Msp_KiddiePool_Large_Pink_Kit">
         <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1570,8 +1570,8 @@
     </type>
     <type name="Msp_KiddiePool_Large_Yellow_Kit">
         <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1587,8 +1587,8 @@
     </type>
     <type name="Msp_VolleyballNet_Kit">
         <nominal>1</nominal>
-        <lifetime>7200</lifetime>
-        <restock>7200</restock>
+        <lifetime>3888000</lifetime>
+        <restock>3888000</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1604,7 +1604,7 @@
     </type>
     <type name="Msp_Water_Gun">
         <nominal>10</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
@@ -1619,7 +1619,7 @@
     </type>
     <type name="Msp_Water_Gun_Mag">
         <nominal>10</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>2</min>
         <quantmin>20</quantmin>
@@ -1652,7 +1652,7 @@
     </type>
     <type name="Msp_MedicBag_Red">
         <nominal>5</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -1665,7 +1665,7 @@
     </type>
     <type name="Msp_MedicBag_Blue">
         <nominal>5</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
@@ -1678,7 +1678,7 @@
     </type>
     <type name="Msp_MedicBag_Green">
         <nominal>5</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>

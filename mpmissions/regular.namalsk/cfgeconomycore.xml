@@ -62,6 +62,8 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<!-- <file name="types_PitBullVX.xml" type="types" />            -->
 		<!-- <file name="types_RagHummerArmored.xml" type="types" />     -->
 		<!-- <file name="types_MuchCarKey.xml" type="types" />           -->
+		<!-- ZOMBIES -->
+		<file name="types_NamalskHorror.xml" type="types" />
 		<!-- ROUPA -->
 		<file name="types_Cl0ud'sMilitaryGear.xml" type="types" />
 		<file name="types_RoupasBastardos.xml" type="types" />
@@ -82,8 +84,11 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<!-- OBJETOS -->
 		<!-- <file name="types_NaoListados.xml" type="types" />   -->
 		<!-- <file name="types_Books.xml" type="types" />         -->
+		<file name="types_Tombstone.xml" type="types" />        
 
 		<!-- SPAWNABLETYPES -->
+		<!-- ZOMBIE -->
+		<file name="spawnabletypes_NamalskHorror.xml" type="spawnabletypes" />
 		<!-- ARMAS -->
 		<file name="spawnabletypes_Fidov4Pack.xml" type="spawnabletypes" />
 		<file name="spawnabletypes_KODWeapons.xml" type="spawnabletypes" />
@@ -113,6 +118,7 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<!-- <file name="spawnabletypes_CreepyZombies.xml" type="spawnabletypes" /> -->
 
 		<!-- EVENTS -->
+		<file name="events_NamalskHorror.xml" type="events" /> 
 		<!--<file name="events_HeliCrash.xml" type="events" /> -->
 		<!-- <file name="events_Vehicles.xml" type="events" /> -->
 		<!-- <file name="events_CreepyZombies.xml" type="events" /> -->

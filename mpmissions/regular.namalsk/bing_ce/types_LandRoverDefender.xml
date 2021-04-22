@@ -32,8 +32,8 @@
     </type>
 	<type name="CrSk_Land_Rover_Defender_110_Red">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
-        <restock>1800</restock>
+        <lifetime>2592000</lifetime>
+        <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>

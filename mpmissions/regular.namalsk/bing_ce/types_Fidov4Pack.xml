@@ -962,7 +962,7 @@
         <value name="Tier1"/>
         <value name="Tier2"/>
     </type>
-	<type name="sg552_Base">
+	<type name="sg552">
         <nominal>5</nominal>
         <lifetime>10800</lifetime>
         <restock>1800</restock>

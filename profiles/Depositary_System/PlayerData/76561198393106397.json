@@ -1,0 +1,86 @@
+{
+    "m_SteamID": "76561198393106397",
+    "m_PlayerName": "PadreDoug",
+    "vehicleData": [
+        {
+            "indexID": 0,
+            "VehiclesHash": 0,
+            "GarageID": 1,
+            "EngineHealth": 2684.389892578125,
+            "FuelAmmount": 14.282514572143555,
+            "VehiclesName": "SavageSherpa_sport_black",
+            "SpawnPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "SpawnOri": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "m_Cargo": [
+                {
+                    "ItemName": "Sherpa_dummy_wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Sherpa_dummy_wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Sherpa_dummy_wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Sherpa_dummy_wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Sherpa_dummy_wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Sherpa_dummy_wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "HeadlightH7",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 10.0
+                },
+                {
+                    "ItemName": "HeadlightH7",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 10.0
+                },
+                {
+                    "ItemName": "CarBattery",
+                    "VehicleCargoAmmount": 47,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "SparkPlug",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 20.0
+                }
+            ]
+        }
+    ]
+}

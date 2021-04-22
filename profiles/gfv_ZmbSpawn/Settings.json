@@ -1,0 +1,192 @@
+{
+    "o_UpdateInterval": 1,
+    "m_ZmbSpawns": [
+        {
+            "m_Name": "InfectedSkat12 - Soldier at submarine",
+            "m_Pos": [
+                11939.0419921875,
+                2.236833095550537,
+                12026.279296875
+            ],
+            "m_TimeUntilSpawn": 0,
+            "m_TimeRespawn": 240,
+            "m_IsSpawned": 1
+        },
+        {
+            "m_Name": "InfectedAthena1_1 - Scientist in crater",
+            "m_Pos": [
+                3771.590087890625,
+                151.0,
+                8230.759765625
+            ],
+            "m_TimeUntilSpawn": 0,
+            "m_TimeRespawn": 300,
+            "m_IsSpawned": 1
+        },
+        {
+            "m_Name": "InfectedAthena1_2 - Soldier in crater",
+            "m_Pos": [
+                3774.2470703125,
+                150.63876342773438,
+                8259.9482421875
+            ],
+            "m_TimeUntilSpawn": 0,
+            "m_TimeRespawn": 300,
+            "m_IsSpawned": 1
+        },
+        {
+            "m_Name": "InfectedAthena2_1 - Scientist in server room",
+            "m_Pos": [
+                4977.75,
+                37.2599983215332,
+                6626.47998046875
+            ],
+            "m_TimeUntilSpawn": 0,
+            "m_TimeRespawn": 240,
+            "m_IsSpawned": 1
+        },
+        {
+            "m_Name": "InfectedAthena2_2 - Scientist in office",
+            "m_Pos": [
+                4995.5498046875,
+                37.38330078125,
+                6628.97998046875
+            ],
+            "m_TimeUntilSpawn": 0,
+            "m_TimeRespawn": 240,
+            "m_IsSpawned": 1
+        },
+        {
+            "m_Name": "InfectedAthena2_3 - Soldier in armory",
+            "m_Pos": [
+                4965.27001953125,
+                28.479999542236329,
+                6625.33984375
+            ],
+            "m_TimeUntilSpawn": 0,
+            "m_TimeRespawn": 240,
+            "m_IsSpawned": 1
+        },
+        {
+            "m_Name": "InfectedAthena2_4 - Soldier in armory",
+            "m_Pos": [
+                4962.06982421875,
+                28.513900756835939,
+                6608.0400390625
+            ],
+            "m_TimeUntilSpawn": 0,
+            "m_TimeRespawn": 240,
+            "m_IsSpawned": 1
+        },
+        {
+            "m_Name": "InfectedAthena2_5 - Soldier lower tunnel",
+            "m_Pos": [
+                4967.330078125,
+                22.969999313354493,
+                6633.0
+            ],
+            "m_TimeUntilSpawn": 0,
+            "m_TimeRespawn": 240,
+            "m_IsSpawned": 1
+        },
+        {
+            "m_Name": "InfectedAthena2_6 - Soldier in warehouse",
+            "m_Pos": [
+                5016.419921875,
+                42.29999923706055,
+                6628.7900390625
+            ],
+            "m_TimeUntilSpawn": 0,
+            "m_TimeRespawn": 240,
+            "m_IsSpawned": 1
+        },
+        {
+            "m_Name": "InfectedAthenaResearch1 - Soldier in Athena Research Institute",
+            "m_Pos": [
+                4301.14990234375,
+                72.75,
+                8076.169921875
+            ],
+            "m_TimeUntilSpawn": 0,
+            "m_TimeRespawn": 300,
+            "m_IsSpawned": 1
+        },
+        {
+            "m_Name": "InfectedAthenaResearch2 - Scientist in Athena Research Institute",
+            "m_Pos": [
+                4324.31982421875,
+                85.43190002441406,
+                8084.64990234375
+            ],
+            "m_TimeUntilSpawn": 0,
+            "m_TimeRespawn": 300,
+            "m_IsSpawned": 1
+        },
+        {
+            "m_Name": "InfectedAthenaResearch3 - Soldier in underground facility",
+            "m_Pos": [
+                4227.06005859375,
+                67.93319702148438,
+                8214.5703125
+            ],
+            "m_TimeUntilSpawn": 0,
+            "m_TimeRespawn": 240,
+            "m_IsSpawned": 1
+        },
+        {
+            "m_Name": "InfectedTFBeringOutpost_1 - Soldier at TF Bering Outpost",
+            "m_Pos": [
+                1202.6700439453126,
+                2.588200092315674,
+                11857.2001953125
+            ],
+            "m_TimeUntilSpawn": 0,
+            "m_TimeRespawn": 240,
+            "m_IsSpawned": 1
+        },
+        {
+            "m_Name": "InfectedTFBeringOutpost_2 - Scientist at TF Bering Outpost",
+            "m_Pos": [
+                1198.9100341796876,
+                2.53629994392395,
+                11849.2001953125
+            ],
+            "m_TimeUntilSpawn": 0,
+            "m_TimeRespawn": 240,
+            "m_IsSpawned": 1
+        },
+        {
+            "m_Name": "InfectedTaraHospital_1 - Scientist in a Tara Hospital",
+            "m_Pos": [
+                7263.10009765625,
+                88.37349700927735,
+                7988.97021484375
+            ],
+            "m_TimeUntilSpawn": 0,
+            "m_TimeRespawn": 300,
+            "m_IsSpawned": 1
+        },
+        {
+            "m_Name": "InfectedTaraHospital_2 - Scientist in a Tara Hospital",
+            "m_Pos": [
+                7283.5,
+                90.33110046386719,
+                7991.58984375
+            ],
+            "m_TimeUntilSpawn": 0,
+            "m_TimeRespawn": 300,
+            "m_IsSpawned": 1
+        },
+        {
+            "m_Name": "InfectedTaraHospital_3 - Scientist in a Tara Hospital",
+            "m_Pos": [
+                7326.490234375,
+                89.63500213623047,
+                8008.759765625
+            ],
+            "m_TimeUntilSpawn": 0,
+            "m_TimeRespawn": 300,
+            "m_IsSpawned": 1
+        }
+    ]
+}

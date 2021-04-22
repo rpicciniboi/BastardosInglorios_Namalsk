@@ -1,5 +1,92 @@
 {
     "m_SteamID": "76561198047628520",
     "m_PlayerName": "Warfighter",
-    "vehicleData": []
+    "vehicleData": [
+        {
+            "indexID": 0,
+            "VehiclesHash": 0,
+            "GarageID": 1,
+            "EngineHealth": 2745.5263671875,
+            "FuelAmmount": 19.997119903564454,
+            "VehiclesName": "SavageSherpa_sport_brown",
+            "SpawnPos": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "SpawnOri": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "m_Cargo": [
+                {
+                    "ItemName": "Sherpa_dummy_wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Sherpa_dummy_wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Sherpa_dummy_wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Sherpa_dummy_wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Sherpa_dummy_wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "Sherpa_dummy_wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "HeadlightH7",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 10.0
+                },
+                {
+                    "ItemName": "HeadlightH7",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 10.0
+                },
+                {
+                    "ItemName": "CarBattery",
+                    "VehicleCargoAmmount": 50,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                },
+                {
+                    "ItemName": "SparkPlug",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 20.0
+                },
+                {
+                    "ItemName": "Sherpa_dummy_wheel",
+                    "VehicleCargoAmmount": 0,
+                    "KeyHash": 0,
+                    "Health": 200.0
+                }
+            ]
+        }
+    ]
 }

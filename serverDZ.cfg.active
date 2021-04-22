@@ -43,3 +43,5 @@ disableCrosshair = 0;
 speedhackDetection = 0;
 TentCanBePlaceAnywhereLevel = 0;
 logFile = "serverconsole.log";
+TombstoneLifetime = 1800000; 
+EnableDeathMarkers = 1; 

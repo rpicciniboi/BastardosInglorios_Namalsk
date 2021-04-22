@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+    <damage min="0.3" max="0.7" />
+
+	<!--   DS_Mutant_Soldier_Base -->
+	<type name="DS_Mutant_Soldier_Base">
+		<cargo chance="0.30">
+			<item name="CombatKnife" chance="1" />
+		</cargo>
+		<cargo chance="0.50">
+			<item name="GasMask" chance="1" />
+		</cargo>
+		<cargo chance="0.50">
+			<item name="BandageDressing" chance="1" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="Rangefinder" chance="1" />
+		</cargo>
+		<cargo chance="0.35">
+			<item name="Flashlight" chance="1" />
+		</cargo>
+		<cargo chance="0.30">
+			<item name="Battery9V" chance="1" />
+		</cargo>
+		<cargo chance="0.15">
+			<item name="Battery9V" chance="1" />
+		</cargo>
+		<cargo chance="0.05">
+			<item name="Battery9V" chance="1" />
+		</cargo>
+		<cargo chance="0.50">
+			<item name="Handcuffs" chance="1" />
+		</cargo>
+		<cargo chance="0.15">
+			<item name="Canteen" chance="1" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="Rice" chance="1" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="TacticalBaconCan" chance="1" />
+		</cargo>
+		<cargo chance="0.10">
+			<item name="PersonalRadio" chance="1" />
+		</cargo>
+		<cargo chance="0.40">
+			<item name="AmmoBox_556x45_20Rnd" chance="1" />
+		</cargo>
+		<cargo chance="0.20">
+			<item name="AmmoBox_556x45_20Rnd" chance="1" />
+		</cargo>
+		<cargo chance="0.10">
+			<item name="NVGHeadstrap" chance="1" />
+		</cargo>
+		<cargo chance="0.01">
+			<item name="NVGoggles" chance="1" />
+		</cargo>
+		<cargo chance="0.20">
+			<item name="M4_RISHndgrd" chance="1" />
+		</cargo>
+		<cargo chance="0.20">
+			<item name="M4_CQBBttstck" chance="1" />
+		</cargo>
+		<cargo chance="0.15">
+			<item name="M9A1_Bayonet" chance="1" />
+		</cargo>
+		<cargo chance="0.05">
+			<item name="M4_Suppressor" chance="1" />
+		</cargo>
+		<cargo chance="0.20">
+			<item name="ACOGOptic" chance="1" />
+		</cargo>
+		<cargo chance="0.03">
+			<item name="M4A1" chance="1" />
+		</cargo>
+		<cargo chance="0.15">
+			<item name="Mag_STANAG_30Rnd" chance="1" />
+		</cargo>
+		<cargo chance="0.05">
+			<item name="Mag_STANAG_30Rnd" chance="1" />
+		</cargo>
+		<cargo chance="0.01">
+			<item name="Mag_STANAG_30Rnd" chance="1" />
+		</cargo>
+		<cargo chance="0.03">
+			<item name="Mag_STANAGCoupled_30Rnd" chance="1" />
+		</cargo>
+		<cargo chance="0.05">
+			<item name="FNX45" chance="1" />
+		</cargo>
+		<cargo chance="0.10">
+			<item name="Mag_FNX45_15Rnd" chance="1" />
+		</cargo>
+		<cargo chance="0.05">
+			<item name="Mag_FNX45_15Rnd" chance="1" />
+		</cargo>
+		<cargo chance="0.20">
+			<item name="AmmoBox_45ACP_25rnd" chance="1" />
+		</cargo>
+		<cargo chance="0.05">
+			<item name="AmmoBox_45ACP_25rnd" chance="1" />
+		</cargo>	
+		<cargo chance="0.05">
+			<item name="WeaponCleaningKit" chance="1" />
+		</cargo>	
+	</type>
+	
+	
+	<!--   DS_Mutant_Scientist_Base -->
+	<type name="DS_Mutant_Scientist_Base">
+		<cargo chance="0.20">
+			<item name="PainkillerTablets" chance="1" />
+		</cargo>
+		<cargo chance="0.10">
+			<item name="PainkillerTablets" chance="1" />
+		</cargo>
+		<cargo chance="0.20">
+			<item name="Morphine" chance="1" />
+		</cargo>
+		<cargo chance="0.10">
+			<item name="Morphine" chance="1" />
+		</cargo>
+		<cargo chance="0.20">
+			<item name="Epinephrine" chance="1" />
+		</cargo>
+		<cargo chance="0.10">
+			<item name="Epinephrine" chance="1" />
+		</cargo>
+		<cargo chance="0.50">
+			<item name="BandageDressing" chance="1" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="BandageDressing" chance="1" />
+		</cargo>
+		<cargo chance="0.15">
+			<item name="VitaminBottle" chance="1" />
+		</cargo>
+		<cargo chance="0.20">
+			<item name="CharcoalTablets" chance="1" />
+		</cargo>
+		<cargo chance="0.15">
+			<item name="TetracyclineAntibiotics" chance="1" />
+		</cargo>
+		<cargo chance="0.07">
+			<item name="TetracyclineAntibiotics" chance="1" />
+		</cargo>
+		<cargo chance="0.35">
+			<item name="Wrench" chance="1" />
+		</cargo>
+		<cargo chance="0.35">
+			<item name="Hammer" chance="1" />
+		</cargo>
+		<cargo chance="0.01">
+			<item name="dzn_apsi" chance="1" />
+		</cargo>
+		<cargo chance="0.35">
+			<item name="Screwdriver" chance="1" />
+		</cargo>
+		<cargo chance="0.30">
+			<item name="ElectronicRepairKit" chance="1" />
+		</cargo>
+		<cargo chance="0.30">
+			<item name="EpoxyPutty" chance="1" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="WaterBottle" chance="1" />
+		</cargo>
+		<cargo chance="0.10">
+			<item name="MakarovIJ70" chance="1" />
+		</cargo>
+		<cargo chance="0.50">
+			<item name="AmmoBox_380_35rnd" chance="1" />
+		</cargo>
+		<cargo chance="0.30">
+			<item name="DuctTape" chance="1" />
+		</cargo>		
+	</type>
+</spawnabletypes>
